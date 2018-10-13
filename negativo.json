@@ -1,0 +1,8344 @@
+{
+    "palavras": [
+        {
+            "palavra": "aborrecente"
+        },
+        {
+            "palavra": "anacrônico"
+        },
+        {
+            "palavra": "besta"
+        },
+        {
+            "palavra": "bizarro"
+        },
+        {
+            "palavra": "bobo"
+        },
+        {
+            "palavra": "burro"
+        },
+        {
+            "palavra": "cansativo"
+        },
+        {
+            "palavra": "chato"
+        },
+        {
+            "palavra": "chocante"
+        },
+        {
+            "palavra": "chulo"
+        },
+        {
+            "palavra": "clichê"
+        },
+        {
+            "palavra": "confuso"
+        },
+        {
+            "palavra": "decepcionante"
+        },
+        {
+            "palavra": "defeituoso"
+        },
+        {
+            "palavra": "deplorável"
+        },
+        {
+            "palavra": "depressivo"
+        },
+        {
+            "palavra": "deprimente"
+        },
+        {
+            "palavra": "desagradável"
+        },
+        {
+            "palavra": "desconexo"
+        },
+        {
+            "palavra": "desgastante"
+        },
+        {
+            "palavra": "desinteressante"
+        },
+        {
+            "palavra": "desnecessário"
+        },
+        {
+            "palavra": "desprezível"
+        },
+        {
+            "palavra": "difícil"
+        },
+        {
+            "palavra": "dispensável"
+        },
+        {
+            "palavra": "doentio"
+        },
+        {
+            "palavra": "egoísta"
+        },
+        {
+            "palavra": "enfadonho"
+        },
+        {
+            "palavra": "enjoado"
+        },
+        {
+            "palavra": "enjoativo"
+        },
+        {
+            "palavra": "entediante"
+        },
+        {
+            "palavra": "esdrúxulo"
+        },
+        {
+            "palavra": "estereotipado"
+        },
+        {
+            "palavra": "estranho"
+        },
+        {
+            "palavra": "falso"
+        },
+        {
+            "palavra": "fraco"
+        },
+        {
+            "palavra": "frio"
+        },
+        {
+            "palavra": "frustrante"
+        },
+        {
+            "palavra": "fútil"
+        },
+        {
+            "palavra": "horrível"
+        },
+        {
+            "palavra": "horroroza"
+        },
+        {
+            "palavra": "idiota"
+        },
+        {
+            "palavra": "idiotice"
+        },
+        {
+            "palavra": "imaturo"
+        },
+        {
+            "palavra": "impaciente"
+        },
+        {
+            "palavra": "incompreensível"
+        },
+        {
+            "palavra": "inconsistente"
+        },
+        {
+            "palavra": "ingênuo"
+        },
+        {
+            "palavra": "injustificável"
+        },
+        {
+            "palavra": "insuportável"
+        },
+        {
+            "palavra": "interminável"
+        },
+        {
+            "palavra": "inútil"
+        },
+        {
+            "palavra": "irritante"
+        },
+        {
+            "palavra": "lamentável"
+        },
+        {
+            "palavra": "maçante"
+        },
+        {
+            "palavra": "machista"
+        },
+        {
+            "palavra": "mal"
+        },
+        {
+            "palavra": "manjado"
+        },
+        {
+            "palavra": "mau"
+        },
+        {
+            "palavra": "mediano"
+        },
+        {
+            "palavra": "médio"
+        },
+        {
+            "palavra": "meloso"
+        },
+        {
+            "palavra": "mero"
+        },
+        {
+            "palavra": "modinha"
+        },
+        {
+            "palavra": "monótono"
+        },
+        {
+            "palavra": "morno"
+        },
+        {
+            "palavra": "negativo"
+        },
+        {
+            "palavra": "normal"
+        },
+        {
+            "palavra": "obsessivo"
+        },
+        {
+            "palavra": "óbvio"
+        },
+        {
+            "palavra": "oco"
+        },
+        {
+            "palavra": "opressivo"
+        },
+        {
+            "palavra": "paranóico"
+        },
+        {
+            "palavra": "patético"
+        },
+        {
+            "palavra": "pesaroso"
+        },
+        {
+            "palavra": "péssimo"
+        },
+        {
+            "palavra": "piegas"
+        },
+        {
+            "palavra": "piorar"
+        },
+        {
+            "palavra": "plana"
+        },
+        {
+            "palavra": "pobre"
+        },
+        {
+            "palavra": "pomposo"
+        },
+        {
+            "palavra": "preguiçoso"
+        },
+        {
+            "palavra": "previsível"
+        },
+        {
+            "palavra": "puritano"
+        },
+        {
+            "palavra": "raso"
+        },
+        {
+            "palavra": "razoável"
+        },
+        {
+            "palavra": "reacionário"
+        },
+        {
+            "palavra": "repetitivo"
+        },
+        {
+            "palavra": "repulsivo"
+        },
+        {
+            "palavra": "revoltante"
+        },
+        {
+            "palavra": "ridículo"
+        },
+        {
+            "palavra": "ruim"
+        },
+        {
+            "palavra": "simplista"
+        },
+        {
+            "palavra": "sofrível"
+        },
+        {
+            "palavra": "superficial"
+        },
+        {
+            "palavra": "surreal"
+        },
+        {
+            "palavra": "tédio"
+        },
+        {
+            "palavra": "tedioso"
+        },
+        {
+            "palavra": "tenda"
+        },
+        {
+            "palavra": "tongo"
+        },
+        {
+            "palavra": "tosco"
+        },
+        {
+            "palavra": "triste"
+        },
+        {
+            "palavra": "vazio"
+        },
+        {
+            "palavra": "violento"
+        },
+        {
+            "palavra": "volúvel"
+        },
+        {
+            "palavra": "estático"
+        },
+        {
+            "palavra": "idêntico"
+        },
+        {
+            "palavra": "lento"
+        },
+        {
+            "palavra": "linear"
+        },
+        {
+            "palavra": "óbvio"
+        },
+        {
+            "palavra": "água com açúcar"
+        },
+        {
+            "palavra": "água-com-açúcar"
+        },
+        {
+            "palavra": "cabeça-dura"
+        },
+        {
+            "palavra": "carregar nas tintas"
+        },
+        {
+            "palavra": "dar náuseas"
+        },
+        {
+            "palavra": "dar raiva"
+        },
+        {
+            "palavra": "dar sono"
+        },
+        {
+            "palavra": "deixar a desejar"
+        },
+        {
+            "palavra": "embrulhar o estômago"
+        },
+        {
+            "palavra": "esperar mais"
+        },
+        {
+            "palavra": "forçar a barra"
+        },
+        {
+            "palavra": "mala sem alça"
+        },
+        {
+            "palavra": "melhor esquecer"
+        },
+        {
+            "palavra": "não"
+        },
+        {
+            "palavra": "não aturar"
+        },
+        {
+            "palavra": "não engolir"
+        },
+        {
+            "palavra": "não prestar"
+        },
+        {
+            "palavra": "nao se enxergar"
+        },
+        {
+            "palavra": "perder o fôlego"
+        },
+        {
+            "palavra": "picolé de chuchu"
+        },
+        {
+            "palavra": "pra criancinha"
+        },
+        {
+            "palavra": "quebrar o encanto"
+        },
+        {
+            "palavra": "sem graça"
+        },
+        {
+            "palavra": "sem sal"
+        },
+        {
+            "palavra": "sem-noção"
+        },
+        {
+            "palavra": "ser um balde de água fria"
+        },
+        {
+            "palavra": "ser um saco "
+        },
+        {
+            "palavra": "tempo perdido"
+        },
+        {
+            "palavra": "perder tempo"
+        },
+        {
+            "palavra": "perda de tempo"
+        },
+        {
+            "palavra": "anticlímax"
+        },
+        {
+            "palavra": "besteira"
+        },
+        {
+            "palavra": "bobagem"
+        },
+        {
+            "palavra": "boçal"
+        },
+        {
+            "palavra": "bosta"
+        },
+        {
+            "palavra": "chatice"
+        },
+        {
+            "palavra": "clichê"
+        },
+        {
+            "palavra": "decepção"
+        },
+        {
+            "palavra": "defeito"
+        },
+        {
+            "palavra": "demorar"
+        },
+        {
+            "palavra": "desastre"
+        },
+        {
+            "palavra": "desconforto"
+        },
+        {
+            "palavra": "desesperança"
+        },
+        {
+            "palavra": "desgraça"
+        },
+        {
+            "palavra": "desprazer"
+        },
+        {
+            "palavra": "droga"
+        },
+        {
+            "palavra": "engano"
+        },
+        {
+            "palavra": "erro"
+        },
+        {
+            "palavra": "exagero"
+        },
+        {
+            "palavra": "exaustão"
+        },
+        {
+            "palavra": "excesso"
+        },
+        {
+            "palavra": "falhar"
+        },
+        {
+            "palavra": "falho"
+        },
+        {
+            "palavra": "falta"
+        },
+        {
+            "palavra": "furo"
+        },
+        {
+            "palavra": "imaturidade"
+        },
+        {
+            "palavra": "incômodo"
+        },
+        {
+            "palavra": "inexperiente"
+        },
+        {
+            "palavra": "lixar"
+        },
+        {
+            "palavra": "meleca"
+        },
+        {
+            "palavra": "melodrama"
+        },
+        {
+            "palavra": "melodramático"
+        },
+        {
+            "palavra": "meloso"
+        },
+        {
+            "palavra": "monótono"
+        },
+        {
+            "palavra": "mundo"
+        },
+        {
+            "palavra": "nojo"
+        },
+        {
+            "palavra": "passividade"
+        },
+        {
+            "palavra": "pena"
+        },
+        {
+            "palavra": "pieguice"
+        },
+        {
+            "palavra": "porca"
+        },
+        {
+            "palavra": "porcaria"
+        },
+        {
+            "palavra": "problema"
+        },
+        {
+            "palavra": "sacrifício"
+        },
+        {
+            "palavra": "sentimentalismo"
+        },
+        {
+            "palavra": "superficialidade"
+        },
+        {
+            "palavra": "vergonha"
+        },
+        {
+            "palavra": "abandonar"
+        },
+        {
+            "palavra": "aborrecer"
+        },
+        {
+            "palavra": "arrepender"
+        },
+        {
+            "palavra": "assustar"
+        },
+        {
+            "palavra": "aterrorizar"
+        },
+        {
+            "palavra": "atormentar"
+        },
+        {
+            "palavra": "atrapalhar"
+        },
+        {
+            "palavra": "cansar"
+        },
+        {
+            "palavra": "chocar"
+        },
+        {
+            "palavra": "complicar"
+        },
+        {
+            "palavra": "decepcionar"
+        },
+        {
+            "palavra": "deprimir"
+        },
+        {
+            "palavra": "desanimar"
+        },
+        {
+            "palavra": "desgastar"
+        },
+        {
+            "palavra": "desistir"
+        },
+        {
+            "palavra": "desmerecer"
+        },
+        {
+            "palavra": "destorcer"
+        },
+        {
+            "palavra": "detestar"
+        },
+        {
+            "palavra": "dificultar"
+        },
+        {
+            "palavra": "distorcer"
+        },
+        {
+            "palavra": "empacar"
+        },
+        {
+            "palavra": "enfraquecer"
+        },
+        {
+            "palavra": "enganar"
+        },
+        {
+            "palavra": "engolir"
+        },
+        {
+            "palavra": "errar"
+        },
+        {
+            "palavra": "estragar"
+        },
+        {
+            "palavra": "estressar"
+        },
+        {
+            "palavra": "exagerar"
+        },
+        {
+            "palavra": "faltar"
+        },
+        {
+            "palavra": "frustrar"
+        },
+        {
+            "palavra": "incomodar"
+        },
+        {
+            "palavra": "irritar"
+        },
+        {
+            "palavra": "largar"
+        },
+        {
+            "palavra": "limitar"
+        },
+        {
+            "palavra": "odiar"
+        },
+        {
+            "palavra": "pecar"
+        },
+        {
+            "palavra": "perder"
+        },
+        {
+            "palavra": "prolongar"
+        },
+        {
+            "palavra": "revoltar"
+        },
+        {
+            "palavra": "de"
+        },
+        {
+            "palavra": "sem"
+        },
+        {
+            "palavra": "tempo"
+        },
+        {
+            "palavra": "contra"
+        },
+        {
+            "palavra": "partir"
+        },
+        {
+            "palavra": "discussão"
+        },
+        {
+            "palavra": "só"
+        },
+        {
+            "palavra": "fim"
+        },
+        {
+            "palavra": "morte"
+        },
+        {
+            "palavra": "terra"
+        },
+        {
+            "palavra": "sede"
+        },
+        {
+            "palavra": "longo"
+        },
+        {
+            "palavra": "excentricidade"
+        },
+        {
+            "palavra": "estilo"
+        },
+        {
+            "palavra": "total"
+        },
+        {
+            "palavra": "mar"
+        },
+        {
+            "palavra": "aproximadamente"
+        },
+        {
+            "palavra": "criado"
+        },
+        {
+            "palavra": "usado"
+        },
+        {
+            "palavra": "problemas"
+        },
+        {
+            "palavra": "estar"
+        },
+        {
+            "palavra": "comum"
+        },
+        {
+            "palavra": "luta"
+        },
+        {
+            "palavra": "diagrama"
+        },
+        {
+            "palavra": "resultado"
+        },
+        {
+            "palavra": "alta"
+        },
+        {
+            "palavra": "divisão"
+        },
+        {
+            "palavra": "objetivo"
+        },
+        {
+            "palavra": "especialmente"
+        },
+        {
+            "palavra": "responsável"
+        },
+        {
+            "palavra": "bloqueio"
+        },
+        {
+            "palavra": "alto"
+        },
+        {
+            "palavra": "pequeno"
+        },
+        {
+            "palavra": "problema"
+        },
+        {
+            "palavra": "vice"
+        },
+        {
+            "palavra": "dado"
+        },
+        {
+            "palavra": "baixo"
+        },
+        {
+            "palavra": "morreu"
+        },
+        {
+            "palavra": "falta"
+        },
+        {
+            "palavra": "ataque"
+        },
+        {
+            "palavra": "banco"
+        },
+        {
+            "palavra": "questão"
+        },
+        {
+            "palavra": "eliminação"
+        },
+        {
+            "palavra": "atenção"
+        },
+        {
+            "palavra": "mal"
+        },
+        {
+            "palavra": "disputa"
+        },
+        {
+            "palavra": "crítica"
+        },
+        {
+            "palavra": "vão"
+        },
+        {
+            "palavra": "perda"
+        },
+        {
+            "palavra": "literatura"
+        },
+        {
+            "palavra": "conflito"
+        },
+        {
+            "palavra": "completamente"
+        },
+        {
+            "palavra": "doença"
+        },
+        {
+            "palavra": "particular"
+        },
+        {
+            "palavra": "perdeu"
+        },
+        {
+            "palavra": "objeto"
+        },
+        {
+            "palavra": "evitar"
+        },
+        {
+            "palavra": "velho"
+        },
+        {
+            "palavra": "morto"
+        },
+        {
+            "palavra": "ataques"
+        },
+        {
+            "palavra": "prisão"
+        },
+        {
+            "palavra": "queda"
+        },
+        {
+            "palavra": "porto"
+        },
+        {
+            "palavra": "possibilidade"
+        },
+        {
+            "palavra": "acidente"
+        },
+        {
+            "palavra": "enorme"
+        },
+        {
+            "palavra": "inferior"
+        },
+        {
+            "palavra": "resistência"
+        },
+        {
+            "palavra": "condição"
+        },
+        {
+            "palavra": "sofreu"
+        },
+        {
+            "palavra": "exterior"
+        },
+        {
+            "palavra": "oposição"
+        },
+        {
+            "palavra": "crise"
+        },
+        {
+            "palavra": "ficção"
+        },
+        {
+            "palavra": "complexo"
+        },
+        {
+            "palavra": "críticas"
+        },
+        {
+            "palavra": "questões"
+        },
+        {
+            "palavra": "fusão"
+        },
+        {
+            "palavra": "mortos"
+        },
+        {
+            "palavra": "corrente"
+        },
+        {
+            "palavra": "corrida"
+        },
+        {
+            "palavra": "risco"
+        },
+        {
+            "palavra": "retorno"
+        },
+        {
+            "palavra": "invasão"
+        },
+        {
+            "palavra": "golpe"
+        },
+        {
+            "palavra": "carga"
+        },
+        {
+            "palavra": "erro"
+        },
+        {
+            "palavra": "exploração"
+        },
+        {
+            "palavra": "eliminar"
+        },
+        {
+            "palavra": "dificuldades"
+        },
+        {
+            "palavra": "inimigos"
+        },
+        {
+            "palavra": "crime"
+        },
+        {
+            "palavra": "inimigo"
+        },
+        {
+            "palavra": "sítio"
+        },
+        {
+            "palavra": "limites"
+        },
+        {
+            "palavra": "perder"
+        },
+        {
+            "palavra": "matar"
+        },
+        {
+            "palavra": "diâmetro"
+        },
+        {
+            "palavra": "conflitos"
+        },
+        {
+            "palavra": "escravos"
+        },
+        {
+            "palavra": "infantil"
+        },
+        {
+            "palavra": "críticos"
+        },
+        {
+            "palavra": "mata"
+        },
+        {
+            "palavra": "parada"
+        },
+        {
+            "palavra": "tempestade"
+        },
+        {
+            "palavra": "punk"
+        },
+        {
+            "palavra": "destruição"
+        },
+        {
+            "palavra": "pena"
+        },
+        {
+            "palavra": "notoriedade"
+        },
+        {
+            "palavra": "erros"
+        },
+        {
+            "palavra": "âmbito"
+        },
+        {
+            "palavra": "responsabilidade"
+        },
+        {
+            "palavra": "dúvida"
+        },
+        {
+            "palavra": "lutar"
+        },
+        {
+            "palavra": "levado"
+        },
+        {
+            "palavra": "fluxo"
+        },
+        {
+            "palavra": "enredo"
+        },
+        {
+            "palavra": "cadeia"
+        },
+        {
+            "palavra": "posterior"
+        },
+        {
+            "palavra": "desejo"
+        },
+        {
+            "palavra": "audiência"
+        },
+        {
+            "palavra": "xadrez"
+        },
+        {
+            "palavra": "assassinato"
+        },
+        {
+            "palavra": "ausência"
+        },
+        {
+            "palavra": "caiu"
+        },
+        {
+            "palavra": "esforço"
+        },
+        {
+            "palavra": "propaganda"
+        },
+        {
+            "palavra": "medo"
+        },
+        {
+            "palavra": "reserva"
+        },
+        {
+            "palavra": "ameaça"
+        },
+        {
+            "palavra": "revolta"
+        },
+        {
+            "palavra": "crítico"
+        },
+        {
+            "palavra": "disputado"
+        },
+        {
+            "palavra": "causou"
+        },
+        {
+            "palavra": "rival"
+        },
+        {
+            "palavra": "dificuldade"
+        },
+        {
+            "palavra": "danos"
+        },
+        {
+            "palavra": "atacante"
+        },
+        {
+            "palavra": "enfrentar"
+        },
+        {
+            "palavra": "câncer"
+        },
+        {
+            "palavra": "grave"
+        },
+        {
+            "palavra": "depressão"
+        },
+        {
+            "palavra": "destruir"
+        },
+        {
+            "palavra": "tarefa"
+        },
+        {
+            "palavra": "morrer"
+        },
+        {
+            "palavra": "perdido"
+        },
+        {
+            "palavra": "atacar"
+        },
+        {
+            "palavra": "fugir"
+        },
+        {
+            "palavra": "vírus"
+        },
+        {
+            "palavra": "impedir"
+        },
+        {
+            "palavra": "disputar"
+        },
+        {
+            "palavra": "crimes"
+        },
+        {
+            "palavra": "término"
+        },
+        {
+            "palavra": "terminar"
+        },
+        {
+            "palavra": "debate"
+        },
+        {
+            "palavra": "tensão"
+        },
+        {
+            "palavra": "terror"
+        },
+        {
+            "palavra": "adversário"
+        },
+        {
+            "palavra": "morre"
+        },
+        {
+            "palavra": "pior"
+        },
+        {
+            "palavra": "argumento"
+        },
+        {
+            "palavra": "restos"
+        },
+        {
+            "palavra": "espada"
+        },
+        {
+            "palavra": "parar"
+        },
+        {
+            "palavra": "extinto"
+        },
+        {
+            "palavra": "aviso"
+        },
+        {
+            "palavra": "matriz"
+        },
+        {
+            "palavra": "dor"
+        },
+        {
+            "palavra": "ruínas"
+        },
+        {
+            "palavra": "sofre"
+        },
+        {
+            "palavra": "perde"
+        },
+        {
+            "palavra": "dúvidas"
+        },
+        {
+            "palavra": "errado"
+        },
+        {
+            "palavra": "impossível"
+        },
+        {
+            "palavra": "fabricação"
+        },
+        {
+            "palavra": "pobres"
+        },
+        {
+            "palavra": "limitado"
+        },
+        {
+            "palavra": "tirar"
+        },
+        {
+            "palavra": "sintomas"
+        },
+        {
+            "palavra": "assassinado"
+        },
+        {
+            "palavra": "trama"
+        },
+        {
+            "palavra": "escapar"
+        },
+        {
+            "palavra": "reduzir"
+        },
+        {
+            "palavra": "apagar"
+        },
+        {
+            "palavra": "entrega"
+        },
+        {
+            "palavra": "confusão"
+        },
+        {
+            "palavra": "má"
+        },
+        {
+            "palavra": "perigo"
+        },
+        {
+            "palavra": "confronto"
+        },
+        {
+            "palavra": "seca"
+        },
+        {
+            "palavra": "distante"
+        },
+        {
+            "palavra": "abandonar"
+        },
+        {
+            "palavra": "quebra"
+        },
+        {
+            "palavra": "sofrer"
+        },
+        {
+            "palavra": "explosão"
+        },
+        {
+            "palavra": "fuga"
+        },
+        {
+            "palavra": "condenado"
+        },
+        {
+            "palavra": "cair"
+        },
+        {
+            "palavra": "preocupação"
+        },
+        {
+            "palavra": "concessão"
+        },
+        {
+            "palavra": "exílio"
+        },
+        {
+            "palavra": "vilão"
+        },
+        {
+            "palavra": "pobre"
+        },
+        {
+            "palavra": "gráfico"
+        },
+        {
+            "palavra": "estrangeiro"
+        },
+        {
+            "palavra": "perseguição"
+        },
+        {
+            "palavra": "bomba"
+        },
+        {
+            "palavra": "marcar"
+        },
+        {
+            "palavra": "deserto"
+        },
+        {
+            "palavra": "discutir"
+        },
+        {
+            "palavra": "declínio"
+        },
+        {
+            "palavra": "desconhecido"
+        },
+        {
+            "palavra": "atingido"
+        },
+        {
+            "palavra": "desafio"
+        },
+        {
+            "palavra": "cerco"
+        },
+        {
+            "palavra": "lesão"
+        },
+        {
+            "palavra": "lixo"
+        },
+        {
+            "palavra": "privado"
+        },
+        {
+            "palavra": "acusações"
+        },
+        {
+            "palavra": "disputas"
+        },
+        {
+            "palavra": "mau"
+        },
+        {
+            "palavra": "largo"
+        },
+        {
+            "palavra": "falha"
+        },
+        {
+            "palavra": "parecer"
+        },
+        {
+            "palavra": "moedas"
+        },
+        {
+            "palavra": "perceber"
+        },
+        {
+            "palavra": "emissão"
+        },
+        {
+            "palavra": "aéreo"
+        },
+        {
+            "palavra": "pesado"
+        },
+        {
+            "palavra": "trio"
+        },
+        {
+            "palavra": "intenso"
+        },
+        {
+            "palavra": "pobreza"
+        },
+        {
+            "palavra": "rivalidade"
+        },
+        {
+            "palavra": "abandonado"
+        },
+        {
+            "palavra": "artificial"
+        },
+        {
+            "palavra": "suicídio"
+        },
+        {
+            "palavra": "estranho"
+        },
+        {
+            "palavra": "desconhecida"
+        },
+        {
+            "palavra": "fome"
+        },
+        {
+            "palavra": "vestígios"
+        },
+        {
+            "palavra": "oponente"
+        },
+        {
+            "palavra": "recusa"
+        },
+        {
+            "palavra": "cheio"
+        },
+        {
+            "palavra": "corrupção"
+        },
+        {
+            "palavra": "fracasso"
+        },
+        {
+            "palavra": "vencido"
+        },
+        {
+            "palavra": "postura"
+        },
+        {
+            "palavra": "escuro"
+        },
+        {
+            "palavra": "curva"
+        },
+        {
+            "palavra": "vingança"
+        },
+        {
+            "palavra": "gravidade"
+        },
+        {
+            "palavra": "experimental"
+        },
+        {
+            "palavra": "regresso"
+        },
+        {
+            "palavra": "oposto"
+        },
+        {
+            "palavra": "emergência"
+        },
+        {
+            "palavra": "sugestão"
+        },
+        {
+            "palavra": "pegar"
+        },
+        {
+            "palavra": "hard"
+        },
+        {
+            "palavra": "protestos"
+        },
+        {
+            "palavra": "colapso"
+        },
+        {
+            "palavra": "raro"
+        },
+        {
+            "palavra": "abuso"
+        },
+        {
+            "palavra": "precipitação"
+        },
+        {
+            "palavra": "acidentes"
+        },
+        {
+            "palavra": "explorar"
+        },
+        {
+            "palavra": "excesso"
+        },
+        {
+            "palavra": "portos"
+        },
+        {
+            "palavra": "ofensiva"
+        },
+        {
+            "palavra": "controvérsia"
+        },
+        {
+            "palavra": "radical"
+        },
+        {
+            "palavra": "fictício"
+        },
+        {
+            "palavra": "assalto"
+        },
+        {
+            "palavra": "choque"
+        },
+        {
+            "palavra": "estreito"
+        },
+        {
+            "palavra": "capturar"
+        },
+        {
+            "palavra": "fraco"
+        },
+        {
+            "palavra": "assassino"
+        },
+        {
+            "palavra": "compreender"
+        },
+        {
+            "palavra": "doente"
+        },
+        {
+            "palavra": "nervoso"
+        },
+        {
+            "palavra": "subir"
+        },
+        {
+            "palavra": "infecção"
+        },
+        {
+            "palavra": "mito"
+        },
+        {
+            "palavra": "censura"
+        },
+        {
+            "palavra": "invenção"
+        },
+        {
+            "palavra": "mora"
+        },
+        {
+            "palavra": "primitiva"
+        },
+        {
+            "palavra": "tanque"
+        },
+        {
+            "palavra": "repressão"
+        },
+        {
+            "palavra": "falecer"
+        },
+        {
+            "palavra": "falhas"
+        },
+        {
+            "palavra": "culpa"
+        },
+        {
+            "palavra": "monstro"
+        },
+        {
+            "palavra": "comer"
+        },
+        {
+            "palavra": "lentamente"
+        },
+        {
+            "palavra": "protesto"
+        },
+        {
+            "palavra": "ilegal"
+        },
+        {
+            "palavra": "tanques"
+        },
+        {
+            "palavra": "secreto"
+        },
+        {
+            "palavra": "perdas"
+        },
+        {
+            "palavra": "lutando"
+        },
+        {
+            "palavra": "separar"
+        },
+        {
+            "palavra": "negativo"
+        },
+        {
+            "palavra": "dragão"
+        },
+        {
+            "palavra": "acusação"
+        },
+        {
+            "palavra": "abrigar"
+        },
+        {
+            "palavra": "dívida"
+        },
+        {
+            "palavra": "proibido"
+        },
+        {
+            "palavra": "dano"
+        },
+        {
+            "palavra": "vestido"
+        },
+        {
+            "palavra": "falso"
+        },
+        {
+            "palavra": "tragédia"
+        },
+        {
+            "palavra": "síndrome"
+        },
+        {
+            "palavra": "dividir"
+        },
+        {
+            "palavra": "riscos"
+        },
+        {
+            "palavra": "impede"
+        },
+        {
+            "palavra": "rumores"
+        },
+        {
+            "palavra": "buraco"
+        },
+        {
+            "palavra": "abandono"
+        },
+        {
+            "palavra": "febre"
+        },
+        {
+            "palavra": "decadência"
+        },
+        {
+            "palavra": "ameaças"
+        },
+        {
+            "palavra": "foge"
+        },
+        {
+            "palavra": "incapaz"
+        },
+        {
+            "palavra": "ódio"
+        },
+        {
+            "palavra": "isolamento"
+        },
+        {
+            "palavra": "bater"
+        },
+        {
+            "palavra": "Punk"
+        },
+        {
+            "palavra": "caverna"
+        },
+        {
+            "palavra": "ruim"
+        },
+        {
+            "palavra": "interessado"
+        },
+        {
+            "palavra": "sofrendo"
+        },
+        {
+            "palavra": "senhora"
+        },
+        {
+            "palavra": "pau"
+        },
+        {
+            "palavra": "roubar"
+        },
+        {
+            "palavra": "lento"
+        },
+        {
+            "palavra": "traição"
+        },
+        {
+            "palavra": "dom"
+        },
+        {
+            "palavra": "dissolução"
+        },
+        {
+            "palavra": "selvagem"
+        },
+        {
+            "palavra": "death"
+        },
+        {
+            "palavra": "vazio"
+        },
+        {
+            "palavra": "suspeita"
+        },
+        {
+            "palavra": "mistério"
+        },
+        {
+            "palavra": "deficiência"
+        },
+        {
+            "palavra": "escravidão"
+        },
+        {
+            "palavra": "passe"
+        },
+        {
+            "palavra": "conspiração"
+        },
+        {
+            "palavra": "quebrar"
+        },
+        {
+            "palavra": "escândalo"
+        },
+        {
+            "palavra": "acaso"
+        },
+        {
+            "palavra": "violação"
+        },
+        {
+            "palavra": "triste"
+        },
+        {
+            "palavra": "reverter"
+        },
+        {
+            "palavra": "notório"
+        },
+        {
+            "palavra": "sofrimento"
+        },
+        {
+            "palavra": "apelo"
+        },
+        {
+            "palavra": "terrível"
+        },
+        {
+            "palavra": "caro"
+        },
+        {
+            "palavra": "misterioso"
+        },
+        {
+            "palavra": "renúncia"
+        },
+        {
+            "palavra": "vilões"
+        },
+        {
+            "palavra": "vingar"
+        },
+        {
+            "palavra": "escravo"
+        },
+        {
+            "palavra": "obrigação"
+        },
+        {
+            "palavra": "grade"
+        },
+        {
+            "palavra": "imóvel"
+        },
+        {
+            "palavra": "prisioneiro"
+        },
+        {
+            "palavra": "infelizmente"
+        },
+        {
+            "palavra": "desastre"
+        },
+        {
+            "palavra": "demônio"
+        },
+        {
+            "palavra": "massacre"
+        },
+        {
+            "palavra": "greve"
+        },
+        {
+            "palavra": "pó"
+        },
+        {
+            "palavra": "bloqueios"
+        },
+        {
+            "palavra": "raiva"
+        },
+        {
+            "palavra": "cortar"
+        },
+        {
+            "palavra": "exclusão"
+        },
+        {
+            "palavra": "afastar"
+        },
+        {
+            "palavra": "limitações"
+        },
+        {
+            "palavra": "desculpas"
+        },
+        {
+            "palavra": "primitivo"
+        },
+        {
+            "palavra": "anarquista"
+        },
+        {
+            "palavra": "violento"
+        },
+        {
+            "palavra": "manipulação"
+        },
+        {
+            "palavra": "impor"
+        },
+        {
+            "palavra": "thrash"
+        },
+        {
+            "palavra": "incomum"
+        },
+        {
+            "palavra": "false"
+        },
+        {
+            "palavra": "conservador"
+        },
+        {
+            "palavra": "erupção"
+        },
+        {
+            "palavra": "dívidas"
+        },
+        {
+            "palavra": "confundir"
+        },
+        {
+            "palavra": "instabilidade"
+        },
+        {
+            "palavra": "perigoso"
+        },
+        {
+            "palavra": "virar"
+        },
+        {
+            "palavra": "aborto"
+        },
+        {
+            "palavra": "caos"
+        },
+        {
+            "palavra": "envio"
+        },
+        {
+            "palavra": "droga"
+        },
+        {
+            "palavra": "mortal"
+        },
+        {
+            "palavra": "ruptura"
+        },
+        {
+            "palavra": "montar"
+        },
+        {
+            "palavra": "interferência"
+        },
+        {
+            "palavra": "empreendimento"
+        },
+        {
+            "palavra": "selvagens"
+        },
+        {
+            "palavra": "confundido"
+        },
+        {
+            "palavra": "pecado"
+        },
+        {
+            "palavra": "úmido"
+        },
+        {
+            "palavra": "banha"
+        },
+        {
+            "palavra": "negativos"
+        },
+        {
+            "palavra": "irrelevante"
+        },
+        {
+            "palavra": "derrubar"
+        },
+        {
+            "palavra": "porco"
+        },
+        {
+            "palavra": "absurdo"
+        },
+        {
+            "palavra": "atraso"
+        },
+        {
+            "palavra": "isolado"
+        },
+        {
+            "palavra": "manchas"
+        },
+        {
+            "palavra": "introduzir"
+        },
+        {
+            "palavra": "passeio"
+        },
+        {
+            "palavra": "invadir"
+        },
+        {
+            "palavra": "rebaixamento"
+        },
+        {
+            "palavra": "preconceito"
+        },
+        {
+            "palavra": "preocupações"
+        },
+        {
+            "palavra": "diminuindo"
+        },
+        {
+            "palavra": "ditador"
+        },
+        {
+            "palavra": "batida"
+        },
+        {
+            "palavra": "dores"
+        },
+        {
+            "palavra": "subordinado"
+        },
+        {
+            "palavra": "gripe"
+        },
+        {
+            "palavra": "cavidade"
+        },
+        {
+            "palavra": "degradação"
+        },
+        {
+            "palavra": "submetido"
+        },
+        {
+            "palavra": "peculiar"
+        },
+        {
+            "palavra": "repetição"
+        },
+        {
+            "palavra": "inferno"
+        },
+        {
+            "palavra": "poeira"
+        },
+        {
+            "palavra": "tortura"
+        },
+        {
+            "palavra": "fraude"
+        },
+        {
+            "palavra": "cunho"
+        },
+        {
+            "palavra": "criminoso"
+        },
+        {
+            "palavra": "gravemente"
+        },
+        {
+            "palavra": "escassez"
+        },
+        {
+            "palavra": "erosão"
+        },
+        {
+            "palavra": "desvio"
+        },
+        {
+            "palavra": "misteriosa"
+        },
+        {
+            "palavra": "gordura"
+        },
+        {
+            "palavra": "discriminação"
+        },
+        {
+            "palavra": "rebelde"
+        },
+        {
+            "palavra": "impróprio"
+        },
+        {
+            "palavra": "nuvem"
+        },
+        {
+            "palavra": "morrendo"
+        },
+        {
+            "palavra": "deter"
+        },
+        {
+            "palavra": "batendo"
+        },
+        {
+            "palavra": "infecções"
+        },
+        {
+            "palavra": "rotina"
+        },
+        {
+            "palavra": "roubo"
+        },
+        {
+            "palavra": "superficial"
+        },
+        {
+            "palavra": "transtorno"
+        },
+        {
+            "palavra": "paródia"
+        },
+        {
+            "palavra": "drenagem"
+        },
+        {
+            "palavra": "preocupado"
+        },
+        {
+            "palavra": "restrição"
+        },
+        {
+            "palavra": "abusos"
+        },
+        {
+            "palavra": "interrupção"
+        },
+        {
+            "palavra": "influenciar"
+        },
+        {
+            "palavra": "grosso"
+        },
+        {
+            "palavra": "anunciar"
+        },
+        {
+            "palavra": "quedas"
+        },
+        {
+            "palavra": "estritamente"
+        },
+        {
+            "palavra": "suspeitas"
+        },
+        {
+            "palavra": "vaidade"
+        },
+        {
+            "palavra": "quebrado"
+        },
+        {
+            "palavra": "cruel"
+        },
+        {
+            "palavra": "complicado"
+        },
+        {
+            "palavra": "exilado"
+        },
+        {
+            "palavra": "veneno"
+        },
+        {
+            "palavra": "bruto"
+        },
+        {
+            "palavra": "simulação"
+        },
+        {
+            "palavra": "prender"
+        },
+        {
+            "palavra": "inconsciente"
+        },
+        {
+            "palavra": "despeito"
+        },
+        {
+            "palavra": "defensiva"
+        },
+        {
+            "palavra": "colisão"
+        },
+        {
+            "palavra": "mudo"
+        },
+        {
+            "palavra": "denúncias"
+        },
+        {
+            "palavra": "rígido"
+        },
+        {
+            "palavra": "culpado"
+        },
+        {
+            "palavra": "emitir"
+        },
+        {
+            "palavra": "prejuízo"
+        },
+        {
+            "palavra": "suspeito"
+        },
+        {
+            "palavra": "condenação"
+        },
+        {
+            "palavra": "atingida"
+        },
+        {
+            "palavra": "admitiu"
+        },
+        {
+            "palavra": "fatal"
+        },
+        {
+            "palavra": "ilusão"
+        },
+        {
+            "palavra": "epidemia"
+        },
+        {
+            "palavra": "oferecida"
+        },
+        {
+            "palavra": "imaginário"
+        },
+        {
+            "palavra": "desistir"
+        },
+        {
+            "palavra": "Diabo"
+        },
+        {
+            "palavra": "detrimento"
+        },
+        {
+            "palavra": "agressão"
+        },
+        {
+            "palavra": "reservado"
+        },
+        {
+            "palavra": "fundir"
+        },
+        {
+            "palavra": "insultos"
+        },
+        {
+            "palavra": "saco"
+        },
+        {
+            "palavra": "violentos"
+        },
+        {
+            "palavra": "tumor"
+        },
+        {
+            "palavra": "temperamento"
+        },
+        {
+            "palavra": "cheiro"
+        },
+        {
+            "palavra": "bandidos"
+        },
+        {
+            "palavra": "fiscalização"
+        },
+        {
+            "palavra": "engano"
+        },
+        {
+            "palavra": "convencido"
+        },
+        {
+            "palavra": "agressivo"
+        },
+        {
+            "palavra": "manipular"
+        },
+        {
+            "palavra": "rejeição"
+        },
+        {
+            "palavra": "decomposição"
+        },
+        {
+            "palavra": "atirar"
+        },
+        {
+            "palavra": "fugindo"
+        },
+        {
+            "palavra": "parado"
+        },
+        {
+            "palavra": "diamante"
+        },
+        {
+            "palavra": "desespero"
+        },
+        {
+            "palavra": "caído"
+        },
+        {
+            "palavra": "carece"
+        },
+        {
+            "palavra": "die"
+        },
+        {
+            "palavra": "avisar"
+        },
+        {
+            "palavra": "perturbação"
+        },
+        {
+            "palavra": "faca"
+        },
+        {
+            "palavra": "inútil"
+        },
+        {
+            "palavra": "cego"
+        },
+        {
+            "palavra": "defeitos"
+        },
+        {
+            "palavra": "perseguir"
+        },
+        {
+            "palavra": "erroneamente"
+        },
+        {
+            "palavra": "pânico"
+        },
+        {
+            "palavra": "nega"
+        },
+        {
+            "palavra": "error"
+        },
+        {
+            "palavra": "controverso"
+        },
+        {
+            "palavra": "frágil"
+        },
+        {
+            "palavra": "box"
+        },
+        {
+            "palavra": "alegação"
+        },
+        {
+            "palavra": "insuficiência"
+        },
+        {
+            "palavra": "rejeitado"
+        },
+        {
+            "palavra": "esqueleto"
+        },
+        {
+            "palavra": "dificilmente"
+        },
+        {
+            "palavra": "desculpa"
+        },
+        {
+            "palavra": "tristeza"
+        },
+        {
+            "palavra": "fumaça"
+        },
+        {
+            "palavra": "demora"
+        },
+        {
+            "palavra": "piada"
+        },
+        {
+            "palavra": "denúncia"
+        },
+        {
+            "palavra": "maldição"
+        },
+        {
+            "palavra": "instável"
+        },
+        {
+            "palavra": "ira"
+        },
+        {
+            "palavra": "esquecido"
+        },
+        {
+            "palavra": "severamente"
+        },
+        {
+            "palavra": "drasticamente"
+        },
+        {
+            "palavra": "hegemonia"
+        },
+        {
+            "palavra": "gasto"
+        },
+        {
+            "palavra": "feridas"
+        },
+        {
+            "palavra": "submeter"
+        },
+        {
+            "palavra": "racismo"
+        },
+        {
+            "palavra": "fraqueza"
+        },
+        {
+            "palavra": "platéia"
+        },
+        {
+            "palavra": "tiragem"
+        },
+        {
+            "palavra": "loucura"
+        },
+        {
+            "palavra": "vergonha"
+        },
+        {
+            "palavra": "escuridão"
+        },
+        {
+            "palavra": "louco"
+        },
+        {
+            "palavra": "assassinar"
+        },
+        {
+            "palavra": "vulgar"
+        },
+        {
+            "palavra": "descida"
+        },
+        {
+            "palavra": "defeito"
+        },
+        {
+            "palavra": "concessões"
+        },
+        {
+            "palavra": "romper"
+        },
+        {
+            "palavra": "fascista"
+        },
+        {
+            "palavra": "ruído"
+        },
+        {
+            "palavra": "pleito"
+        },
+        {
+            "palavra": "incapacidade"
+        },
+        {
+            "palavra": "miséria"
+        },
+        {
+            "palavra": "liberar"
+        },
+        {
+            "palavra": "concede"
+        },
+        {
+            "palavra": "terrorismo"
+        },
+        {
+            "palavra": "fragmento"
+        },
+        {
+            "palavra": "negar"
+        },
+        {
+            "palavra": "enfraquecer"
+        },
+        {
+            "palavra": "acertar"
+        },
+        {
+            "palavra": "supressão"
+        },
+        {
+            "palavra": "inevitável"
+        },
+        {
+            "palavra": "fumo"
+        },
+        {
+            "palavra": "ofensivo"
+        },
+        {
+            "palavra": "limitação"
+        },
+        {
+            "palavra": "bruta"
+        },
+        {
+            "palavra": "tardio"
+        },
+        {
+            "palavra": "roubado"
+        },
+        {
+            "palavra": "anarquismo"
+        },
+        {
+            "palavra": "solitário"
+        },
+        {
+            "palavra": "armadilha"
+        },
+        {
+            "palavra": "antagonista"
+        },
+        {
+            "palavra": "palha"
+        },
+        {
+            "palavra": "renunciar"
+        },
+        {
+            "palavra": "solene"
+        },
+        {
+            "palavra": "ironia"
+        },
+        {
+            "palavra": "desconfiança"
+        },
+        {
+            "palavra": "deslocar"
+        },
+        {
+            "palavra": "pulso"
+        },
+        {
+            "palavra": "dente"
+        },
+        {
+            "palavra": "confuso"
+        },
+        {
+            "palavra": "subordinada"
+        },
+        {
+            "palavra": "mentira"
+        },
+        {
+            "palavra": "trágico"
+        },
+        {
+            "palavra": "criticada"
+        },
+        {
+            "palavra": "contaminação"
+        },
+        {
+            "palavra": "invisível"
+        },
+        {
+            "palavra": "homicídio"
+        },
+        {
+            "palavra": "pan"
+        },
+        {
+            "palavra": "iminente"
+        },
+        {
+            "palavra": "negação"
+        },
+        {
+            "palavra": "expulsar"
+        },
+        {
+            "palavra": "vaca"
+        },
+        {
+            "palavra": "atrito"
+        },
+        {
+            "palavra": "negado"
+        },
+        {
+            "palavra": "interessar"
+        },
+        {
+            "palavra": "adjacente"
+        },
+        {
+            "palavra": "rompimento"
+        },
+        {
+            "palavra": "infeliz"
+        },
+        {
+            "palavra": "lama"
+        },
+        {
+            "palavra": "criminal"
+        },
+        {
+            "palavra": "desvantagem"
+        },
+        {
+            "palavra": "salientar"
+        },
+        {
+            "palavra": "ansiedade"
+        },
+        {
+            "palavra": "recusar"
+        },
+        {
+            "palavra": "vício"
+        },
+        {
+            "palavra": "variado"
+        },
+        {
+            "palavra": "escrava"
+        },
+        {
+            "palavra": "complicada"
+        },
+        {
+            "palavra": "limitar"
+        },
+        {
+            "palavra": "desigualdade"
+        },
+        {
+            "palavra": "descontentamento"
+        },
+        {
+            "palavra": "retórica"
+        },
+        {
+            "palavra": "confusões"
+        },
+        {
+            "palavra": "duramente"
+        },
+        {
+            "palavra": "imposição"
+        },
+        {
+            "palavra": "pesar"
+        },
+        {
+            "palavra": "espalhar"
+        },
+        {
+            "palavra": "criticar"
+        },
+        {
+            "palavra": "ladrão"
+        },
+        {
+            "palavra": "fúria"
+        },
+        {
+            "palavra": "vara"
+        },
+        {
+            "palavra": "pênalti"
+        },
+        {
+            "palavra": "diabo"
+        },
+        {
+            "palavra": "ignorar"
+        },
+        {
+            "palavra": "inflamação"
+        },
+        {
+            "palavra": "fabricar"
+        },
+        {
+            "palavra": "prejudicar"
+        },
+        {
+            "palavra": "incerteza"
+        },
+        {
+            "palavra": "favela"
+        },
+        {
+            "palavra": "obstáculo"
+        },
+        {
+            "palavra": "trevas"
+        },
+        {
+            "palavra": "desfazer"
+        },
+        {
+            "palavra": "sinalização"
+        },
+        {
+            "palavra": "confunde"
+        },
+        {
+            "palavra": "clique"
+        },
+        {
+            "palavra": "reclamações"
+        },
+        {
+            "palavra": "crioulo"
+        },
+        {
+            "palavra": "grito"
+        },
+        {
+            "palavra": "queimado"
+        },
+        {
+            "palavra": "defensivo"
+        },
+        {
+            "palavra": "ignorância"
+        },
+        {
+            "palavra": "explosões"
+        },
+        {
+            "palavra": "vago"
+        },
+        {
+            "palavra": "alegações"
+        },
+        {
+            "palavra": "ferida"
+        },
+        {
+            "palavra": "galinha"
+        },
+        {
+            "palavra": "ofensa"
+        },
+        {
+            "palavra": "rouba"
+        },
+        {
+            "palavra": "subordinados"
+        },
+        {
+            "palavra": "insurreição"
+        },
+        {
+            "palavra": "desviar"
+        },
+        {
+            "palavra": "luto"
+        },
+        {
+            "palavra": "rígida"
+        },
+        {
+            "palavra": "mancha"
+        },
+        {
+            "palavra": "acento"
+        },
+        {
+            "palavra": "interferir"
+        },
+        {
+            "palavra": "tubarão"
+        },
+        {
+            "palavra": "galo"
+        },
+        {
+            "palavra": "desordem"
+        },
+        {
+            "palavra": "escape"
+        },
+        {
+            "palavra": "deficiências"
+        },
+        {
+            "palavra": "ruína"
+        },
+        {
+            "palavra": "vulnerável"
+        },
+        {
+            "palavra": "desnecessário"
+        },
+        {
+            "palavra": "arrecadou"
+        },
+        {
+            "palavra": "enganar"
+        },
+        {
+            "palavra": "contradição"
+        },
+        {
+            "palavra": "barulho"
+        },
+        {
+            "palavra": "rejeita"
+        },
+        {
+            "palavra": "processar"
+        },
+        {
+            "palavra": "desrespeito"
+        },
+        {
+            "palavra": "odor"
+        },
+        {
+            "palavra": "insuficiente"
+        },
+        {
+            "palavra": "rigoroso"
+        },
+        {
+            "palavra": "busto"
+        },
+        {
+            "palavra": "acusa"
+        },
+        {
+            "palavra": "hostil"
+        },
+        {
+            "palavra": "improvável"
+        },
+        {
+            "palavra": "marginal"
+        },
+        {
+            "palavra": "surto"
+        },
+        {
+            "palavra": "preocupar"
+        },
+        {
+            "palavra": "inexistente"
+        },
+        {
+            "palavra": "derrubada"
+        },
+        {
+            "palavra": "prostituta"
+        },
+        {
+            "palavra": "estresse"
+        },
+        {
+            "palavra": "deformação"
+        },
+        {
+            "palavra": "dissidentes"
+        },
+        {
+            "palavra": "deficientes"
+        },
+        {
+            "palavra": "obscuro"
+        },
+        {
+            "palavra": "feroz"
+        },
+        {
+            "palavra": "genocídio"
+        },
+        {
+            "palavra": "anular"
+        },
+        {
+            "palavra": "explodir"
+        },
+        {
+            "palavra": "radicalmente"
+        },
+        {
+            "palavra": "violentamente"
+        },
+        {
+            "palavra": "solto"
+        },
+        {
+            "palavra": "assédio"
+        },
+        {
+            "palavra": "maconha"
+        },
+        {
+            "palavra": "tombado"
+        },
+        {
+            "palavra": "pretensão"
+        },
+        {
+            "palavra": "dureza"
+        },
+        {
+            "palavra": "saque"
+        },
+        {
+            "palavra": "naufrágio"
+        },
+        {
+            "palavra": "fascismo"
+        },
+        {
+            "palavra": "erupções"
+        },
+        {
+            "palavra": "pênis"
+        },
+        {
+            "palavra": "interromper"
+        },
+        {
+            "palavra": "excessivamente"
+        },
+        {
+            "palavra": "confissão"
+        },
+        {
+            "palavra": "furioso"
+        },
+        {
+            "palavra": "denso"
+        },
+        {
+            "palavra": "penetrar"
+        },
+        {
+            "palavra": "ruins"
+        },
+        {
+            "palavra": "fezes"
+        },
+        {
+            "palavra": "solidão"
+        },
+        {
+            "palavra": "recuar"
+        },
+        {
+            "palavra": "passivo"
+        },
+        {
+            "palavra": "urgência"
+        },
+        {
+            "palavra": "arrogante"
+        },
+        {
+            "palavra": "partidário"
+        },
+        {
+            "palavra": "solteira"
+        },
+        {
+            "palavra": "laço"
+        },
+        {
+            "palavra": "sombrio"
+        },
+        {
+            "palavra": "porcos"
+        },
+        {
+            "palavra": "hostilidades"
+        },
+        {
+            "palavra": "choro"
+        },
+        {
+            "palavra": "tirano"
+        },
+        {
+            "palavra": "ciúmes"
+        },
+        {
+            "palavra": "impasse"
+        },
+        {
+            "palavra": "heresia"
+        },
+        {
+            "palavra": "banimento"
+        },
+        {
+            "palavra": "imitação"
+        },
+        {
+            "palavra": "limão"
+        },
+        {
+            "palavra": "imitar"
+        },
+        {
+            "palavra": "brutal"
+        },
+        {
+            "palavra": "faltava"
+        },
+        {
+            "palavra": "traseiro"
+        },
+        {
+            "palavra": "distúrbio"
+        },
+        {
+            "palavra": "aptidão"
+        },
+        {
+            "palavra": "praga"
+        },
+        {
+            "palavra": "incerto"
+        },
+        {
+            "palavra": "misturar"
+        },
+        {
+            "palavra": "cômico"
+        },
+        {
+            "palavra": "espessa"
+        },
+        {
+            "palavra": "excluir"
+        },
+        {
+            "palavra": "cansado"
+        },
+        {
+            "palavra": "afundado"
+        },
+        {
+            "palavra": "queimar"
+        },
+        {
+            "palavra": "fantoches"
+        },
+        {
+            "palavra": "chorar"
+        },
+        {
+            "palavra": "vibração"
+        },
+        {
+            "palavra": "receio"
+        },
+        {
+            "palavra": "preconceitos"
+        },
+        {
+            "palavra": "hostilidade"
+        },
+        {
+            "palavra": "anão"
+        },
+        {
+            "palavra": "soco"
+        },
+        {
+            "palavra": "parasita"
+        },
+        {
+            "palavra": "emboscada"
+        },
+        {
+            "palavra": "criminosa"
+        },
+        {
+            "palavra": "confusa"
+        },
+        {
+            "palavra": "prolongado"
+        },
+        {
+            "palavra": "acumular"
+        },
+        {
+            "palavra": "incompleto"
+        },
+        {
+            "palavra": "opressão"
+        },
+        {
+            "palavra": "fenda"
+        },
+        {
+            "palavra": "ameaçar"
+        },
+        {
+            "palavra": "simular"
+        },
+        {
+            "palavra": "trauma"
+        },
+        {
+            "palavra": "punho"
+        },
+        {
+            "palavra": "cancelar"
+        },
+        {
+            "palavra": "palhaço"
+        },
+        {
+            "palavra": "atrasos"
+        },
+        {
+            "palavra": "catástrofe"
+        },
+        {
+            "palavra": "haste"
+        },
+        {
+            "palavra": "odeia"
+        },
+        {
+            "palavra": "bandido"
+        },
+        {
+            "palavra": "recessão"
+        },
+        {
+            "palavra": "urgente"
+        },
+        {
+            "palavra": "explosivo"
+        },
+        {
+            "palavra": "impedimento"
+        },
+        {
+            "palavra": "opor"
+        },
+        {
+            "palavra": "indeterminado"
+        },
+        {
+            "palavra": "inesperado"
+        },
+        {
+            "palavra": "artifício"
+        },
+        {
+            "palavra": "húmido"
+        },
+        {
+            "palavra": "enganado"
+        },
+        {
+            "palavra": "inadequado"
+        },
+        {
+            "palavra": "desgraça"
+        },
+        {
+            "palavra": "mentiras"
+        },
+        {
+            "palavra": "piorar"
+        },
+        {
+            "palavra": "severo"
+        },
+        {
+            "palavra": "bolhas"
+        },
+        {
+            "palavra": "recuo"
+        },
+        {
+            "palavra": "estupro"
+        },
+        {
+            "palavra": "machado"
+        },
+        {
+            "palavra": "agressividade"
+        },
+        {
+            "palavra": "queimada"
+        },
+        {
+            "palavra": "tóxico"
+        },
+        {
+            "palavra": "proibir"
+        },
+        {
+            "palavra": "fratura"
+        },
+        {
+            "palavra": "ímpar"
+        },
+        {
+            "palavra": "deterioração"
+        },
+        {
+            "palavra": "garra"
+        },
+        {
+            "palavra": "arcaico"
+        },
+        {
+            "palavra": "insulto"
+        },
+        {
+            "palavra": "injustiça"
+        },
+        {
+            "palavra": "crueldade"
+        },
+        {
+            "palavra": "maligno"
+        },
+        {
+            "palavra": "acidental"
+        },
+        {
+            "palavra": "deficiente"
+        },
+        {
+            "palavra": "desvantagens"
+        },
+        {
+            "palavra": "prejudicial"
+        },
+        {
+            "palavra": "lacunas"
+        },
+        {
+            "palavra": "pressionar"
+        },
+        {
+            "palavra": "exaustão"
+        },
+        {
+            "palavra": "letal"
+        },
+        {
+            "palavra": "azar"
+        },
+        {
+            "palavra": "desfez"
+        },
+        {
+            "palavra": "passiva"
+        },
+        {
+            "palavra": "males"
+        },
+        {
+            "palavra": "alargamento"
+        },
+        {
+            "palavra": "explode"
+        },
+        {
+            "palavra": "rochoso"
+        },
+        {
+            "palavra": "boicote"
+        },
+        {
+            "palavra": "traidor"
+        },
+        {
+            "palavra": "bicho"
+        },
+        {
+            "palavra": "refém"
+        },
+        {
+            "palavra": "desprezo"
+        },
+        {
+            "palavra": "autoritário"
+        },
+        {
+            "palavra": "estrito"
+        },
+        {
+            "palavra": "molde"
+        },
+        {
+            "palavra": "distorção"
+        },
+        {
+            "palavra": "suicida"
+        },
+        {
+            "palavra": "hemorragia"
+        },
+        {
+            "palavra": "abatido"
+        },
+        {
+            "palavra": "doom"
+        },
+        {
+            "palavra": "péssimo"
+        },
+        {
+            "palavra": "seriedade"
+        },
+        {
+            "palavra": "indevido"
+        },
+        {
+            "palavra": "fraudes"
+        },
+        {
+            "palavra": "burro"
+        },
+        {
+            "palavra": "ferimento"
+        },
+        {
+            "palavra": "desagradável"
+        },
+        {
+            "palavra": "queixa"
+        },
+        {
+            "palavra": "falhar"
+        },
+        {
+            "palavra": "ebulição"
+        },
+        {
+            "palavra": "desafiante"
+        },
+        {
+            "palavra": "rigidez"
+        },
+        {
+            "palavra": "freqüente"
+        },
+        {
+            "palavra": "craque"
+        },
+        {
+            "palavra": "ironicamente"
+        },
+        {
+            "palavra": "martírio"
+        },
+        {
+            "palavra": "frustrado"
+        },
+        {
+            "palavra": "bêbado"
+        },
+        {
+            "palavra": "ilegítimo"
+        },
+        {
+            "palavra": "restringir"
+        },
+        {
+            "palavra": "inibição"
+        },
+        {
+            "palavra": "aleatoriamente"
+        },
+        {
+            "palavra": "acidentado"
+        },
+        {
+            "palavra": "escândalos"
+        },
+        {
+            "palavra": "ridículo"
+        },
+        {
+            "palavra": "fantoche"
+        },
+        {
+            "palavra": "omissão"
+        },
+        {
+            "palavra": "misteriosamente"
+        },
+        {
+            "palavra": "panela"
+        },
+        {
+            "palavra": "cozido"
+        },
+        {
+            "palavra": "anormal"
+        },
+        {
+            "palavra": "tímido"
+        },
+        {
+            "palavra": "incorreto"
+        },
+        {
+            "palavra": "evitado"
+        },
+        {
+            "palavra": "ilícito"
+        },
+        {
+            "palavra": "fumar"
+        },
+        {
+            "palavra": "questionável"
+        },
+        {
+            "palavra": "ilegalmente"
+        },
+        {
+            "palavra": "fundição"
+        },
+        {
+            "palavra": "farsa"
+        },
+        {
+            "palavra": "inesperadamente"
+        },
+        {
+            "palavra": "comprometido"
+        },
+        {
+            "palavra": "stress"
+        },
+        {
+            "palavra": "queixas"
+        },
+        {
+            "palavra": "desequilíbrio"
+        },
+        {
+            "palavra": "retiro"
+        },
+        {
+            "palavra": "desconforto"
+        },
+        {
+            "palavra": "desacordo"
+        },
+        {
+            "palavra": "corrosão"
+        },
+        {
+            "palavra": "assassina"
+        },
+        {
+            "palavra": "rude"
+        },
+        {
+            "palavra": "desintegração"
+        },
+        {
+            "palavra": "racista"
+        },
+        {
+            "palavra": "cru"
+        },
+        {
+            "palavra": "acusar"
+        },
+        {
+            "palavra": "órfão"
+        },
+        {
+            "palavra": "mexer"
+        },
+        {
+            "palavra": "chato"
+        },
+        {
+            "palavra": "traçar"
+        },
+        {
+            "palavra": "ofender"
+        },
+        {
+            "palavra": "atrasado"
+        },
+        {
+            "palavra": "decepção"
+        },
+        {
+            "palavra": "angústia"
+        },
+        {
+            "palavra": "ilusões"
+        },
+        {
+            "palavra": "isolar"
+        },
+        {
+            "palavra": "inventar"
+        },
+        {
+            "palavra": "rejeitar"
+        },
+        {
+            "palavra": "ferir"
+        },
+        {
+            "palavra": "violar"
+        },
+        {
+            "palavra": "horrível"
+        },
+        {
+            "palavra": "zumbi"
+        },
+        {
+            "palavra": "suprimir"
+        },
+        {
+            "palavra": "cólera"
+        },
+        {
+            "palavra": "banca"
+        },
+        {
+            "palavra": "truque"
+        },
+        {
+            "palavra": "tenda"
+        },
+        {
+            "palavra": "recusando"
+        },
+        {
+            "palavra": "anarquia"
+        },
+        {
+            "palavra": "amargo"
+        },
+        {
+            "palavra": "invasor"
+        },
+        {
+            "palavra": "aleatório"
+        },
+        {
+            "palavra": "ruídos"
+        },
+        {
+            "palavra": "contusão"
+        },
+        {
+            "palavra": "contenção"
+        },
+        {
+            "palavra": "ordinário"
+        },
+        {
+            "palavra": "passível"
+        },
+        {
+            "palavra": "indignação"
+        },
+        {
+            "palavra": "destrutivo"
+        },
+        {
+            "palavra": "anomalia"
+        },
+        {
+            "palavra": "frustração"
+        },
+        {
+            "palavra": "sintoma"
+        },
+        {
+            "palavra": "deslocado"
+        },
+        {
+            "palavra": "reter"
+        },
+        {
+            "palavra": "pagão"
+        },
+        {
+            "palavra": "queimaduras"
+        },
+        {
+            "palavra": "intolerância"
+        },
+        {
+            "palavra": "afundamento"
+        },
+        {
+            "palavra": "ofendido"
+        },
+        {
+            "palavra": "medos"
+        },
+        {
+            "palavra": "atrapalhar"
+        },
+        {
+            "palavra": "fadiga"
+        },
+        {
+            "palavra": "saudade"
+        },
+        {
+            "palavra": "fendas"
+        },
+        {
+            "palavra": "problemático"
+        },
+        {
+            "palavra": "prejudicada"
+        },
+        {
+            "palavra": "bolha"
+        },
+        {
+            "palavra": "mania"
+        },
+        {
+            "palavra": "discordar"
+        },
+        {
+            "palavra": "confrontar"
+        },
+        {
+            "palavra": "deitado"
+        },
+        {
+            "palavra": "decadente"
+        },
+        {
+            "palavra": "abrigando"
+        },
+        {
+            "palavra": "perfuração"
+        },
+        {
+            "palavra": "estagnação"
+        },
+        {
+            "palavra": "congelado"
+        },
+        {
+            "palavra": "congelamento"
+        },
+        {
+            "palavra": "vazamento"
+        },
+        {
+            "palavra": "investida"
+        },
+        {
+            "palavra": "feio"
+        },
+        {
+            "palavra": "infectado"
+        },
+        {
+            "palavra": "trava"
+        },
+        {
+            "palavra": "insular"
+        },
+        {
+            "palavra": "riscar"
+        },
+        {
+            "palavra": "picada"
+        },
+        {
+            "palavra": "exagerada"
+        },
+        {
+            "palavra": "ditatorial"
+        },
+        {
+            "palavra": "diverso"
+        },
+        {
+            "palavra": "pesadelo"
+        },
+        {
+            "palavra": "desigual"
+        },
+        {
+            "palavra": "brutalmente"
+        },
+        {
+            "palavra": "ciúme"
+        },
+        {
+            "palavra": "tumulto"
+        },
+        {
+            "palavra": "inevitavelmente"
+        },
+        {
+            "palavra": "arbitrária"
+        },
+        {
+            "palavra": "apreensão"
+        },
+        {
+            "palavra": "mercenário"
+        },
+        {
+            "palavra": "exigente"
+        },
+        {
+            "palavra": "corrupto"
+        },
+        {
+            "palavra": "arrependimento"
+        },
+        {
+            "palavra": "pressa"
+        },
+        {
+            "palavra": "devastação"
+        },
+        {
+            "palavra": "preguiça"
+        },
+        {
+            "palavra": "dilema"
+        },
+        {
+            "palavra": "alienação"
+        },
+        {
+            "palavra": "inválido"
+        },
+        {
+            "palavra": "parcialidade"
+        },
+        {
+            "palavra": "interrupções"
+        },
+        {
+            "palavra": "desgosto"
+        },
+        {
+            "palavra": "abismo"
+        },
+        {
+            "palavra": "irritação"
+        },
+        {
+            "palavra": "indiferença"
+        },
+        {
+            "palavra": "exagero"
+        },
+        {
+            "palavra": "atrocidades"
+        },
+        {
+            "palavra": "alarme"
+        },
+        {
+            "palavra": "virado"
+        },
+        {
+            "palavra": "obstrução"
+        },
+        {
+            "palavra": "polarização"
+        },
+        {
+            "palavra": "interfere"
+        },
+        {
+            "palavra": "break"
+        },
+        {
+            "palavra": "alheio"
+        },
+        {
+            "palavra": "gritar"
+        },
+        {
+            "palavra": "conceber"
+        },
+        {
+            "palavra": "reclama"
+        },
+        {
+            "palavra": "prematuramente"
+        },
+        {
+            "palavra": "equívoco"
+        },
+        {
+            "palavra": "bastardo"
+        },
+        {
+            "palavra": "sacrificar"
+        },
+        {
+            "palavra": "insegurança"
+        },
+        {
+            "palavra": "advertência"
+        },
+        {
+            "palavra": "injustamente"
+        },
+        {
+            "palavra": "excedente"
+        },
+        {
+            "palavra": "suja"
+        },
+        {
+            "palavra": "nitidamente"
+        },
+        {
+            "palavra": "declive"
+        },
+        {
+            "palavra": "sujo"
+        },
+        {
+            "palavra": "aversão"
+        },
+        {
+            "palavra": "tirania"
+        },
+        {
+            "palavra": "periférico"
+        },
+        {
+            "palavra": "incorretamente"
+        },
+        {
+            "palavra": "reclamação"
+        },
+        {
+            "palavra": "provocação"
+        },
+        {
+            "palavra": "incompatível"
+        },
+        {
+            "palavra": "falsificação"
+        },
+        {
+            "palavra": "mortalmente"
+        },
+        {
+            "palavra": "idiota"
+        },
+        {
+            "palavra": "faltar"
+        },
+        {
+            "palavra": "desesperadamente"
+        },
+        {
+            "palavra": "maldade"
+        },
+        {
+            "palavra": "dificultar"
+        },
+        {
+            "palavra": "desesperado"
+        },
+        {
+            "palavra": "torturas"
+        },
+        {
+            "palavra": "tabu"
+        },
+        {
+            "palavra": "escasso"
+        },
+        {
+            "palavra": "humilhação"
+        },
+        {
+            "palavra": "fracassado"
+        },
+        {
+            "palavra": "dissidência"
+        },
+        {
+            "palavra": "afundar"
+        },
+        {
+            "palavra": "difamação"
+        },
+        {
+            "palavra": "depressões"
+        },
+        {
+            "palavra": "viciado"
+        },
+        {
+            "palavra": "surdo"
+        },
+        {
+            "palavra": "obsoleto"
+        },
+        {
+            "palavra": "inativo"
+        },
+        {
+            "palavra": "degeneração"
+        },
+        {
+            "palavra": "furos"
+        },
+        {
+            "palavra": "reprimir"
+        },
+        {
+            "palavra": "implacável"
+        },
+        {
+            "palavra": "sermão"
+        },
+        {
+            "palavra": "esqueletos"
+        },
+        {
+            "palavra": "reviravolta"
+        },
+        {
+            "palavra": "popa"
+        },
+        {
+            "palavra": "lutado"
+        },
+        {
+            "palavra": "empurrar"
+        },
+        {
+            "palavra": "condenar"
+        },
+        {
+            "palavra": "cesta"
+        },
+        {
+            "palavra": "provocações"
+        },
+        {
+            "palavra": "impopular"
+        },
+        {
+            "palavra": "dark"
+        },
+        {
+            "palavra": "forjado"
+        },
+        {
+            "palavra": "regressão"
+        },
+        {
+            "palavra": "brigar"
+        },
+        {
+            "palavra": "excêntrico"
+        },
+        {
+            "palavra": "irracional"
+        },
+        {
+            "palavra": "desencadear"
+        },
+        {
+            "palavra": "bélico"
+        },
+        {
+            "palavra": "indefinido"
+        },
+        {
+            "palavra": "duvidoso"
+        },
+        {
+            "palavra": "negligência"
+        },
+        {
+            "palavra": "bombardeamento"
+        },
+        {
+            "palavra": "egoísta"
+        },
+        {
+            "palavra": "demorar"
+        },
+        {
+            "palavra": "confundidos"
+        },
+        {
+            "palavra": "angariar"
+        },
+        {
+            "palavra": "estático"
+        },
+        {
+            "palavra": "relutante"
+        },
+        {
+            "palavra": "desfiladeiro"
+        },
+        {
+            "palavra": "confessar"
+        },
+        {
+            "palavra": "arrogância"
+        },
+        {
+            "palavra": "infração"
+        },
+        {
+            "palavra": "gordo"
+        },
+        {
+            "palavra": "condena"
+        },
+        {
+            "palavra": "pálido"
+        },
+        {
+            "palavra": "indiferente"
+        },
+        {
+            "palavra": "repelir"
+        },
+        {
+            "palavra": "prescrição"
+        },
+        {
+            "palavra": "viés"
+        },
+        {
+            "palavra": "Calvário"
+        },
+        {
+            "palavra": "puppet"
+        },
+        {
+            "palavra": "encaixar"
+        },
+        {
+            "palavra": "exilar"
+        },
+        {
+            "palavra": "pia"
+        },
+        {
+            "palavra": "oscilação"
+        },
+        {
+            "palavra": "desigualdades"
+        },
+        {
+            "palavra": "trivial"
+        },
+        {
+            "palavra": "protestar"
+        },
+        {
+            "palavra": "massacres"
+        },
+        {
+            "palavra": "intermitente"
+        },
+        {
+            "palavra": "estereótipo"
+        },
+        {
+            "palavra": "abruptamente"
+        },
+        {
+            "palavra": "racistas"
+        },
+        {
+            "palavra": "brecha"
+        },
+        {
+            "palavra": "boato"
+        },
+        {
+            "palavra": "sin"
+        },
+        {
+            "palavra": "névoa"
+        },
+        {
+            "palavra": "lamento"
+        },
+        {
+            "palavra": "flagrante"
+        },
+        {
+            "palavra": "discórdia"
+        },
+        {
+            "palavra": "despedido"
+        },
+        {
+            "palavra": "Satanás"
+        },
+        {
+            "palavra": "temer"
+        },
+        {
+            "palavra": "abusivo"
+        },
+        {
+            "palavra": "perturbado"
+        },
+        {
+            "palavra": "suspeitar"
+        },
+        {
+            "palavra": "penalidade"
+        },
+        {
+            "palavra": "meter"
+        },
+        {
+            "palavra": "ultimato"
+        },
+        {
+            "palavra": "insatisfeito"
+        },
+        {
+            "palavra": "fingir"
+        },
+        {
+            "palavra": "desfavorável"
+        },
+        {
+            "palavra": "ceticismo"
+        },
+        {
+            "palavra": "casual"
+        },
+        {
+            "palavra": "extinguir"
+        },
+        {
+            "palavra": "arrasto"
+        },
+        {
+            "palavra": "agarrar"
+        },
+        {
+            "palavra": "sabotagem"
+        },
+        {
+            "palavra": "latente"
+        },
+        {
+            "palavra": "irrita"
+        },
+        {
+            "palavra": "fricção"
+        },
+        {
+            "palavra": "lamentável"
+        },
+        {
+            "palavra": "arriscar"
+        },
+        {
+            "palavra": "volátil"
+        },
+        {
+            "palavra": "lotado"
+        },
+        {
+            "palavra": "matança"
+        },
+        {
+            "palavra": "desobediência"
+        },
+        {
+            "palavra": "confinado"
+        },
+        {
+            "palavra": "destituído"
+        },
+        {
+            "palavra": "desculpe"
+        },
+        {
+            "palavra": "delírio"
+        },
+        {
+            "palavra": "subversão"
+        },
+        {
+            "palavra": "processou"
+        },
+        {
+            "palavra": "implícito"
+        },
+        {
+            "palavra": "dobrado"
+        },
+        {
+            "palavra": "desfeito"
+        },
+        {
+            "palavra": "ambiguidade"
+        },
+        {
+            "palavra": "erradamente"
+        },
+        {
+            "palavra": "desperdício"
+        },
+        {
+            "palavra": "satírico"
+        },
+        {
+            "palavra": "irreversível"
+        },
+        {
+            "palavra": "cicatriz"
+        },
+        {
+            "palavra": "redundante"
+        },
+        {
+            "palavra": "precário"
+        },
+        {
+            "palavra": "grelha"
+        },
+        {
+            "palavra": "esmagar"
+        },
+        {
+            "palavra": "preocupante"
+        },
+        {
+            "palavra": "prole"
+        },
+        {
+            "palavra": "discutível"
+        },
+        {
+            "palavra": "chicote"
+        },
+        {
+            "palavra": "ânus"
+        },
+        {
+            "palavra": "ressentimento"
+        },
+        {
+            "palavra": "melancolia"
+        },
+        {
+            "palavra": "caricatura"
+        },
+        {
+            "palavra": "seiva"
+        },
+        {
+            "palavra": "gueto"
+        },
+        {
+            "palavra": "desprovido"
+        },
+        {
+            "palavra": "tentação"
+        },
+        {
+            "palavra": "evasão"
+        },
+        {
+            "palavra": "dissidente"
+        },
+        {
+            "palavra": "agravamento"
+        },
+        {
+            "palavra": "pica"
+        },
+        {
+            "palavra": "objeções"
+        },
+        {
+            "palavra": "killer"
+        },
+        {
+            "palavra": "injustiças"
+        },
+        {
+            "palavra": "fanático"
+        },
+        {
+            "palavra": "atrapalhado"
+        },
+        {
+            "palavra": "descontinuado"
+        },
+        {
+            "palavra": "covarde"
+        },
+        {
+            "palavra": "arruinado"
+        },
+        {
+            "palavra": "relutância"
+        },
+        {
+            "palavra": "abolir"
+        },
+        {
+            "palavra": "tapa"
+        },
+        {
+            "palavra": "poste"
+        },
+        {
+            "palavra": "mentir"
+        },
+        {
+            "palavra": "danificar"
+        },
+        {
+            "palavra": "salienta"
+        },
+        {
+            "palavra": "irregularidade"
+        },
+        {
+            "palavra": "falácia"
+        },
+        {
+            "palavra": "insignificante"
+        },
+        {
+            "palavra": "estéril"
+        },
+        {
+            "palavra": "devastador"
+        },
+        {
+            "palavra": "paralisação"
+        },
+        {
+            "palavra": "machucado"
+        },
+        {
+            "palavra": "inacabado"
+        },
+        {
+            "palavra": "distração"
+        },
+        {
+            "palavra": "irônico"
+        },
+        {
+            "palavra": "vestígio"
+        },
+        {
+            "palavra": "puppets"
+        },
+        {
+            "palavra": "neblina"
+        },
+        {
+            "palavra": "inconveniente"
+        },
+        {
+            "palavra": "comoção"
+        },
+        {
+            "palavra": "bobo"
+        },
+        {
+            "palavra": "irritante"
+        },
+        {
+            "palavra": "devagar"
+        },
+        {
+            "palavra": "contestar"
+        },
+        {
+            "palavra": "árduo"
+        },
+        {
+            "palavra": "vigoroso"
+        },
+        {
+            "palavra": "impedância"
+        },
+        {
+            "palavra": "discorda"
+        },
+        {
+            "palavra": "turbulento"
+        },
+        {
+            "palavra": "estranhamente"
+        },
+        {
+            "palavra": "chocado"
+        },
+        {
+            "palavra": "bullying"
+        },
+        {
+            "palavra": "bug"
+        },
+        {
+            "palavra": "abóbora"
+        },
+        {
+            "palavra": "arenoso"
+        },
+        {
+            "palavra": "fugitivo"
+        },
+        {
+            "palavra": "obsoleta"
+        },
+        {
+            "palavra": "confissões"
+        },
+        {
+            "palavra": "Satã"
+        },
+        {
+            "palavra": "recuou"
+        },
+        {
+            "palavra": "dilúvio"
+        },
+        {
+            "palavra": "agonia"
+        },
+        {
+            "palavra": "troco"
+        },
+        {
+            "palavra": "desnecessários"
+        },
+        {
+            "palavra": "arbitrário"
+        },
+        {
+            "palavra": "split"
+        },
+        {
+            "palavra": "implicar"
+        },
+        {
+            "palavra": "miss"
+        },
+        {
+            "palavra": "inaceitável"
+        },
+        {
+            "palavra": "distorcida"
+        },
+        {
+            "palavra": "secar"
+        },
+        {
+            "palavra": "alegar"
+        },
+        {
+            "palavra": "íngreme"
+        },
+        {
+            "palavra": "imprevisível"
+        },
+        {
+            "palavra": "envolta"
+        },
+        {
+            "palavra": "abater"
+        },
+        {
+            "palavra": "sangramento"
+        },
+        {
+            "palavra": "perdedor"
+        },
+        {
+            "palavra": "gelado"
+        },
+        {
+            "palavra": "catástrofes"
+        },
+        {
+            "palavra": "abusar"
+        },
+        {
+            "palavra": "perdedores"
+        },
+        {
+            "palavra": "feia"
+        },
+        {
+            "palavra": "brutalidade"
+        },
+        {
+            "palavra": "bagunça"
+        },
+        {
+            "palavra": "rumor"
+        },
+        {
+            "palavra": "improvisado"
+        },
+        {
+            "palavra": "ignorante"
+        },
+        {
+            "palavra": "duvido"
+        },
+        {
+            "palavra": "órfã"
+        },
+        {
+            "palavra": "notoriamente"
+        },
+        {
+            "palavra": "falsidade"
+        },
+        {
+            "palavra": "excêntrica"
+        },
+        {
+            "palavra": "devastado"
+        },
+        {
+            "palavra": "Parreira"
+        },
+        {
+            "palavra": "fanáticos"
+        },
+        {
+            "palavra": "estimulante"
+        },
+        {
+            "palavra": "caótico"
+        },
+        {
+            "palavra": "revés"
+        },
+        {
+            "palavra": "deslocada"
+        },
+        {
+            "palavra": "descontente"
+        },
+        {
+            "palavra": "baço"
+        },
+        {
+            "palavra": "torção"
+        },
+        {
+            "palavra": "sublevação"
+        },
+        {
+            "palavra": "pálida"
+        },
+        {
+            "palavra": "pedágio"
+        },
+        {
+            "palavra": "mentiroso"
+        },
+        {
+            "palavra": "maluco"
+        },
+        {
+            "palavra": "atormentado"
+        },
+        {
+            "palavra": "achatado"
+        },
+        {
+            "palavra": "silvestre"
+        },
+        {
+            "palavra": "esgotado"
+        },
+        {
+            "palavra": "inexperiente"
+        },
+        {
+            "palavra": "declinar"
+        },
+        {
+            "palavra": "cercar"
+        },
+        {
+            "palavra": "assustador"
+        },
+        {
+            "palavra": "inibir"
+        },
+        {
+            "palavra": "efígie"
+        },
+        {
+            "palavra": "contrariar"
+        },
+        {
+            "palavra": "afogamento"
+        },
+        {
+            "palavra": "ingênuo"
+        },
+        {
+            "palavra": "fraquezas"
+        },
+        {
+            "palavra": "dies"
+        },
+        {
+            "palavra": "servidão"
+        },
+        {
+            "palavra": "advertido"
+        },
+        {
+            "palavra": "trick"
+        },
+        {
+            "palavra": "trai"
+        },
+        {
+            "palavra": "obscuridade"
+        },
+        {
+            "palavra": "repúdio"
+        },
+        {
+            "palavra": "malvado"
+        },
+        {
+            "palavra": "furto"
+        },
+        {
+            "palavra": "olfato"
+        },
+        {
+            "palavra": "obsessivo"
+        },
+        {
+            "palavra": "deletar"
+        },
+        {
+            "palavra": "abatidos"
+        },
+        {
+            "palavra": "miserável"
+        },
+        {
+            "palavra": "despedir"
+        },
+        {
+            "palavra": "bustos"
+        },
+        {
+            "palavra": "trair"
+        },
+        {
+            "palavra": "tenso"
+        },
+        {
+            "palavra": "irresponsável"
+        },
+        {
+            "palavra": "hipocrisia"
+        },
+        {
+            "palavra": "desinteresse"
+        },
+        {
+            "palavra": "contaminado"
+        },
+        {
+            "palavra": "bizarro"
+        },
+        {
+            "palavra": "rejeitando"
+        },
+        {
+            "palavra": "duvidar"
+        },
+        {
+            "palavra": "antipatia"
+        },
+        {
+            "palavra": "suborno"
+        },
+        {
+            "palavra": "infusão"
+        },
+        {
+            "palavra": "contraditório"
+        },
+        {
+            "palavra": "preguiçoso"
+        },
+        {
+            "palavra": "implicação"
+        },
+        {
+            "palavra": "sangrento"
+        },
+        {
+            "palavra": "inferioridade"
+        },
+        {
+            "palavra": "ilegalidade"
+        },
+        {
+            "palavra": "arrastado"
+        },
+        {
+            "palavra": "trilho"
+        },
+        {
+            "palavra": "errar"
+        },
+        {
+            "palavra": "redundância"
+        },
+        {
+            "palavra": "insultar"
+        },
+        {
+            "palavra": "incompetência"
+        },
+        {
+            "palavra": "complicação"
+        },
+        {
+            "palavra": "atrasar"
+        },
+        {
+            "palavra": "picadas"
+        },
+        {
+            "palavra": "inchaço"
+        },
+        {
+            "palavra": "vômitos"
+        },
+        {
+            "palavra": "medíocre"
+        },
+        {
+            "palavra": "inundados"
+        },
+        {
+            "palavra": "infame"
+        },
+        {
+            "palavra": "distrair"
+        },
+        {
+            "palavra": "crack"
+        },
+        {
+            "palavra": "grosseiro"
+        },
+        {
+            "palavra": "submerso"
+        },
+        {
+            "palavra": "pilhagem"
+        },
+        {
+            "palavra": "fobia"
+        },
+        {
+            "palavra": "agressor"
+        },
+        {
+            "palavra": "remorso"
+        },
+        {
+            "palavra": "protestou"
+        },
+        {
+            "palavra": "desconfortável"
+        },
+        {
+            "palavra": "decepcionante"
+        },
+        {
+            "palavra": "veementemente"
+        },
+        {
+            "palavra": "cave"
+        },
+        {
+            "palavra": "cadela"
+        },
+        {
+            "palavra": "torcer"
+        },
+        {
+            "palavra": "bárbaro"
+        },
+        {
+            "palavra": "inimizade"
+        },
+        {
+            "palavra": "exterminar"
+        },
+        {
+            "palavra": "corajosa"
+        },
+        {
+            "palavra": "sinistro"
+        },
+        {
+            "palavra": "assustado"
+        },
+        {
+            "palavra": "bombardear"
+        },
+        {
+            "palavra": "estigma"
+        },
+        {
+            "palavra": "congestionamento"
+        },
+        {
+            "palavra": "cicatrizes"
+        },
+        {
+            "palavra": "usurpador"
+        },
+        {
+            "palavra": "oco"
+        },
+        {
+            "palavra": "intimidar"
+        },
+        {
+            "palavra": "desrespeitar"
+        },
+        {
+            "palavra": "compulsivo"
+        },
+        {
+            "palavra": "indignado"
+        },
+        {
+            "palavra": "incomoda"
+        },
+        {
+            "palavra": "extremistas"
+        },
+        {
+            "palavra": "desastroso"
+        },
+        {
+            "palavra": "misses"
+        },
+        {
+            "palavra": "assustar"
+        },
+        {
+            "palavra": "tributação"
+        },
+        {
+            "palavra": "sugar"
+        },
+        {
+            "palavra": "repetitivo"
+        },
+        {
+            "palavra": "moagem"
+        },
+        {
+            "palavra": "imperialista"
+        },
+        {
+            "palavra": "deserção"
+        },
+        {
+            "palavra": "aberração"
+        },
+        {
+            "palavra": "intimidação"
+        },
+        {
+            "palavra": "infelicidade"
+        },
+        {
+            "palavra": "hum"
+        },
+        {
+            "palavra": "fake"
+        },
+        {
+            "palavra": "ambíguo"
+        },
+        {
+            "palavra": "afronta"
+        },
+        {
+            "palavra": "engolir"
+        },
+        {
+            "palavra": "desilusão"
+        },
+        {
+            "palavra": "cético"
+        },
+        {
+            "palavra": "subjugar"
+        },
+        {
+            "palavra": "contusões"
+        },
+        {
+            "palavra": "banir"
+        },
+        {
+            "palavra": "objeção"
+        },
+        {
+            "palavra": "incompatibilidade"
+        },
+        {
+            "palavra": "despercebido"
+        },
+        {
+            "palavra": "conspirações"
+        },
+        {
+            "palavra": "perturbar"
+        },
+        {
+            "palavra": "inseguro"
+        },
+        {
+            "palavra": "incessante"
+        },
+        {
+            "palavra": "congelar"
+        },
+        {
+            "palavra": "suscetível"
+        },
+        {
+            "palavra": "sujeira"
+        },
+        {
+            "palavra": "rivalizar"
+        },
+        {
+            "palavra": "debilitado"
+        },
+        {
+            "palavra": "chocar"
+        },
+        {
+            "palavra": "rancor"
+        },
+        {
+            "palavra": "presunção"
+        },
+        {
+            "palavra": "incenso"
+        },
+        {
+            "palavra": "insanidade"
+        },
+        {
+            "palavra": "histeria"
+        },
+        {
+            "palavra": "esmagado"
+        },
+        {
+            "palavra": "brega"
+        },
+        {
+            "palavra": "inacessível"
+        },
+        {
+            "palavra": "humilhante"
+        },
+        {
+            "palavra": "bobagem"
+        },
+        {
+            "palavra": "assustadora"
+        },
+        {
+            "palavra": "estábulos"
+        },
+        {
+            "palavra": "susto"
+        },
+        {
+            "palavra": "superstição"
+        },
+        {
+            "palavra": "mulherengo"
+        },
+        {
+            "palavra": "agravar"
+        },
+        {
+            "palavra": "ganância"
+        },
+        {
+            "palavra": "desempregado"
+        },
+        {
+            "palavra": "estragar"
+        },
+        {
+            "palavra": "divergente"
+        },
+        {
+            "palavra": "desordenado"
+        },
+        {
+            "palavra": "constrangimento"
+        },
+        {
+            "palavra": "amaldiçoado"
+        },
+        {
+            "palavra": "vagabundo"
+        },
+        {
+            "palavra": "arrastar"
+        },
+        {
+            "palavra": "ache"
+        },
+        {
+            "palavra": "insustentável"
+        },
+        {
+            "palavra": "escrúpulos"
+        },
+        {
+            "palavra": "cunha"
+        },
+        {
+            "palavra": "avalanche"
+        },
+        {
+            "palavra": "sóbrio"
+        },
+        {
+            "palavra": "ineficaz"
+        },
+        {
+            "palavra": "frito"
+        },
+        {
+            "palavra": "contratorpedeiro"
+        },
+        {
+            "palavra": "assassínio"
+        },
+        {
+            "palavra": "fronteiriço"
+        },
+        {
+            "palavra": "defunto"
+        },
+        {
+            "palavra": "chateado"
+        },
+        {
+            "palavra": "volatilidade"
+        },
+        {
+            "palavra": "pá"
+        },
+        {
+            "palavra": "pessimista"
+        },
+        {
+            "palavra": "imaterial"
+        },
+        {
+            "palavra": "bugs"
+        },
+        {
+            "palavra": "lapso"
+        },
+        {
+            "palavra": "grosseira"
+        },
+        {
+            "palavra": "congelada"
+        },
+        {
+            "palavra": "falsamente"
+        },
+        {
+            "palavra": "diarréia"
+        },
+        {
+            "palavra": "desativar"
+        },
+        {
+            "palavra": "colidir"
+        },
+        {
+            "palavra": "cansada"
+        },
+        {
+            "palavra": "melancólico"
+        },
+        {
+            "palavra": "fatalmente"
+        },
+        {
+            "palavra": "inconstitucional"
+        },
+        {
+            "palavra": "despejo"
+        },
+        {
+            "palavra": "resfriado"
+        },
+        {
+            "palavra": "machucar"
+        },
+        {
+            "palavra": "fardo"
+        },
+        {
+            "palavra": "egoísmo"
+        },
+        {
+            "palavra": "deprimido"
+        },
+        {
+            "palavra": "cavar"
+        },
+        {
+            "palavra": "besteira"
+        },
+        {
+            "palavra": "raso"
+        },
+        {
+            "palavra": "insano"
+        },
+        {
+            "palavra": "falido"
+        },
+        {
+            "palavra": "estúpido"
+        },
+        {
+            "palavra": "errante"
+        },
+        {
+            "palavra": "débil"
+        },
+        {
+            "palavra": "demolir"
+        },
+        {
+            "palavra": "erradicar"
+        },
+        {
+            "palavra": "mendigo"
+        },
+        {
+            "palavra": "capitular"
+        },
+        {
+            "palavra": "fissuras"
+        },
+        {
+            "palavra": "infiel"
+        },
+        {
+            "palavra": "desconfiar"
+        },
+        {
+            "palavra": "vômito"
+        },
+        {
+            "palavra": "lamentou"
+        },
+        {
+            "palavra": "imoral"
+        },
+        {
+            "palavra": "sacrificado"
+        },
+        {
+            "palavra": "porcaria"
+        },
+        {
+            "palavra": "isca"
+        },
+        {
+            "palavra": "incômodo"
+        },
+        {
+            "palavra": "dead"
+        },
+        {
+            "palavra": "perfurar"
+        },
+        {
+            "palavra": "fútil"
+        },
+        {
+            "palavra": "escavar"
+        },
+        {
+            "palavra": "fanatismo"
+        },
+        {
+            "palavra": "descontinuidade"
+        },
+        {
+            "palavra": "aprisionamento"
+        },
+        {
+            "palavra": "agravante"
+        },
+        {
+            "palavra": "sufocar"
+        },
+        {
+            "palavra": "sarcástico"
+        },
+        {
+            "palavra": "matador"
+        },
+        {
+            "palavra": "jam"
+        },
+        {
+            "palavra": "incomodar"
+        },
+        {
+            "palavra": "aniquilação"
+        },
+        {
+            "palavra": "perverso"
+        },
+        {
+            "palavra": "ninhada"
+        },
+        {
+            "palavra": "ineficiente"
+        },
+        {
+            "palavra": "incompreensível"
+        },
+        {
+            "palavra": "flagelo"
+        },
+        {
+            "palavra": "transgressão"
+        },
+        {
+            "palavra": "refutar"
+        },
+        {
+            "palavra": "contundente"
+        },
+        {
+            "palavra": "alergia"
+        },
+        {
+            "palavra": "virus"
+        },
+        {
+            "palavra": "problem"
+        },
+        {
+            "palavra": "pessimismo"
+        },
+        {
+            "palavra": "cúmplices"
+        },
+        {
+            "palavra": "retardar"
+        },
+        {
+            "palavra": "posar"
+        },
+        {
+            "palavra": "lodo"
+        },
+        {
+            "palavra": "aprisionar"
+        },
+        {
+            "palavra": "relutantemente"
+        },
+        {
+            "palavra": "enfurecido"
+        },
+        {
+            "palavra": "desprezível"
+        },
+        {
+            "palavra": "descrédito"
+        },
+        {
+            "palavra": "desafeto"
+        },
+        {
+            "palavra": "venenoso"
+        },
+        {
+            "palavra": "repelido"
+        },
+        {
+            "palavra": "relaxar"
+        },
+        {
+            "palavra": "insuportável"
+        },
+        {
+            "palavra": "incompetente"
+        },
+        {
+            "palavra": "enfraquecendo"
+        },
+        {
+            "palavra": "enfermo"
+        },
+        {
+            "palavra": "apocalipse"
+        },
+        {
+            "palavra": "áspero"
+        },
+        {
+            "palavra": "infectar"
+        },
+        {
+            "palavra": "imperfeições"
+        },
+        {
+            "palavra": "involuntariamente"
+        },
+        {
+            "palavra": "inconsistências"
+        },
+        {
+            "palavra": "denegrir"
+        },
+        {
+            "palavra": "temível"
+        },
+        {
+            "palavra": "estupidez"
+        },
+        {
+            "palavra": "complô"
+        },
+        {
+            "palavra": "calamidade"
+        },
+        {
+            "palavra": "nádegas"
+        },
+        {
+            "palavra": "frustrante"
+        },
+        {
+            "palavra": "equivocado"
+        },
+        {
+            "palavra": "deteriorar"
+        },
+        {
+            "palavra": "chocante"
+        },
+        {
+            "palavra": "irritada"
+        },
+        {
+            "palavra": "inapropriado"
+        },
+        {
+            "palavra": "fiasco"
+        },
+        {
+            "palavra": "extorsão"
+        },
+        {
+            "palavra": "crônico"
+        },
+        {
+            "palavra": "profano"
+        },
+        {
+            "palavra": "equívocos"
+        },
+        {
+            "palavra": "odiar"
+        },
+        {
+            "palavra": "cínico"
+        },
+        {
+            "palavra": "austero"
+        },
+        {
+            "palavra": "sarcasmo"
+        },
+        {
+            "palavra": "menstruação"
+        },
+        {
+            "palavra": "coerção"
+        },
+        {
+            "palavra": "bad"
+        },
+        {
+            "palavra": "arriscado"
+        },
+        {
+            "palavra": "terrivelmente"
+        },
+        {
+            "palavra": "desiludido"
+        },
+        {
+            "palavra": "issue"
+        },
+        {
+            "palavra": "inflamatório"
+        },
+        {
+            "palavra": "cisto"
+        },
+        {
+            "palavra": "astuto"
+        },
+        {
+            "palavra": "estrangulamento"
+        },
+        {
+            "palavra": "despotismo"
+        },
+        {
+            "palavra": "traumatismo"
+        },
+        {
+            "palavra": "impraticável"
+        },
+        {
+            "palavra": "bruscamente"
+        },
+        {
+            "palavra": "superficialmente"
+        },
+        {
+            "palavra": "saquear"
+        },
+        {
+            "palavra": "rola"
+        },
+        {
+            "palavra": "apocalíptico"
+        },
+        {
+            "palavra": "simplista"
+        },
+        {
+            "palavra": "preventivo"
+        },
+        {
+            "palavra": "fundamentalismo"
+        },
+        {
+            "palavra": "furar"
+        },
+        {
+            "palavra": "desculpar"
+        },
+        {
+            "palavra": "calúnia"
+        },
+        {
+            "palavra": "austera"
+        },
+        {
+            "palavra": "animosidade"
+        },
+        {
+            "palavra": "suíno"
+        },
+        {
+            "palavra": "rasa"
+        },
+        {
+            "palavra": "inexperiência"
+        },
+        {
+            "palavra": "conspirar"
+        },
+        {
+            "palavra": "paranóia"
+        },
+        {
+            "palavra": "lamentar"
+        },
+        {
+            "palavra": "incomodado"
+        },
+        {
+            "palavra": "incessantemente"
+        },
+        {
+            "palavra": "fissura"
+        },
+        {
+            "palavra": "drenado"
+        },
+        {
+            "palavra": "trastes"
+        },
+        {
+            "palavra": "paradoxal"
+        },
+        {
+            "palavra": "omitir"
+        },
+        {
+            "palavra": "inquietação"
+        },
+        {
+            "palavra": "inconsistente"
+        },
+        {
+            "palavra": "frustrações"
+        },
+        {
+            "palavra": "descuido"
+        },
+        {
+            "palavra": "delírios"
+        },
+        {
+            "palavra": "grosseiramente"
+        },
+        {
+            "palavra": "deformado"
+        },
+        {
+            "palavra": "atenuar"
+        },
+        {
+            "palavra": "revogar"
+        },
+        {
+            "palavra": "inexplicável"
+        },
+        {
+            "palavra": "idiotas"
+        },
+        {
+            "palavra": "horda"
+        },
+        {
+            "palavra": "geada"
+        },
+        {
+            "palavra": "arruinar"
+        },
+        {
+            "palavra": "rachaduras"
+        },
+        {
+            "palavra": "minar"
+        },
+        {
+            "palavra": "indesejável"
+        },
+        {
+            "palavra": "chantagem"
+        },
+        {
+            "palavra": "censurar"
+        },
+        {
+            "palavra": "tragicamente"
+        },
+        {
+            "palavra": "paralisada"
+        },
+        {
+            "palavra": "noise"
+        },
+        {
+            "palavra": "mico"
+        },
+        {
+            "palavra": "incoerente"
+        },
+        {
+            "palavra": "desaprovação"
+        },
+        {
+            "palavra": "avesso"
+        },
+        {
+            "palavra": "aniquilar"
+        },
+        {
+            "palavra": "irritar"
+        },
+        {
+            "palavra": "demoníaco"
+        },
+        {
+            "palavra": "oportunista"
+        },
+        {
+            "palavra": "desabamento"
+        },
+        {
+            "palavra": "furor"
+        },
+        {
+            "palavra": "enigmático"
+        },
+        {
+            "palavra": "veemente"
+        },
+        {
+            "palavra": "imperfeito"
+        },
+        {
+            "palavra": "apatia"
+        },
+        {
+            "palavra": "vil"
+        },
+        {
+            "palavra": "pavor"
+        },
+        {
+            "palavra": "desorganizado"
+        },
+        {
+            "palavra": "antagonismo"
+        },
+        {
+            "palavra": "verga"
+        },
+        {
+            "palavra": "sucata"
+        },
+        {
+            "palavra": "maníaco"
+        },
+        {
+            "palavra": "embriagado"
+        },
+        {
+            "palavra": "destruidor"
+        },
+        {
+            "palavra": "desprezado"
+        },
+        {
+            "palavra": "desconfiado"
+        },
+        {
+            "palavra": "desarmar"
+        },
+        {
+            "palavra": "anseio"
+        },
+        {
+            "palavra": "ruivo"
+        },
+        {
+            "palavra": "refutação"
+        },
+        {
+            "palavra": "desnecessariamente"
+        },
+        {
+            "palavra": "assaltar"
+        },
+        {
+            "palavra": "retalho"
+        },
+        {
+            "palavra": "rail"
+        },
+        {
+            "palavra": "merda"
+        },
+        {
+            "palavra": "inflexível"
+        },
+        {
+            "palavra": "desmoronamento"
+        },
+        {
+            "palavra": "desapontamento"
+        },
+        {
+            "palavra": "totalitário"
+        },
+        {
+            "palavra": "latência"
+        },
+        {
+            "palavra": "impotente"
+        },
+        {
+            "palavra": "gângster"
+        },
+        {
+            "palavra": "distorcer"
+        },
+        {
+            "palavra": "tédio"
+        },
+        {
+            "palavra": "monstruoso"
+        },
+        {
+            "palavra": "drag"
+        },
+        {
+            "palavra": "decair"
+        },
+        {
+            "palavra": "danificando"
+        },
+        {
+            "palavra": "abortar"
+        },
+        {
+            "palavra": "viciados"
+        },
+        {
+            "palavra": "ternura"
+        },
+        {
+            "palavra": "oxidado"
+        },
+        {
+            "palavra": "mentiu"
+        },
+        {
+            "palavra": "intransigente"
+        },
+        {
+            "palavra": "rue"
+        },
+        {
+            "palavra": "podre"
+        },
+        {
+            "palavra": "nervosismo"
+        },
+        {
+            "palavra": "inundado"
+        },
+        {
+            "palavra": "castigar"
+        },
+        {
+            "palavra": "rasgado"
+        },
+        {
+            "palavra": "oposições"
+        },
+        {
+            "palavra": "object"
+        },
+        {
+            "palavra": "nocivo"
+        },
+        {
+            "palavra": "chocada"
+        },
+        {
+            "palavra": "amargura"
+        },
+        {
+            "palavra": "static"
+        },
+        {
+            "palavra": "nepotismo"
+        },
+        {
+            "palavra": "desdém"
+        },
+        {
+            "palavra": "traumático"
+        },
+        {
+            "palavra": "prescrito"
+        },
+        {
+            "palavra": "exausto"
+        },
+        {
+            "palavra": "caracteristicamente"
+        },
+        {
+            "palavra": "repulsa"
+        },
+        {
+            "palavra": "impessoal"
+        },
+        {
+            "palavra": "ferver"
+        },
+        {
+            "palavra": "detonar"
+        },
+        {
+            "palavra": "desapontado"
+        },
+        {
+            "palavra": "junco"
+        },
+        {
+            "palavra": "ferrugem"
+        },
+        {
+            "palavra": "expropriação"
+        },
+        {
+            "palavra": "estrago"
+        },
+        {
+            "palavra": "brando"
+        },
+        {
+            "palavra": "alergias"
+        },
+        {
+            "palavra": "abrupto"
+        },
+        {
+            "palavra": "retórico"
+        },
+        {
+            "palavra": "racha"
+        },
+        {
+            "palavra": "portagem"
+        },
+        {
+            "palavra": "paradoxalmente"
+        },
+        {
+            "palavra": "intrusão"
+        },
+        {
+            "palavra": "insensível"
+        },
+        {
+            "palavra": "estratagema"
+        },
+        {
+            "palavra": "drenar"
+        },
+        {
+            "palavra": "beligerantes"
+        },
+        {
+            "palavra": "banal"
+        },
+        {
+            "palavra": "retroceder"
+        },
+        {
+            "palavra": "polémico"
+        },
+        {
+            "palavra": "nonsense"
+        },
+        {
+            "palavra": "ineficiência"
+        },
+        {
+            "palavra": "esgotar"
+        },
+        {
+            "palavra": "bancarrota"
+        },
+        {
+            "palavra": "tocos"
+        },
+        {
+            "palavra": "golpear"
+        },
+        {
+            "palavra": "distraído"
+        },
+        {
+            "palavra": "confiscado"
+        },
+        {
+            "palavra": "cauteloso"
+        },
+        {
+            "palavra": "analfabeto"
+        },
+        {
+            "palavra": "volumoso"
+        },
+        {
+            "palavra": "traindo"
+        },
+        {
+            "palavra": "plebeu"
+        },
+        {
+            "palavra": "manchada"
+        },
+        {
+            "palavra": "infortúnio"
+        },
+        {
+            "palavra": "ferocidade"
+        },
+        {
+            "palavra": "trindade"
+        },
+        {
+            "palavra": "simulado"
+        },
+        {
+            "palavra": "involuntário"
+        },
+        {
+            "palavra": "infligir"
+        },
+        {
+            "palavra": "despojos"
+        },
+        {
+            "palavra": "cancer"
+        },
+        {
+            "palavra": "vicioso"
+        },
+        {
+            "palavra": "sucumbir"
+        },
+        {
+            "palavra": "subverter"
+        },
+        {
+            "palavra": "esquisito"
+        },
+        {
+            "palavra": "desafiador"
+        },
+        {
+            "palavra": "cortante"
+        },
+        {
+            "palavra": "matadouro"
+        },
+        {
+            "palavra": "foragido"
+        },
+        {
+            "palavra": "culpar"
+        },
+        {
+            "palavra": "azedo"
+        },
+        {
+            "palavra": "atrofia"
+        },
+        {
+            "palavra": "sabotar"
+        },
+        {
+            "palavra": "impreciso"
+        },
+        {
+            "palavra": "debandada"
+        },
+        {
+            "palavra": "corrosivo"
+        },
+        {
+            "palavra": "corromper"
+        },
+        {
+            "palavra": "clamor"
+        },
+        {
+            "palavra": "pendurar"
+        },
+        {
+            "palavra": "insultado"
+        },
+        {
+            "palavra": "fragmentado"
+        },
+        {
+            "palavra": "desprezar"
+        },
+        {
+            "palavra": "degradar"
+        },
+        {
+            "palavra": "torturada"
+        },
+        {
+            "palavra": "torto"
+        },
+        {
+            "palavra": "paralisar"
+        },
+        {
+            "palavra": "impunidade"
+        },
+        {
+            "palavra": "enfureceu"
+        },
+        {
+            "palavra": "descrença"
+        },
+        {
+            "palavra": "protestando"
+        },
+        {
+            "palavra": "panelinha"
+        },
+        {
+            "palavra": "impaciente"
+        },
+        {
+            "palavra": "disorder"
+        },
+        {
+            "palavra": "impostor"
+        },
+        {
+            "palavra": "frustrar"
+        },
+        {
+            "palavra": "desajeitado"
+        },
+        {
+            "palavra": "cheira"
+        },
+        {
+            "palavra": "ameaçador"
+        },
+        {
+            "palavra": "vibrar"
+        },
+        {
+            "palavra": "torturar"
+        },
+        {
+            "palavra": "moribundo"
+        },
+        {
+            "palavra": "grotesco"
+        },
+        {
+            "palavra": "attack"
+        },
+        {
+            "palavra": "vaidoso"
+        },
+        {
+            "palavra": "realce"
+        },
+        {
+            "palavra": "infernal"
+        },
+        {
+            "palavra": "chocados"
+        },
+        {
+            "palavra": "alvoroço"
+        },
+        {
+            "palavra": "wild"
+        },
+        {
+            "palavra": "impiedoso"
+        },
+        {
+            "palavra": "imobilizado"
+        },
+        {
+            "palavra": "déspota"
+        },
+        {
+            "palavra": "demónio"
+        },
+        {
+            "palavra": "blasfêmia"
+        },
+        {
+            "palavra": "apressadamente"
+        },
+        {
+            "palavra": "imaturo"
+        },
+        {
+            "palavra": "fraudar"
+        },
+        {
+            "palavra": "fracassar"
+        },
+        {
+            "palavra": "repressivo"
+        },
+        {
+            "palavra": "ranger"
+        },
+        {
+            "palavra": "marionete"
+        },
+        {
+            "palavra": "imprecisão"
+        },
+        {
+            "palavra": "enganando"
+        },
+        {
+            "palavra": "empenhar"
+        },
+        {
+            "palavra": "desintegrou"
+        },
+        {
+            "palavra": "absurdamente"
+        },
+        {
+            "palavra": "Nêmesis"
+        },
+        {
+            "palavra": "queixar"
+        },
+        {
+            "palavra": "indisponível"
+        },
+        {
+            "palavra": "esticar"
+        },
+        {
+            "palavra": "desmoronar"
+        },
+        {
+            "palavra": "degenerado"
+        },
+        {
+            "palavra": "cruelmente"
+        },
+        {
+            "palavra": "unexpected"
+        },
+        {
+            "palavra": "destroyer"
+        },
+        {
+            "palavra": "curvado"
+        },
+        {
+            "palavra": "restringido"
+        },
+        {
+            "palavra": "hipócrita"
+        },
+        {
+            "palavra": "desocupado"
+        },
+        {
+            "palavra": "ciumento"
+        },
+        {
+            "palavra": "tormento"
+        },
+        {
+            "palavra": "suga"
+        },
+        {
+            "palavra": "radicalização"
+        },
+        {
+            "palavra": "maléfico"
+        },
+        {
+            "palavra": "desintegrar"
+        },
+        {
+            "palavra": "infiéis"
+        },
+        {
+            "palavra": "inescrupuloso"
+        },
+        {
+            "palavra": "inconsistência"
+        },
+        {
+            "palavra": "faro"
+        },
+        {
+            "palavra": "extremista"
+        },
+        {
+            "palavra": "cinismo"
+        },
+        {
+            "palavra": "implorando"
+        },
+        {
+            "palavra": "fofoca"
+        },
+        {
+            "palavra": "esmagamento"
+        },
+        {
+            "palavra": "desencorajar"
+        },
+        {
+            "palavra": "cansativo"
+        },
+        {
+            "palavra": "tremer"
+        },
+        {
+            "palavra": "indecisão"
+        },
+        {
+            "palavra": "febres"
+        },
+        {
+            "palavra": "envenenar"
+        },
+        {
+            "palavra": "defeituoso"
+        },
+        {
+            "palavra": "contaminar"
+        },
+        {
+            "palavra": "apressar"
+        },
+        {
+            "palavra": "indiscriminadamente"
+        },
+        {
+            "palavra": "herege"
+        },
+        {
+            "palavra": "deboche"
+        },
+        {
+            "palavra": "boicotar"
+        },
+        {
+            "palavra": "vingativo"
+        },
+        {
+            "palavra": "problems"
+        },
+        {
+            "palavra": "mágoa"
+        },
+        {
+            "palavra": "formigueiro"
+        },
+        {
+            "palavra": "dissonância"
+        },
+        {
+            "palavra": "difamar"
+        },
+        {
+            "palavra": "desterro"
+        },
+        {
+            "palavra": "compulsão"
+        },
+        {
+            "palavra": "sugado"
+        },
+        {
+            "palavra": "queimadura"
+        },
+        {
+            "palavra": "pavimentado"
+        },
+        {
+            "palavra": "envergonhado"
+        },
+        {
+            "palavra": "deteriorando"
+        },
+        {
+            "palavra": "deteriorado"
+        },
+        {
+            "palavra": "crash"
+        },
+        {
+            "palavra": "afogar"
+        },
+        {
+            "palavra": "teimosia"
+        },
+        {
+            "palavra": "rasgar"
+        },
+        {
+            "palavra": "malícia"
+        },
+        {
+            "palavra": "entulho"
+        },
+        {
+            "palavra": "desânimo"
+        },
+        {
+            "palavra": "cilada"
+        },
+        {
+            "palavra": "tombo"
+        },
+        {
+            "palavra": "sujeição"
+        },
+        {
+            "palavra": "ruir"
+        },
+        {
+            "palavra": "perversão"
+        },
+        {
+            "palavra": "maldito"
+        },
+        {
+            "palavra": "escárnio"
+        },
+        {
+            "palavra": "derramar"
+        },
+        {
+            "palavra": "curandeiro"
+        },
+        {
+            "palavra": "clichê"
+        },
+        {
+            "palavra": "calha"
+        },
+        {
+            "palavra": "calabouço"
+        },
+        {
+            "palavra": "mediocridade"
+        },
+        {
+            "palavra": "horrorizado"
+        },
+        {
+            "palavra": "expirar"
+        },
+        {
+            "palavra": "desacreditar"
+        },
+        {
+            "palavra": "syndrome"
+        },
+        {
+            "palavra": "malicioso"
+        },
+        {
+            "palavra": "esfriar"
+        },
+        {
+            "palavra": "tendenciosa"
+        },
+        {
+            "palavra": "sue"
+        },
+        {
+            "palavra": "repartir"
+        },
+        {
+            "palavra": "protuberância"
+        },
+        {
+            "palavra": "inquieto"
+        },
+        {
+            "palavra": "indigno"
+        },
+        {
+            "palavra": "doentio"
+        },
+        {
+            "palavra": "calamidades"
+        },
+        {
+            "palavra": "açougueiro"
+        },
+        {
+            "palavra": "servil"
+        },
+        {
+            "palavra": "lost"
+        },
+        {
+            "palavra": "intrigado"
+        },
+        {
+            "palavra": "enganosa"
+        },
+        {
+            "palavra": "dispendioso"
+        },
+        {
+            "palavra": "critical"
+        },
+        {
+            "palavra": "carnificina"
+        },
+        {
+            "palavra": "adverso"
+        },
+        {
+            "palavra": "suspiro"
+        },
+        {
+            "palavra": "sangrar"
+        },
+        {
+            "palavra": "saca"
+        },
+        {
+            "palavra": "propôr"
+        },
+        {
+            "palavra": "precipitar"
+        },
+        {
+            "palavra": "fanática"
+        },
+        {
+            "palavra": "escandaloso"
+        },
+        {
+            "palavra": "delay"
+        },
+        {
+            "palavra": "mundano"
+        },
+        {
+            "palavra": "indeciso"
+        },
+        {
+            "palavra": "inanição"
+        },
+        {
+            "palavra": "impulsivo"
+        },
+        {
+            "palavra": "desleal"
+        },
+        {
+            "palavra": "alucinação"
+        },
+        {
+            "palavra": "virulência"
+        },
+        {
+            "palavra": "toco"
+        },
+        {
+            "palavra": "ridicularizar"
+        },
+        {
+            "palavra": "nublado"
+        },
+        {
+            "palavra": "fugaz"
+        },
+        {
+            "palavra": "enxerto"
+        },
+        {
+            "palavra": "curvar"
+        },
+        {
+            "palavra": "barulhento"
+        },
+        {
+            "palavra": "ansiosamente"
+        },
+        {
+            "palavra": "penúria"
+        },
+        {
+            "palavra": "palhaçada"
+        },
+        {
+            "palavra": "intruso"
+        },
+        {
+            "palavra": "fall"
+        },
+        {
+            "palavra": "extravagância"
+        },
+        {
+            "palavra": "desonesto"
+        },
+        {
+            "palavra": "bastardos"
+        },
+        {
+            "palavra": "subalterno"
+        },
+        {
+            "palavra": "maldições"
+        },
+        {
+            "palavra": "iludir"
+        },
+        {
+            "palavra": "fatídico"
+        },
+        {
+            "palavra": "desolado"
+        },
+        {
+            "palavra": "descontrolado"
+        },
+        {
+            "palavra": "retardado"
+        },
+        {
+            "palavra": "repreendeu"
+        },
+        {
+            "palavra": "infrator"
+        },
+        {
+            "palavra": "impureza"
+        },
+        {
+            "palavra": "ignore"
+        },
+        {
+            "palavra": "emaranhado"
+        },
+        {
+            "palavra": "conluio"
+        },
+        {
+            "palavra": "alienado"
+        },
+        {
+            "palavra": "excêntricos"
+        },
+        {
+            "palavra": "escravizar"
+        },
+        {
+            "palavra": "desmaiar"
+        },
+        {
+            "palavra": "contradizer"
+        },
+        {
+            "palavra": "burla"
+        },
+        {
+            "palavra": "subjugado"
+        },
+        {
+            "palavra": "monotonia"
+        },
+        {
+            "palavra": "ladra"
+        },
+        {
+            "palavra": "injúria"
+        },
+        {
+            "palavra": "indiscriminado"
+        },
+        {
+            "palavra": "impiedosamente"
+        },
+        {
+            "palavra": "impensável"
+        },
+        {
+            "palavra": "forasteiro"
+        },
+        {
+            "palavra": "trapaça"
+        },
+        {
+            "palavra": "sobrecarregar"
+        },
+        {
+            "palavra": "retrógrado"
+        },
+        {
+            "palavra": "perplexo"
+        },
+        {
+            "palavra": "oblíquo"
+        },
+        {
+            "palavra": "impugnar"
+        },
+        {
+            "palavra": "desfavorecidos"
+        },
+        {
+            "palavra": "agitar"
+        },
+        {
+            "palavra": "riscado"
+        },
+        {
+            "palavra": "killed"
+        },
+        {
+            "palavra": "infestada"
+        },
+        {
+            "palavra": "impetuoso"
+        },
+        {
+            "palavra": "herético"
+        },
+        {
+            "palavra": "hell"
+        },
+        {
+            "palavra": "ganancioso"
+        },
+        {
+            "palavra": "falácias"
+        },
+        {
+            "palavra": "constipação"
+        },
+        {
+            "palavra": "collapse"
+        },
+        {
+            "palavra": "bombear"
+        },
+        {
+            "palavra": "atirada"
+        },
+        {
+            "palavra": "aborrecido"
+        },
+        {
+            "palavra": "senhorita"
+        },
+        {
+            "palavra": "kill"
+        },
+        {
+            "palavra": "invalidar"
+        },
+        {
+            "palavra": "infringir"
+        },
+        {
+            "palavra": "gangster"
+        },
+        {
+            "palavra": "friamente"
+        },
+        {
+            "palavra": "catastrófico"
+        },
+        {
+            "palavra": "arrasar"
+        },
+        {
+            "palavra": "abortado"
+        },
+        {
+            "palavra": "usurpar"
+        },
+        {
+            "palavra": "tristemente"
+        },
+        {
+            "palavra": "subtrair"
+        },
+        {
+            "palavra": "poluir"
+        },
+        {
+            "palavra": "isolação"
+        },
+        {
+            "palavra": "invasivo"
+        },
+        {
+            "palavra": "inelegível"
+        },
+        {
+            "palavra": "ineficácia"
+        },
+        {
+            "palavra": "impuro"
+        },
+        {
+            "palavra": "imprecisões"
+        },
+        {
+            "palavra": "fantasioso"
+        },
+        {
+            "palavra": "dreno"
+        },
+        {
+            "palavra": "discordando"
+        },
+        {
+            "palavra": "deplorável"
+        },
+        {
+            "palavra": "treta"
+        },
+        {
+            "palavra": "expirado"
+        },
+        {
+            "palavra": "diabólico"
+        },
+        {
+            "palavra": "desobedecer"
+        },
+        {
+            "palavra": "vazamentos"
+        },
+        {
+            "palavra": "maléfica"
+        },
+        {
+            "palavra": "inundar"
+        },
+        {
+            "palavra": "imoralidade"
+        },
+        {
+            "palavra": "espinhoso"
+        },
+        {
+            "palavra": "desconsiderar"
+        },
+        {
+            "palavra": "atormentar"
+        },
+        {
+            "palavra": "submisso"
+        },
+        {
+            "palavra": "oprimido"
+        },
+        {
+            "palavra": "humildemente"
+        },
+        {
+            "palavra": "cu"
+        },
+        {
+            "palavra": "agonizante"
+        },
+        {
+            "palavra": "zeloso"
+        },
+        {
+            "palavra": "mutilado"
+        },
+        {
+            "palavra": "infiltrados"
+        },
+        {
+            "palavra": "infestado"
+        },
+        {
+            "palavra": "delirante"
+        },
+        {
+            "palavra": "decepções"
+        },
+        {
+            "palavra": "abusado"
+        },
+        {
+            "palavra": "furado"
+        },
+        {
+            "palavra": "complex"
+        },
+        {
+            "palavra": "apologista"
+        },
+        {
+            "palavra": "amortecedor"
+        },
+        {
+            "palavra": "sitiar"
+        },
+        {
+            "palavra": "repugnante"
+        },
+        {
+            "palavra": "indecente"
+        },
+        {
+            "palavra": "homicida"
+        },
+        {
+            "palavra": "hesitante"
+        },
+        {
+            "palavra": "frenético"
+        },
+        {
+            "palavra": "falho"
+        },
+        {
+            "palavra": "expelir"
+        },
+        {
+            "palavra": "exagerar"
+        },
+        {
+            "palavra": "devassa"
+        },
+        {
+            "palavra": "depreciativo"
+        },
+        {
+            "palavra": "trash"
+        },
+        {
+            "palavra": "hack"
+        },
+        {
+            "palavra": "evadir"
+        },
+        {
+            "palavra": "escória"
+        },
+        {
+            "palavra": "empurrão"
+        },
+        {
+            "palavra": "downhill"
+        },
+        {
+            "palavra": "desonra"
+        },
+        {
+            "palavra": "burlesco"
+        },
+        {
+            "palavra": "autocrático"
+        },
+        {
+            "palavra": "xingar"
+        },
+        {
+            "palavra": "subordinar"
+        },
+        {
+            "palavra": "privar"
+        },
+        {
+            "palavra": "perturbador"
+        },
+        {
+            "palavra": "esnobe"
+        },
+        {
+            "palavra": "din"
+        },
+        {
+            "palavra": "desertar"
+        },
+        {
+            "palavra": "consternação"
+        },
+        {
+            "palavra": "cansar"
+        },
+        {
+            "palavra": "bronca"
+        },
+        {
+            "palavra": "vergonhoso"
+        },
+        {
+            "palavra": "pervertido"
+        },
+        {
+            "palavra": "oscilar"
+        },
+        {
+            "palavra": "obstruir"
+        },
+        {
+            "palavra": "issues"
+        },
+        {
+            "palavra": "inóspito"
+        },
+        {
+            "palavra": "dormente"
+        },
+        {
+            "palavra": "abuse"
+        },
+        {
+            "palavra": "súplicas"
+        },
+        {
+            "palavra": "sudário"
+        },
+        {
+            "palavra": "obsceno"
+        },
+        {
+            "palavra": "inconstante"
+        },
+        {
+            "palavra": "imobilizar"
+        },
+        {
+            "palavra": "gosma"
+        },
+        {
+            "palavra": "gimmick"
+        },
+        {
+            "palavra": "drástico"
+        },
+        {
+            "palavra": "warning"
+        },
+        {
+            "palavra": "traiçoeiro"
+        },
+        {
+            "palavra": "squash"
+        },
+        {
+            "palavra": "moer"
+        },
+        {
+            "palavra": "fraudulento"
+        },
+        {
+            "palavra": "embuste"
+        },
+        {
+            "palavra": "dogmático"
+        },
+        {
+            "palavra": "dissuadir"
+        },
+        {
+            "palavra": "disruptivo"
+        },
+        {
+            "palavra": "birra"
+        },
+        {
+            "palavra": "abominável"
+        },
+        {
+            "palavra": "pinto"
+        },
+        {
+            "palavra": "perdiz"
+        },
+        {
+            "palavra": "magoado"
+        },
+        {
+            "palavra": "estridente"
+        },
+        {
+            "palavra": "esticado"
+        },
+        {
+            "palavra": "espancamento"
+        },
+        {
+            "palavra": "crisis"
+        },
+        {
+            "palavra": "contencioso"
+        },
+        {
+            "palavra": "burrice"
+        },
+        {
+            "palavra": "apressado"
+        },
+        {
+            "palavra": "antiquado"
+        },
+        {
+            "palavra": "vomitar"
+        },
+        {
+            "palavra": "ténue"
+        },
+        {
+            "palavra": "profanação"
+        },
+        {
+            "palavra": "loba"
+        },
+        {
+            "palavra": "inflamado"
+        },
+        {
+            "palavra": "imprudência"
+        },
+        {
+            "palavra": "ilegível"
+        },
+        {
+            "palavra": "estagnado"
+        },
+        {
+            "palavra": "embalar"
+        },
+        {
+            "palavra": "zombar"
+        },
+        {
+            "palavra": "reacionário"
+        },
+        {
+            "palavra": "mentirosa"
+        },
+        {
+            "palavra": "lixeira"
+        },
+        {
+            "palavra": "letargia"
+        },
+        {
+            "palavra": "insinuação"
+        },
+        {
+            "palavra": "devastar"
+        },
+        {
+            "palavra": "tank"
+        },
+        {
+            "palavra": "subjugação"
+        },
+        {
+            "palavra": "soprar"
+        },
+        {
+            "palavra": "revoltar"
+        },
+        {
+            "palavra": "rachadura"
+        },
+        {
+            "palavra": "partisans"
+        },
+        {
+            "palavra": "loucamente"
+        },
+        {
+            "palavra": "furiosamente"
+        },
+        {
+            "palavra": "excêntricas"
+        },
+        {
+            "palavra": "embaraço"
+        },
+        {
+            "palavra": "desgostoso"
+        },
+        {
+            "palavra": "delinquente"
+        },
+        {
+            "palavra": "coceira"
+        },
+        {
+            "palavra": "chocalho"
+        },
+        {
+            "palavra": "beligerante"
+        },
+        {
+            "palavra": "acrobacia"
+        },
+        {
+            "palavra": "risk"
+        },
+        {
+            "palavra": "pitada"
+        },
+        {
+            "palavra": "perecer"
+        },
+        {
+            "palavra": "obeso"
+        },
+        {
+            "palavra": "malucos"
+        },
+        {
+            "palavra": "intimação"
+        },
+        {
+            "palavra": "insensibilidade"
+        },
+        {
+            "palavra": "inadequação"
+        },
+        {
+            "palavra": "graxa"
+        },
+        {
+            "palavra": "distorce"
+        },
+        {
+            "palavra": "demandar"
+        },
+        {
+            "palavra": "combativo"
+        },
+        {
+            "palavra": "zumbido"
+        },
+        {
+            "palavra": "recaída"
+        },
+        {
+            "palavra": "punível"
+        },
+        {
+            "palavra": "periculosidade"
+        },
+        {
+            "palavra": "perdição"
+        },
+        {
+            "palavra": "neurótico"
+        },
+        {
+            "palavra": "insaciável"
+        },
+        {
+            "palavra": "discordaram"
+        },
+        {
+            "palavra": "bunda"
+        },
+        {
+            "palavra": "adversidade"
+        },
+        {
+            "palavra": "pomposo"
+        },
+        {
+            "palavra": "obstinado"
+        },
+        {
+            "palavra": "mórbido"
+        },
+        {
+            "palavra": "mácula"
+        },
+        {
+            "palavra": "macabro"
+        },
+        {
+            "palavra": "inimaginável"
+        },
+        {
+            "palavra": "imprevisto"
+        },
+        {
+            "palavra": "impaciência"
+        },
+        {
+            "palavra": "discriminar"
+        },
+        {
+            "palavra": "diametralmente"
+        },
+        {
+            "palavra": "desanimado"
+        },
+        {
+            "palavra": "refutado"
+        },
+        {
+            "palavra": "raspar"
+        },
+        {
+            "palavra": "desperdiçado"
+        },
+        {
+            "palavra": "desafogar"
+        },
+        {
+            "palavra": "carestia"
+        },
+        {
+            "palavra": "assediado"
+        },
+        {
+            "palavra": "torrente"
+        },
+        {
+            "palavra": "strike"
+        },
+        {
+            "palavra": "refuta"
+        },
+        {
+            "palavra": "querela"
+        },
+        {
+            "palavra": "maldita"
+        },
+        {
+            "palavra": "errático"
+        },
+        {
+            "palavra": "emanações"
+        },
+        {
+            "palavra": "difamatório"
+        },
+        {
+            "palavra": "desconsiderado"
+        },
+        {
+            "palavra": "chantagear"
+        },
+        {
+            "palavra": "vertiginoso"
+        },
+        {
+            "palavra": "retaliar"
+        },
+        {
+            "palavra": "opressores"
+        },
+        {
+            "palavra": "mortífero"
+        },
+        {
+            "palavra": "implorar"
+        },
+        {
+            "palavra": "fervura"
+        },
+        {
+            "palavra": "faminto"
+        },
+        {
+            "palavra": "dissonante"
+        },
+        {
+            "palavra": "confiscar"
+        },
+        {
+            "palavra": "brusco"
+        },
+        {
+            "palavra": "avaria"
+        },
+        {
+            "palavra": "arder"
+        },
+        {
+            "palavra": "supérfluo"
+        },
+        {
+            "palavra": "repudiar"
+        },
+        {
+            "palavra": "piranha"
+        },
+        {
+            "palavra": "patético"
+        },
+        {
+            "palavra": "slow"
+        },
+        {
+            "palavra": "perturba"
+        },
+        {
+            "palavra": "estressante"
+        },
+        {
+            "palavra": "ermo"
+        },
+        {
+            "palavra": "Buggy"
+        },
+        {
+            "palavra": "temeroso"
+        },
+        {
+            "palavra": "ressentido"
+        },
+        {
+            "palavra": "ocioso"
+        },
+        {
+            "palavra": "insuperável"
+        },
+        {
+            "palavra": "falir"
+        },
+        {
+            "palavra": "despejado"
+        },
+        {
+            "palavra": "acusador"
+        },
+        {
+            "palavra": "wrong"
+        },
+        {
+            "palavra": "subversivo"
+        },
+        {
+            "palavra": "sanguinário"
+        },
+        {
+            "palavra": "rotineiro"
+        },
+        {
+            "palavra": "rebaixar"
+        },
+        {
+            "palavra": "lamentavelmente"
+        },
+        {
+            "palavra": "intolerável"
+        },
+        {
+            "palavra": "inexorável"
+        },
+        {
+            "palavra": "incomodando"
+        },
+        {
+            "palavra": "furtar"
+        },
+        {
+            "palavra": "entediado"
+        },
+        {
+            "palavra": "doutrinação"
+        },
+        {
+            "palavra": "desperdiçar"
+        },
+        {
+            "palavra": "deformar"
+        },
+        {
+            "palavra": "rugas"
+        },
+        {
+            "palavra": "queer"
+        },
+        {
+            "palavra": "pilhar"
+        },
+        {
+            "palavra": "perturbando"
+        },
+        {
+            "palavra": "oversight"
+        },
+        {
+            "palavra": "instigar"
+        },
+        {
+            "palavra": "imbecil"
+        },
+        {
+            "palavra": "estereotipada"
+        },
+        {
+            "palavra": "encalhado"
+        },
+        {
+            "palavra": "empobrecida"
+        },
+        {
+            "palavra": "desumano"
+        },
+        {
+            "palavra": "danoso"
+        },
+        {
+            "palavra": "alarmante"
+        },
+        {
+            "palavra": "abrasivo"
+        },
+        {
+            "palavra": "tempestuoso"
+        },
+        {
+            "palavra": "satirizar"
+        },
+        {
+            "palavra": "saciar"
+        },
+        {
+            "palavra": "ralo"
+        },
+        {
+            "palavra": "indefeso"
+        },
+        {
+            "palavra": "incómodo"
+        },
+        {
+            "palavra": "imperfeição"
+        },
+        {
+            "palavra": "hedonista"
+        },
+        {
+            "palavra": "conflict"
+        },
+        {
+            "palavra": "aterrorizar"
+        },
+        {
+            "palavra": "alçapão"
+        },
+        {
+            "palavra": "tolice"
+        },
+        {
+            "palavra": "restritivo"
+        },
+        {
+            "palavra": "pendurou"
+        },
+        {
+            "palavra": "opressor"
+        },
+        {
+            "palavra": "negligenciadas"
+        },
+        {
+            "palavra": "marra"
+        },
+        {
+            "palavra": "febril"
+        },
+        {
+            "palavra": "escurecer"
+        },
+        {
+            "palavra": "enlouquecer"
+        },
+        {
+            "palavra": "died"
+        },
+        {
+            "palavra": "desabilitar"
+        },
+        {
+            "palavra": "defensive"
+        },
+        {
+            "palavra": "cio"
+        },
+        {
+            "palavra": "cataclismo"
+        },
+        {
+            "palavra": "breaks"
+        },
+        {
+            "palavra": "bomb"
+        },
+        {
+            "palavra": "afrontar"
+        },
+        {
+            "palavra": "aborrecimento"
+        },
+        {
+            "palavra": "tosco"
+        },
+        {
+            "palavra": "recair"
+        },
+        {
+            "palavra": "querelas"
+        },
+        {
+            "palavra": "provação"
+        },
+        {
+            "palavra": "masmorra"
+        },
+        {
+            "palavra": "manipuladora"
+        },
+        {
+            "palavra": "grampo"
+        },
+        {
+            "palavra": "falsificar"
+        },
+        {
+            "palavra": "desolação"
+        },
+        {
+            "palavra": "amargamente"
+        },
+        {
+            "palavra": "pobremente"
+        },
+        {
+            "palavra": "oxidar"
+        },
+        {
+            "palavra": "monótono"
+        },
+        {
+            "palavra": "impropriamente"
+        },
+        {
+            "palavra": "desunião"
+        },
+        {
+            "palavra": "desinteressado"
+        },
+        {
+            "palavra": "desintegra"
+        },
+        {
+            "palavra": "descuidado"
+        },
+        {
+            "palavra": "compulsive"
+        },
+        {
+            "palavra": "carril"
+        },
+        {
+            "palavra": "azarado"
+        },
+        {
+            "palavra": "assediar"
+        },
+        {
+            "palavra": "tout"
+        },
+        {
+            "palavra": "tortuoso"
+        },
+        {
+            "palavra": "tirânico"
+        },
+        {
+            "palavra": "provocante"
+        },
+        {
+            "palavra": "picareta"
+        },
+        {
+            "palavra": "picar"
+        },
+        {
+            "palavra": "marginalmente"
+        },
+        {
+            "palavra": "flertar"
+        },
+        {
+            "palavra": "filete"
+        },
+        {
+            "palavra": "espreita"
+        },
+        {
+            "palavra": "desgastar"
+        },
+        {
+            "palavra": "desclassificados"
+        },
+        {
+            "palavra": "desabar"
+        },
+        {
+            "palavra": "aleijado"
+        },
+        {
+            "palavra": "abusada"
+        },
+        {
+            "palavra": "sujeitar"
+        },
+        {
+            "palavra": "queixando"
+        },
+        {
+            "palavra": "oneroso"
+        },
+        {
+            "palavra": "insultando"
+        },
+        {
+            "palavra": "inflamar"
+        },
+        {
+            "palavra": "frouxo"
+        },
+        {
+            "palavra": "esmagador"
+        },
+        {
+            "palavra": "errôneo"
+        },
+        {
+            "palavra": "badalado"
+        },
+        {
+            "palavra": "traumatizado"
+        },
+        {
+            "palavra": "obscenidade"
+        },
+        {
+            "palavra": "magoar"
+        },
+        {
+            "palavra": "incendiário"
+        },
+        {
+            "palavra": "inadequadamente"
+        },
+        {
+            "palavra": "hoax"
+        },
+        {
+            "palavra": "futilidade"
+        },
+        {
+            "palavra": "facada"
+        },
+        {
+            "palavra": "esboçado"
+        },
+        {
+            "palavra": "enfaticamente"
+        },
+        {
+            "palavra": "blind"
+        },
+        {
+            "palavra": "arranhões"
+        },
+        {
+            "palavra": "ambivalente"
+        },
+        {
+            "palavra": "ulterior"
+        },
+        {
+            "palavra": "irreparável"
+        },
+        {
+            "palavra": "frenesi"
+        },
+        {
+            "palavra": "estuprar"
+        },
+        {
+            "palavra": "desconcertante"
+        },
+        {
+            "palavra": "decepcionar"
+        },
+        {
+            "palavra": "cafetão"
+        },
+        {
+            "palavra": "angustiado"
+        },
+        {
+            "palavra": "víbora"
+        },
+        {
+            "palavra": "sobrecarregado"
+        },
+        {
+            "palavra": "receoso"
+        },
+        {
+            "palavra": "puta"
+        },
+        {
+            "palavra": "petrificada"
+        },
+        {
+            "palavra": "pegajoso"
+        },
+        {
+            "palavra": "injustificada"
+        },
+        {
+            "palavra": "inconcebível"
+        },
+        {
+            "palavra": "guincho"
+        },
+        {
+            "palavra": "despejar"
+        },
+        {
+            "palavra": "degenerar"
+        },
+        {
+            "palavra": "ventosa"
+        },
+        {
+            "palavra": "solteirona"
+        },
+        {
+            "palavra": "ronco"
+        },
+        {
+            "palavra": "renegar"
+        },
+        {
+            "palavra": "raivoso"
+        },
+        {
+            "palavra": "piquetes"
+        },
+        {
+            "palavra": "massacrar"
+        },
+        {
+            "palavra": "geléia"
+        },
+        {
+            "palavra": "dump"
+        },
+        {
+            "palavra": "deslealdade"
+        },
+        {
+            "palavra": "desistências"
+        },
+        {
+            "palavra": "curinga"
+        },
+        {
+            "palavra": "castrado"
+        },
+        {
+            "palavra": "zombaria"
+        },
+        {
+            "palavra": "zomba"
+        },
+        {
+            "palavra": "turva"
+        },
+        {
+            "palavra": "torcido"
+        },
+        {
+            "palavra": "tonto"
+        },
+        {
+            "palavra": "onerosa"
+        },
+        {
+            "palavra": "malévolo"
+        },
+        {
+            "palavra": "intransponível"
+        },
+        {
+            "palavra": "instigador"
+        },
+        {
+            "palavra": "freneticamente"
+        },
+        {
+            "palavra": "extremismo"
+        },
+        {
+            "palavra": "despótico"
+        },
+        {
+            "palavra": "desorientado"
+        },
+        {
+            "palavra": "desmaio"
+        },
+        {
+            "palavra": "congelou"
+        },
+        {
+            "palavra": "cold"
+        },
+        {
+            "palavra": "carpa"
+        },
+        {
+            "palavra": "assobio"
+        },
+        {
+            "palavra": "opressivo"
+        },
+        {
+            "palavra": "machucando"
+        },
+        {
+            "palavra": "desfavor"
+        },
+        {
+            "palavra": "derramando"
+        },
+        {
+            "palavra": "coringa"
+        },
+        {
+            "palavra": "congelação"
+        },
+        {
+            "palavra": "calmaria"
+        },
+        {
+            "palavra": "assombrar"
+        },
+        {
+            "palavra": "vazar"
+        },
+        {
+            "palavra": "torções"
+        },
+        {
+            "palavra": "pain"
+        },
+        {
+            "palavra": "obsessive"
+        },
+        {
+            "palavra": "negligente"
+        },
+        {
+            "palavra": "mortificação"
+        },
+        {
+            "palavra": "mentirosos"
+        },
+        {
+            "palavra": "inquietante"
+        },
+        {
+            "palavra": "falsificado"
+        },
+        {
+            "palavra": "conspirador"
+        },
+        {
+            "palavra": "atroz"
+        },
+        {
+            "palavra": "arruinando"
+        },
+        {
+            "palavra": "tombar"
+        },
+        {
+            "palavra": "rasgo"
+        },
+        {
+            "palavra": "negligenciar"
+        },
+        {
+            "palavra": "loss"
+        },
+        {
+            "palavra": "insignificância"
+        },
+        {
+            "palavra": "inchado"
+        },
+        {
+            "palavra": "flerte"
+        },
+        {
+            "palavra": "dói"
+        },
+        {
+            "palavra": "deturpação"
+        },
+        {
+            "palavra": "contaminando"
+        },
+        {
+            "palavra": "canibal"
+        },
+        {
+            "palavra": "alienar"
+        },
+        {
+            "palavra": "ultraje"
+        },
+        {
+            "palavra": "repreensão"
+        },
+        {
+            "palavra": "nebuloso"
+        },
+        {
+            "palavra": "manchar"
+        },
+        {
+            "palavra": "indisposição"
+        },
+        {
+            "palavra": "fiction"
+        },
+        {
+            "palavra": "exorbitante"
+        },
+        {
+            "palavra": "estrangular"
+        },
+        {
+            "palavra": "dolorosamente"
+        },
+        {
+            "palavra": "diagonalmente"
+        },
+        {
+            "palavra": "desiludidos"
+        },
+        {
+            "palavra": "apologistas"
+        },
+        {
+            "palavra": "valentões"
+        },
+        {
+            "palavra": "torrent"
+        },
+        {
+            "palavra": "threat"
+        },
+        {
+            "palavra": "tease"
+        },
+        {
+            "palavra": "tanks"
+        },
+        {
+            "palavra": "sujar"
+        },
+        {
+            "palavra": "sufocante"
+        },
+        {
+            "palavra": "queixaram"
+        },
+        {
+            "palavra": "lesma"
+        },
+        {
+            "palavra": "fosco"
+        },
+        {
+            "palavra": "extorquir"
+        },
+        {
+            "palavra": "evil"
+        },
+        {
+            "palavra": "ensopado"
+        },
+        {
+            "palavra": "damage"
+        },
+        {
+            "palavra": "adulterado"
+        },
+        {
+            "palavra": "tropeçar"
+        },
+        {
+            "palavra": "roer"
+        },
+        {
+            "palavra": "ridiculariza"
+        },
+        {
+            "palavra": "putrefação"
+        },
+        {
+            "palavra": "proscrito"
+        },
+        {
+            "palavra": "fuck"
+        },
+        {
+            "palavra": "estola"
+        },
+        {
+            "palavra": "envergonhar"
+        },
+        {
+            "palavra": "endurecer"
+        },
+        {
+            "palavra": "delinquência"
+        },
+        {
+            "palavra": "coxo"
+        },
+        {
+            "palavra": "charlatão"
+        },
+        {
+            "palavra": "sorry"
+        },
+        {
+            "palavra": "resignado"
+        },
+        {
+            "palavra": "remorsos"
+        },
+        {
+            "palavra": "rachar"
+        },
+        {
+            "palavra": "punitivo"
+        },
+        {
+            "palavra": "pecar"
+        },
+        {
+            "palavra": "insalubre"
+        },
+        {
+            "palavra": "infâmia"
+        },
+        {
+            "palavra": "implacavelmente"
+        },
+        {
+            "palavra": "hediondo"
+        },
+        {
+            "palavra": "furão"
+        },
+        {
+            "palavra": "funky"
+        },
+        {
+            "palavra": "endurecido"
+        },
+        {
+            "palavra": "distraindo"
+        },
+        {
+            "palavra": "cheirar"
+        },
+        {
+            "palavra": "breaking"
+        },
+        {
+            "palavra": "attacks"
+        },
+        {
+            "palavra": "arcano"
+        },
+        {
+            "palavra": "torturando"
+        },
+        {
+            "palavra": "supersticioso"
+        },
+        {
+            "palavra": "regredir"
+        },
+        {
+            "palavra": "refutando"
+        },
+        {
+            "palavra": "podridão"
+        },
+        {
+            "palavra": "obscurecida"
+        },
+        {
+            "palavra": "ménage"
+        },
+        {
+            "palavra": "limit"
+        },
+        {
+            "palavra": "irracionalidade"
+        },
+        {
+            "palavra": "estragado"
+        },
+        {
+            "palavra": "cassar"
+        },
+        {
+            "palavra": "altivo"
+        },
+        {
+            "palavra": "vague"
+        },
+        {
+            "palavra": "sedentário"
+        },
+        {
+            "palavra": "macular"
+        },
+        {
+            "palavra": "ingénuo"
+        },
+        {
+            "palavra": "inexoravelmente"
+        },
+        {
+            "palavra": "gagueira"
+        },
+        {
+            "palavra": "esporádico"
+        },
+        {
+            "palavra": "crasso"
+        },
+        {
+            "palavra": "colidindo"
+        },
+        {
+            "palavra": "cloud"
+        },
+        {
+            "palavra": "travesso"
+        },
+        {
+            "palavra": "temerário"
+        },
+        {
+            "palavra": "shock"
+        },
+        {
+            "palavra": "selvageria"
+        },
+        {
+            "palavra": "mortalha"
+        },
+        {
+            "palavra": "lunático"
+        },
+        {
+            "palavra": "infértil"
+        },
+        {
+            "palavra": "indistinguível"
+        },
+        {
+            "palavra": "estalo"
+        },
+        {
+            "palavra": "enganoso"
+        },
+        {
+            "palavra": "descontroladamente"
+        },
+        {
+            "palavra": "arranhão"
+        },
+        {
+            "palavra": "undefined"
+        },
+        {
+            "palavra": "subestimar"
+        },
+        {
+            "palavra": "rudeza"
+        },
+        {
+            "palavra": "reticente"
+        },
+        {
+            "palavra": "libertinagem"
+        },
+        {
+            "palavra": "gorduroso"
+        },
+        {
+            "palavra": "fumble"
+        },
+        {
+            "palavra": "dire"
+        },
+        {
+            "palavra": "desrespeitoso"
+        },
+        {
+            "palavra": "carbúnculo"
+        },
+        {
+            "palavra": "zombando"
+        },
+        {
+            "palavra": "sacudir"
+        },
+        {
+            "palavra": "promíscuo"
+        },
+        {
+            "palavra": "pedante"
+        },
+        {
+            "palavra": "paranoia"
+        },
+        {
+            "palavra": "necessitado"
+        },
+        {
+            "palavra": "lag"
+        },
+        {
+            "palavra": "indisciplinado"
+        },
+        {
+            "palavra": "ilusório"
+        },
+        {
+            "palavra": "granulado"
+        },
+        {
+            "palavra": "esfaquear"
+        },
+        {
+            "palavra": "dungeons"
+        },
+        {
+            "palavra": "desordenadamente"
+        },
+        {
+            "palavra": "apático"
+        },
+        {
+            "palavra": "subserviente"
+        },
+        {
+            "palavra": "ruidoso"
+        },
+        {
+            "palavra": "regressivo"
+        },
+        {
+            "palavra": "pressentimento"
+        },
+        {
+            "palavra": "nefasto"
+        },
+        {
+            "palavra": "morno"
+        },
+        {
+            "palavra": "menosprezar"
+        },
+        {
+            "palavra": "maçante"
+        },
+        {
+            "palavra": "insuficientemente"
+        },
+        {
+            "palavra": "infundado"
+        },
+        {
+            "palavra": "inflacionário"
+        },
+        {
+            "palavra": "incapacitar"
+        },
+        {
+            "palavra": "heterodoxo"
+        },
+        {
+            "palavra": "fivela"
+        },
+        {
+            "palavra": "emagrecer"
+        },
+        {
+            "palavra": "doer"
+        },
+        {
+            "palavra": "discriminado"
+        },
+        {
+            "palavra": "babaca"
+        },
+        {
+            "palavra": "arrasador"
+        },
+        {
+            "palavra": "repugnância"
+        },
+        {
+            "palavra": ""
+        }
+    ]
+}

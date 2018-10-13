@@ -1,0 +1,5356 @@
+{
+    "palavras": [
+        {
+            "palavra": "admirável"
+        },
+        {
+            "palavra": "adorável"
+        },
+        {
+            "palavra": "agradável"
+        },
+        {
+            "palavra": "alegre"
+        },
+        {
+            "palavra": "alucinante"
+        },
+        {
+            "palavra": "apaixonante"
+        },
+        {
+            "palavra": "apoteótico"
+        },
+        {
+            "palavra": "ardente"
+        },
+        {
+            "palavra": "arrasador"
+        },
+        {
+            "palavra": "arrebatador"
+        },
+        {
+            "palavra": "astuto"
+        },
+        {
+            "palavra": "atemporal"
+        },
+        {
+            "palavra": "aterrador"
+        },
+        {
+            "palavra": "atraente"
+        },
+        {
+            "palavra": "atual"
+        },
+        {
+            "palavra": "atuar"
+        },
+        {
+            "palavra": "autêntico"
+        },
+        {
+            "palavra": "avassalador"
+        },
+        {
+            "palavra": "bacana"
+        },
+        {
+            "palavra": "bárbaro"
+        },
+        {
+            "palavra": "batuta"
+        },
+        {
+            "palavra": "belíssimo"
+        },
+        {
+            "palavra": "belo"
+        },
+        {
+            "palavra": "bem"
+        },
+        {
+            "palavra": "bem-humorado"
+        },
+        {
+            "palavra": "bom"
+        },
+        {
+            "palavra": "bonito"
+        },
+        {
+            "palavra": "brilhante"
+        },
+        {
+            "palavra": "carinhoso"
+        },
+        {
+            "palavra": "carismático"
+        },
+        {
+            "palavra": "cativante"
+        },
+        {
+            "palavra": "cativar"
+        },
+        {
+            "palavra": "certo"
+        },
+        {
+            "palavra": "claro"
+        },
+        {
+            "palavra": "classe"
+        },
+        {
+            "palavra": "clássico"
+        },
+        {
+            "palavra": "coerente"
+        },
+        {
+            "palavra": "comédia"
+        },
+        {
+            "palavra": "cômico"
+        },
+        {
+            "palavra": "comovente"
+        },
+        {
+            "palavra": "compreensível"
+        },
+        {
+            "palavra": "comum"
+        },
+        {
+            "palavra": "consistente"
+        },
+        {
+            "palavra": "contagiante"
+        },
+        {
+            "palavra": "contemporâneo"
+        },
+        {
+            "palavra": "contente"
+        },
+        {
+            "palavra": "convincente"
+        },
+        {
+            "palavra": "corajoso"
+        },
+        {
+            "palavra": "criativo"
+        },
+        {
+            "palavra": "crivar"
+        },
+        {
+            "palavra": "curto"
+        },
+        {
+            "palavra": "decente"
+        },
+        {
+            "palavra": "delicado"
+        },
+        {
+            "palavra": "delicioso"
+        },
+        {
+            "palavra": "demais"
+        },
+        {
+            "palavra": "denso"
+        },
+        {
+            "palavra": "desafiador"
+        },
+        {
+            "palavra": "despretensioso"
+        },
+        {
+            "palavra": "devanear"
+        },
+        {
+            "palavra": "digno"
+        },
+        {
+            "palavra": "dinâmico"
+        },
+        {
+            "palavra": "direto"
+        },
+        {
+            "palavra": "distrativo"
+        },
+        {
+            "palavra": "divertido"
+        },
+        {
+            "palavra": "divino"
+        },
+        {
+            "palavra": "doce"
+        },
+        {
+            "palavra": "duro"
+        },
+        {
+            "palavra": "elegante"
+        },
+        {
+            "palavra": "eletrizante"
+        },
+        {
+            "palavra": "emocionante"
+        },
+        {
+            "palavra": "empolgante"
+        },
+        {
+            "palavra": "encantador"
+        },
+        {
+            "palavra": "encantável"
+        },
+        {
+            "palavra": "engenhoso"
+        },
+        {
+            "palavra": "engraçado"
+        },
+        {
+            "palavra": "enigmático"
+        },
+        {
+            "palavra": "enriquecedor"
+        },
+        {
+            "palavra": "envolvente"
+        },
+        {
+            "palavra": "especial"
+        },
+        {
+            "palavra": "esperto"
+        },
+        {
+            "palavra": "espetacular"
+        },
+        {
+            "palavra": "espirituoso"
+        },
+        {
+            "palavra": "esplêndido"
+        },
+        {
+            "palavra": "essa"
+        },
+        {
+            "palavra": "estonteante"
+        },
+        {
+            "palavra": "excelente"
+        },
+        {
+            "palavra": "excepcional"
+        },
+        {
+            "palavra": "excitante"
+        },
+        {
+            "palavra": "exemplar"
+        },
+        {
+            "palavra": "extraordinário"
+        },
+        {
+            "palavra": "fabuloso"
+        },
+        {
+            "palavra": "face"
+        },
+        {
+            "palavra": "fácil"
+        },
+        {
+            "palavra": "fama"
+        },
+        {
+            "palavra": "fantástico"
+        },
+        {
+            "palavra": "fascinante"
+        },
+        {
+            "palavra": "fascinate"
+        },
+        {
+            "palavra": "favorito"
+        },
+        {
+            "palavra": "feliz"
+        },
+        {
+            "palavra": "fluente"
+        },
+        {
+            "palavra": "fluido"
+        },
+        {
+            "palavra": "foda"
+        },
+        {
+            "palavra": "fofo"
+        },
+        {
+            "palavra": "forte"
+        },
+        {
+            "palavra": "frenético"
+        },
+        {
+            "palavra": "fundamental"
+        },
+        {
+            "palavra": "genial"
+        },
+        {
+            "palavra": "gostoso"
+        },
+        {
+            "palavra": "gotoso"
+        },
+        {
+            "palavra": "grande"
+        },
+        {
+            "palavra": "grandioso"
+        },
+        {
+            "palavra": "gratificante"
+        },
+        {
+            "palavra": "grato"
+        },
+        {
+            "palavra": "hilário"
+        },
+        {
+            "palavra": "humano"
+        },
+        {
+            "palavra": "ideal"
+        },
+        {
+            "palavra": "imcompar"
+        },
+        {
+            "palavra": "impactante"
+        },
+        {
+            "palavra": "impagável"
+        },
+        {
+            "palavra": "impar"
+        },
+        {
+            "palavra": "ímpar"
+        },
+        {
+            "palavra": "impecável"
+        },
+        {
+            "palavra": "imperdível"
+        },
+        {
+            "palavra": "importante"
+        },
+        {
+            "palavra": "impressionante"
+        },
+        {
+            "palavra": "inabalável"
+        },
+        {
+            "palavra": "inacreditável"
+        },
+        {
+            "palavra": "incrível"
+        },
+        {
+            "palavra": "indescritível"
+        },
+        {
+            "palavra": "indispensável"
+        },
+        {
+            "palavra": "inédito"
+        },
+        {
+            "palavra": "inesquecível"
+        },
+        {
+            "palavra": "infalível"
+        },
+        {
+            "palavra": "inovador"
+        },
+        {
+            "palavra": "inquietante"
+        },
+        {
+            "palavra": "inquieto"
+        },
+        {
+            "palavra": "inspirador"
+        },
+        {
+            "palavra": "instigante"
+        },
+        {
+            "palavra": "instingar"
+        },
+        {
+            "palavra": "inteligente"
+        },
+        {
+            "palavra": "intenso"
+        },
+        {
+            "palavra": "interessante"
+        },
+        {
+            "palavra": "íntimo"
+        },
+        {
+            "palavra": "intrigante"
+        },
+        {
+            "palavra": "irado"
+        },
+        {
+            "palavra": "irônico"
+        },
+        {
+            "palavra": "irresistível"
+        },
+        {
+            "palavra": "jovial"
+        },
+        {
+            "palavra": "legal"
+        },
+        {
+            "palavra": "legítimo"
+        },
+        {
+            "palavra": "leve"
+        },
+        {
+            "palavra": "liça"
+        },
+        {
+            "palavra": "light"
+        },
+        {
+            "palavra": "linda"
+        },
+        {
+            "palavra": "lindo"
+        },
+        {
+            "palavra": "lírico"
+        },
+        {
+            "palavra": "mágico"
+        },
+        {
+            "palavra": "magistral"
+        },
+        {
+            "palavra": "magnético"
+        },
+        {
+            "palavra": "magnificar"
+        },
+        {
+            "palavra": "magnífico"
+        },
+        {
+            "palavra": "majestoso"
+        },
+        {
+            "palavra": "maravilha"
+        },
+        {
+            "palavra": "maravilhoso"
+        },
+        {
+            "palavra": "marcante"
+        },
+        {
+            "palavra": "massa"
+        },
+        {
+            "palavra": "máximo"
+        },
+        {
+            "palavra": "melífluo"
+        },
+        {
+            "palavra": "memorável"
+        },
+        {
+            "palavra": "minucioso"
+        },
+        {
+            "palavra": "misterioso"
+        },
+        {
+            "palavra": "moderno"
+        },
+        {
+            "palavra": "notável"
+        },
+        {
+            "palavra": "novo"
+        },
+        {
+            "palavra": "obra"
+        },
+        {
+            "palavra": "ode"
+        },
+        {
+            "palavra": "original"
+        },
+        {
+            "palavra": "òtimo"
+        },
+        {
+            "palavra": "palpável"
+        },
+        {
+            "palavra": "passável"
+        },
+        {
+            "palavra": "perfeito"
+        },
+        {
+            "palavra": "pertinente"
+        },
+        {
+            "palavra": "plausível"
+        },
+        {
+            "palavra": "poderoso"
+        },
+        {
+            "palavra": "poético"
+        },
+        {
+            "palavra": "pontual"
+        },
+        {
+            "palavra": "positivo"
+        },
+        {
+            "palavra": "precioso"
+        },
+        {
+            "palavra": "predileto"
+        },
+        {
+            "palavra": "primo"
+        },
+        {
+            "palavra": "primoroso"
+        },
+        {
+            "palavra": "profético"
+        },
+        {
+            "palavra": "profundo"
+        },
+        {
+            "palavra": "pungente"
+        },
+        {
+            "palavra": "rápido"
+        },
+        {
+            "palavra": "raro"
+        },
+        {
+            "palavra": "razoável"
+        },
+        {
+            "palavra": "real"
+        },
+        {
+            "palavra": "realista"
+        },
+        {
+            "palavra": "realístico"
+        },
+        {
+            "palavra": "recente"
+        },
+        {
+            "palavra": "recomendável"
+        },
+        {
+            "palavra": "reflexivo"
+        },
+        {
+            "palavra": "relaxante"
+        },
+        {
+            "palavra": "relevante"
+        },
+        {
+            "palavra": "rico"
+        },
+        {
+            "palavra": "sagaz"
+        },
+        {
+            "palavra": "satisfatório"
+        },
+        {
+            "palavra": "seco"
+        },
+        {
+            "palavra": "sedutor"
+        },
+        {
+            "palavra": "seguro"
+        },
+        {
+            "palavra": "sensacional"
+        },
+        {
+            "palavra": "sensível"
+        },
+        {
+            "palavra": "sensual"
+        },
+        {
+            "palavra": "sentimental"
+        },
+        {
+            "palavra": "sério"
+        },
+        {
+            "palavra": "sexy"
+        },
+        {
+            "palavra": "significativo"
+        },
+        {
+            "palavra": "simples"
+        },
+        {
+            "palavra": "sincero"
+        },
+        {
+            "palavra": "singelo"
+        },
+        {
+            "palavra": "singular"
+        },
+        {
+            "palavra": "sólido"
+        },
+        {
+            "palavra": "sublime"
+        },
+        {
+            "palavra": "subversivo"
+        },
+        {
+            "palavra": "surpreso"
+        },
+        {
+            "palavra": "surreal"
+        },
+        {
+            "palavra": "teres"
+        },
+        {
+            "palavra": "tocante"
+        },
+        {
+            "palavra": "tranqüilo"
+        },
+        {
+            "palavra": "translúcido"
+        },
+        {
+            "palavra": "último"
+        },
+        {
+            "palavra": "válido"
+        },
+        {
+            "palavra": "verdadeiro"
+        },
+        {
+            "palavra": "verossímil"
+        },
+        {
+            "palavra": "vertiginoso"
+        },
+        {
+            "palavra": "viciante"
+        },
+        {
+            "palavra": "vicioso"
+        },
+        {
+            "palavra": "vigoroso"
+        },
+        {
+            "palavra": "visceral"
+        },
+        {
+            "palavra": "vital"
+        },
+        {
+            "palavra": "voraz "
+        },
+        {
+            "palavra": "arrasador"
+        },
+        {
+            "palavra": "aterrorizante"
+        },
+        {
+            "palavra": "assustador"
+        },
+        {
+            "palavra": "angustiante"
+        },
+        {
+            "palavra": "compulsivo"
+        },
+        {
+            "palavra": "frenético"
+        },
+        {
+            "palavra": "imprevisível;"
+        },
+        {
+            "palavra": "surpreendente"
+        },
+        {
+            "palavra": "sufocante"
+        },
+        {
+            "palavra": "perturbador"
+        },
+        {
+            "palavra": "sombrio"
+        },
+        {
+            "palavra": "abrir a mente"
+        },
+        {
+            "palavra": "abrir a minha mente"
+        },
+        {
+            "palavra": "amor à primeira vista"
+        },
+        {
+            "palavra": "arrancar lágrimas"
+        },
+        {
+            "palavra": "arrancar risadas"
+        },
+        {
+            "palavra": "arrancar gargalhadas"
+        },
+        {
+            "palavra": "capturar a atenção"
+        },
+        {
+            "palavra": "chamar a atenção"
+        },
+        {
+            "palavra": "com chave de ouro"
+        },
+        {
+            "palavra": "dar certo"
+        },
+        {
+            "palavra": "de corpo e alma"
+        },
+        {
+            "palavra": "de encher os olhos"
+        },
+        {
+            "palavra": "de fazer inveja"
+        },
+        {
+            "palavra": "de tirar o fôlego"
+        },
+        {
+            "palavra": "deixar de boca aberta"
+        },
+        {
+            "palavra": "estar louco para"
+        },
+        {
+            "palavra": "faltar adjetivos "
+        },
+        {
+            "palavra": "faltar palavras"
+        },
+        {
+            "palavra": "fazer pensar"
+        },
+        {
+            "palavra": "fora de série"
+        },
+        {
+            "palavra": "gostinho de quero mais"
+        },
+        {
+            "palavra": "grata surpresa"
+        },
+        {
+            "palavra": "ir a nocaute"
+        },
+        {
+            "palavra": "lindo de morrer"
+        },
+        {
+            "palavra": "morrer de rir"
+        },
+        {
+            "palavra": "não ter adjetivos para"
+        },
+        {
+            "palavra": "pra ninguém botar defeito"
+        },
+        {
+            "palavra": "ser show"
+        },
+        {
+            "palavra": "ser um show"
+        },
+        {
+            "palavra": "ser um achado"
+        },
+        {
+            "palavra": "ser um tapa na cara"
+        },
+        {
+            "palavra": "soco na boca de o estômago"
+        },
+        {
+            "palavra": "ter fôlego"
+        },
+        {
+            "palavra": "tudo de bom"
+        },
+        {
+            "palavra": "valer cada N"
+        },
+        {
+            "palavra": "valer a pena "
+        },
+        {
+            "palavra": "alegria"
+        },
+        {
+            "palavra": "astúcia"
+        },
+        {
+            "palavra": "atemporalidade"
+        },
+        {
+            "palavra": "beleza"
+        },
+        {
+            "palavra": "bem-estar"
+        },
+        {
+            "palavra": "best-seller"
+        },
+        {
+            "palavra": "brilho"
+        },
+        {
+            "palavra": "carisma"
+        },
+        {
+            "palavra": "clímax"
+        },
+        {
+            "palavra": "companheirismo"
+        },
+        {
+            "palavra": "compreensão"
+        },
+        {
+            "palavra": "deleite"
+        },
+        {
+            "palavra": "densidade"
+        },
+        {
+            "palavra": "diferencial"
+        },
+        {
+            "palavra": "diversão"
+        },
+        {
+            "palavra": "doçura"
+        },
+        {
+            "palavra": "emoção"
+        },
+        {
+            "palavra": "empatia"
+        },
+        {
+            "palavra": "entusiasmo"
+        },
+        {
+            "palavra": "envolvente"
+        },
+        {
+            "palavra": "êxtase"
+        },
+        {
+            "palavra": "fã"
+        },
+        {
+            "palavra": "facilidade"
+        },
+        {
+            "palavra": "fascinação"
+        },
+        {
+            "palavra": "favorito"
+        },
+        {
+            "palavra": "fluência"
+        },
+        {
+            "palavra": "fluidez"
+        },
+        {
+            "palavra": "genialidade"
+        },
+        {
+            "palavra": "gostinho"
+        },
+        {
+            "palavra": "grandeza"
+        },
+        {
+            "palavra": "inteligência"
+        },
+        {
+            "palavra": "ironia"
+        },
+        {
+            "palavra": "jóia"
+        },
+        {
+            "palavra": "magnetismo"
+        },
+        {
+            "palavra": "mérito"
+        },
+        {
+            "palavra": "obra-prima"
+        },
+        {
+            "palavra": "originalidade"
+        },
+        {
+            "palavra": "paixão"
+        },
+        {
+            "palavra": "perfeição"
+        },
+        {
+            "palavra": "prazer"
+        },
+        {
+            "palavra": "predileto"
+        },
+        {
+            "palavra": "preferido"
+        },
+        {
+            "palavra": "primor"
+        },
+        {
+            "palavra": "sensibilidade"
+        },
+        {
+            "palavra": "sufocamento"
+        },
+        {
+            "palavra": "talento"
+        },
+        {
+            "palavra": "taquicardia"
+        },
+        {
+            "palavra": "ternura"
+        },
+        {
+            "palavra": "top"
+        },
+        {
+            "palavra": "virtude"
+        },
+        {
+            "palavra": "adorar"
+        },
+        {
+            "palavra": "agradar"
+        },
+        {
+            "palavra": "amadurecer"
+        },
+        {
+            "palavra": "amar"
+        },
+        {
+            "palavra": "animar"
+        },
+        {
+            "palavra": "apaixonar"
+        },
+        {
+            "palavra": "apegar"
+        },
+        {
+            "palavra": "apreciar"
+        },
+        {
+            "palavra": "aprender"
+        },
+        {
+            "palavra": "arrebatar"
+        },
+        {
+            "palavra": "arrebentar"
+        },
+        {
+            "palavra": "atrair"
+        },
+        {
+            "palavra": "cativar"
+        },
+        {
+            "palavra": "conquistar"
+        },
+        {
+            "palavra": "curtir"
+        },
+        {
+            "palavra": "deliciar"
+        },
+        {
+            "palavra": "destacar-se"
+        },
+        {
+            "palavra": "divertir"
+        },
+        {
+            "palavra": "emocionar"
+        },
+        {
+            "palavra": "emplacar"
+        },
+        {
+            "palavra": "empolgar"
+        },
+        {
+            "palavra": "encantar"
+        },
+        {
+            "palavra": "enternecer"
+        },
+        {
+            "palavra": "entreter"
+        },
+        {
+            "palavra": "facilitar"
+        },
+        {
+            "palavra": "fascinar"
+        },
+        {
+            "palavra": "fluir"
+        },
+        {
+            "palavra": "gostar"
+        },
+        {
+            "palavra": "identificar"
+        },
+        {
+            "palavra": "impressionar"
+        },
+        {
+            "palavra": "inovar"
+        },
+        {
+            "palavra": "recomendar"
+        },
+        {
+            "palavra": "sensibilizar"
+        },
+        {
+            "palavra": "simpatizar"
+        },
+        {
+            "palavra": "valorizar"
+        },
+        {
+            "palavra": "vibrar"
+        },
+        {
+            "palavra": "viciar"
+        },
+        {
+            "palavra": "apavorar"
+        },
+        {
+            "palavra": "brilhar"
+        },
+        {
+            "palavra": "comover"
+        },
+        {
+            "palavra": "devorar"
+        },
+        {
+            "palavra": "prender"
+        },
+        {
+            "palavra": "rir"
+        },
+        {
+            "palavra": "saborear"
+        },
+        {
+            "palavra": "surpreender"
+        },
+        {
+            "palavra": "tocar"
+        },
+        {
+            "palavra": "como"
+        },
+        {
+            "palavra": "ser"
+        },
+        {
+            "palavra": "são"
+        },
+        {
+            "palavra": "já"
+        },
+        {
+            "palavra": "muito"
+        },
+        {
+            "palavra": "grande"
+        },
+        {
+            "palavra": "principal"
+        },
+        {
+            "palavra": "maior"
+        },
+        {
+            "palavra": "bem"
+        },
+        {
+            "palavra": "música"
+        },
+        {
+            "palavra": "conhecido"
+        },
+        {
+            "palavra": "trabalho"
+        },
+        {
+            "palavra": "melhor"
+        },
+        {
+            "palavra": "canção"
+        },
+        {
+            "palavra": "sucesso"
+        },
+        {
+            "palavra": "tipo"
+        },
+        {
+            "palavra": "obra"
+        },
+        {
+            "palavra": "importante"
+        },
+        {
+            "palavra": "obras"
+        },
+        {
+            "palavra": "oficial"
+        },
+        {
+            "palavra": "feito"
+        },
+        {
+            "palavra": "personagem"
+        },
+        {
+            "palavra": "possível"
+        },
+        {
+            "palavra": "espaço"
+        },
+        {
+            "palavra": "direito"
+        },
+        {
+            "palavra": "boa"
+        },
+        {
+            "palavra": "campeão"
+        },
+        {
+            "palavra": "bastante"
+        },
+        {
+            "palavra": "forte"
+        },
+        {
+            "palavra": "ganhou"
+        },
+        {
+            "palavra": "energia"
+        },
+        {
+            "palavra": "personagens"
+        },
+        {
+            "palavra": "valor"
+        },
+        {
+            "palavra": "apoio"
+        },
+        {
+            "palavra": "superior"
+        },
+        {
+            "palavra": "jovem"
+        },
+        {
+            "palavra": "dar"
+        },
+        {
+            "palavra": "ouro"
+        },
+        {
+            "palavra": "capacidade"
+        },
+        {
+            "palavra": "favor"
+        },
+        {
+            "palavra": "ajuda"
+        },
+        {
+            "palavra": "realizado"
+        },
+        {
+            "palavra": "real"
+        },
+        {
+            "palavra": "bom"
+        },
+        {
+            "palavra": "vivo"
+        },
+        {
+            "palavra": "livre"
+        },
+        {
+            "palavra": "influência"
+        },
+        {
+            "palavra": "levou"
+        },
+        {
+            "palavra": "fonte"
+        },
+        {
+            "palavra": "vitória"
+        },
+        {
+            "palavra": "marca"
+        },
+        {
+            "palavra": "economia"
+        },
+        {
+            "palavra": "saber"
+        },
+        {
+            "palavra": "fé"
+        },
+        {
+            "palavra": "homenagem"
+        },
+        {
+            "palavra": "trabalhar"
+        },
+        {
+            "palavra": "respeito"
+        },
+        {
+            "palavra": "contrato"
+        },
+        {
+            "palavra": "unidade"
+        },
+        {
+            "palavra": "proposta"
+        },
+        {
+            "palavra": "amor"
+        },
+        {
+            "palavra": "famoso"
+        },
+        {
+            "palavra": "domínio"
+        },
+        {
+            "palavra": "segurança"
+        },
+        {
+            "palavra": "prova"
+        },
+        {
+            "palavra": "rapidamente"
+        },
+        {
+            "palavra": "abertura"
+        },
+        {
+            "palavra": "trabalhou"
+        },
+        {
+            "palavra": "simplesmente"
+        },
+        {
+            "palavra": "certo"
+        },
+        {
+            "palavra": "capaz"
+        },
+        {
+            "palavra": "humano"
+        },
+        {
+            "palavra": "leva"
+        },
+        {
+            "palavra": "semelhante"
+        },
+        {
+            "palavra": "ajudar"
+        },
+        {
+            "palavra": "prêmio"
+        },
+        {
+            "palavra": "direita"
+        },
+        {
+            "palavra": "realizar"
+        },
+        {
+            "palavra": "claro"
+        },
+        {
+            "palavra": "começo"
+        },
+        {
+            "palavra": "paz"
+        },
+        {
+            "palavra": "liberdade"
+        },
+        {
+            "palavra": "levar"
+        },
+        {
+            "palavra": "cima"
+        },
+        {
+            "palavra": "suficiente"
+        },
+        {
+            "palavra": "derrota"
+        },
+        {
+            "palavra": "capitão"
+        },
+        {
+            "palavra": "fãs"
+        },
+        {
+            "palavra": "proteção"
+        },
+        {
+            "palavra": "mestre"
+        },
+        {
+            "palavra": "ganhar"
+        },
+        {
+            "palavra": "precisa"
+        },
+        {
+            "palavra": "topo"
+        },
+        {
+            "palavra": "prêmios"
+        },
+        {
+            "palavra": "disponível"
+        },
+        {
+            "palavra": "realização"
+        },
+        {
+            "palavra": "verdadeiro"
+        },
+        {
+            "palavra": "clássico"
+        },
+        {
+            "palavra": "sair"
+        },
+        {
+            "palavra": "variedade"
+        },
+        {
+            "palavra": "fácil"
+        },
+        {
+            "palavra": "vencedor"
+        },
+        {
+            "palavra": "imediatamente"
+        },
+        {
+            "palavra": "rápido"
+        },
+        {
+            "palavra": "feira"
+        },
+        {
+            "palavra": "destino"
+        },
+        {
+            "palavra": "pensamento"
+        },
+        {
+            "palavra": "reforma"
+        },
+        {
+            "palavra": "facilmente"
+        },
+        {
+            "palavra": "econômico"
+        },
+        {
+            "palavra": "suporte"
+        },
+        {
+            "palavra": "aumentar"
+        },
+        {
+            "palavra": "lança"
+        },
+        {
+            "palavra": "advogado"
+        },
+        {
+            "palavra": "moderno"
+        },
+        {
+            "palavra": "defender"
+        },
+        {
+            "palavra": "honra"
+        },
+        {
+            "palavra": "notável"
+        },
+        {
+            "palavra": "habilidade"
+        },
+        {
+            "palavra": "doce"
+        },
+        {
+            "palavra": "interesses"
+        },
+        {
+            "palavra": "beleza"
+        },
+        {
+            "palavra": "melhorar"
+        },
+        {
+            "palavra": "top"
+        },
+        {
+            "palavra": "destaca"
+        },
+        {
+            "palavra": "ajudou"
+        },
+        {
+            "palavra": "liderança"
+        },
+        {
+            "palavra": "sucessos"
+        },
+        {
+            "palavra": "nobre"
+        },
+        {
+            "palavra": "herói"
+        },
+        {
+            "palavra": "senhor"
+        },
+        {
+            "palavra": "preciso"
+        },
+        {
+            "palavra": "fama"
+        },
+        {
+            "palavra": "equivalente"
+        },
+        {
+            "palavra": "derrotado"
+        },
+        {
+            "palavra": "criador"
+        },
+        {
+            "palavra": "proteger"
+        },
+        {
+            "palavra": "super"
+        },
+        {
+            "palavra": "emprego"
+        },
+        {
+            "palavra": "calor"
+        },
+        {
+            "palavra": "orientação"
+        },
+        {
+            "palavra": "limpeza"
+        },
+        {
+            "palavra": "céu"
+        },
+        {
+            "palavra": "afluente"
+        },
+        {
+            "palavra": "dono"
+        },
+        {
+            "palavra": "direto"
+        },
+        {
+            "palavra": "exatamente"
+        },
+        {
+            "palavra": "justiça"
+        },
+        {
+            "palavra": "integrante"
+        },
+        {
+            "palavra": "moda"
+        },
+        {
+            "palavra": "dedicado"
+        },
+        {
+            "palavra": "legal"
+        },
+        {
+            "palavra": "ganha"
+        },
+        {
+            "palavra": "poderoso"
+        },
+        {
+            "palavra": "vantagem"
+        },
+        {
+            "palavra": "relevo"
+        },
+        {
+            "palavra": "excelente"
+        },
+        {
+            "palavra": "aparecer"
+        },
+        {
+            "palavra": "marcas"
+        },
+        {
+            "palavra": "interessante"
+        },
+        {
+            "palavra": "quente"
+        },
+        {
+            "palavra": "rica"
+        },
+        {
+            "palavra": "aprovação"
+        },
+        {
+            "palavra": "ideal"
+        },
+        {
+            "palavra": "garantir"
+        },
+        {
+            "palavra": "gosto"
+        },
+        {
+            "palavra": "ativo"
+        },
+        {
+            "palavra": "útil"
+        },
+        {
+            "palavra": "amplamente"
+        },
+        {
+            "palavra": "recuperar"
+        },
+        {
+            "palavra": "equilíbrio"
+        },
+        {
+            "palavra": "rico"
+        },
+        {
+            "palavra": "ganhando"
+        },
+        {
+            "palavra": "espiritual"
+        },
+        {
+            "palavra": "claramente"
+        },
+        {
+            "palavra": "derrotar"
+        },
+        {
+            "palavra": "visível"
+        },
+        {
+            "palavra": "destacado"
+        },
+        {
+            "palavra": "virtude"
+        },
+        {
+            "palavra": "considerar"
+        },
+        {
+            "palavra": "humor"
+        },
+        {
+            "palavra": "inspiração"
+        },
+        {
+            "palavra": "contribuição"
+        },
+        {
+            "palavra": "recurso"
+        },
+        {
+            "palavra": "negócio"
+        },
+        {
+            "palavra": "reformas"
+        },
+        {
+            "palavra": "recuperação"
+        },
+        {
+            "palavra": "confiança"
+        },
+        {
+            "palavra": "right"
+        },
+        {
+            "palavra": "impressão"
+        },
+        {
+            "palavra": "elite"
+        },
+        {
+            "palavra": "inteligência"
+        },
+        {
+            "palavra": "riqueza"
+        },
+        {
+            "palavra": "zero"
+        },
+        {
+            "palavra": "flor"
+        },
+        {
+            "palavra": "vencedores"
+        },
+        {
+            "palavra": "avanço"
+        },
+        {
+            "palavra": "leve"
+        },
+        {
+            "palavra": "paciente"
+        },
+        {
+            "palavra": "brilhante"
+        },
+        {
+            "palavra": "atender"
+        },
+        {
+            "palavra": "precisamente"
+        },
+        {
+            "palavra": "talento"
+        },
+        {
+            "palavra": "chance"
+        },
+        {
+            "palavra": "destacou"
+        },
+        {
+            "palavra": "santo"
+        },
+        {
+            "palavra": "aumenta"
+        },
+        {
+            "palavra": "continuidade"
+        },
+        {
+            "palavra": "sorte"
+        },
+        {
+            "palavra": "bela"
+        },
+        {
+            "palavra": "aprovado"
+        },
+        {
+            "palavra": "atração"
+        },
+        {
+            "palavra": "célebre"
+        },
+        {
+            "palavra": "integrado"
+        },
+        {
+            "palavra": "amplo"
+        },
+        {
+            "palavra": "gosta"
+        },
+        {
+            "palavra": "progresso"
+        },
+        {
+            "palavra": "auxílio"
+        },
+        {
+            "palavra": "paixão"
+        },
+        {
+            "palavra": "correto"
+        },
+        {
+            "palavra": "apoiar"
+        },
+        {
+            "palavra": "elevação"
+        },
+        {
+            "palavra": "distinção"
+        },
+        {
+            "palavra": "essencial"
+        },
+        {
+            "palavra": "feliz"
+        },
+        {
+            "palavra": "imediato"
+        },
+        {
+            "palavra": "reputação"
+        },
+        {
+            "palavra": "justamente"
+        },
+        {
+            "palavra": "integral"
+        },
+        {
+            "palavra": "magia"
+        },
+        {
+            "palavra": "provar"
+        },
+        {
+            "palavra": "ordenado"
+        },
+        {
+            "palavra": "significativo"
+        },
+        {
+            "palavra": "facilitar"
+        },
+        {
+            "palavra": "crédito"
+        },
+        {
+            "palavra": "mantida"
+        },
+        {
+            "palavra": "fantasia"
+        },
+        {
+            "palavra": "funcionar"
+        },
+        {
+            "palavra": "facilidade"
+        },
+        {
+            "palavra": "namorada"
+        },
+        {
+            "palavra": "inteligente"
+        },
+        {
+            "palavra": "iluminação"
+        },
+        {
+            "palavra": "prestígio"
+        },
+        {
+            "palavra": "eficiente"
+        },
+        {
+            "palavra": "dinâmica"
+        },
+        {
+            "palavra": "adequado"
+        },
+        {
+            "palavra": "progressivo"
+        },
+        {
+            "palavra": "sucedeu"
+        },
+        {
+            "palavra": "afirmação"
+        },
+        {
+            "palavra": "estável"
+        },
+        {
+            "palavra": "cura"
+        },
+        {
+            "palavra": "alimento"
+        },
+        {
+            "palavra": "positivo"
+        },
+        {
+            "palavra": "fiel"
+        },
+        {
+            "palavra": "profundamente"
+        },
+        {
+            "palavra": "pronto"
+        },
+        {
+            "palavra": "benefícios"
+        },
+        {
+            "palavra": "assegurar"
+        },
+        {
+            "palavra": "pró"
+        },
+        {
+            "palavra": "seguro"
+        },
+        {
+            "palavra": "bônus"
+        },
+        {
+            "palavra": "ganho"
+        },
+        {
+            "palavra": "madrugada"
+        },
+        {
+            "palavra": "afirmar"
+        },
+        {
+            "palavra": "profundo"
+        },
+        {
+            "palavra": "defensor"
+        },
+        {
+            "palavra": "premiado"
+        },
+        {
+            "palavra": "estabilidade"
+        },
+        {
+            "palavra": "fortuna"
+        },
+        {
+            "palavra": "prémio"
+        },
+        {
+            "palavra": "libertação"
+        },
+        {
+            "palavra": "animado"
+        },
+        {
+            "palavra": "compromisso"
+        },
+        {
+            "palavra": "válido"
+        },
+        {
+            "palavra": "eficiência"
+        },
+        {
+            "palavra": "basta"
+        },
+        {
+            "palavra": "instrumental"
+        },
+        {
+            "palavra": "vantagens"
+        },
+        {
+            "palavra": "perfeito"
+        },
+        {
+            "palavra": "sobrevivência"
+        },
+        {
+            "palavra": "sensação"
+        },
+        {
+            "palavra": "melhoria"
+        },
+        {
+            "palavra": "parecido"
+        },
+        {
+            "palavra": "efetivamente"
+        },
+        {
+            "palavra": "franco"
+        },
+        {
+            "palavra": "consideração"
+        },
+        {
+            "palavra": "perfeitamente"
+        },
+        {
+            "palavra": "Paraíso"
+        },
+        {
+            "palavra": "favorável"
+        },
+        {
+            "palavra": "preparar"
+        },
+        {
+            "palavra": "defensores"
+        },
+        {
+            "palavra": "preparado"
+        },
+        {
+            "palavra": "eficaz"
+        },
+        {
+            "palavra": "promessa"
+        },
+        {
+            "palavra": "luxo"
+        },
+        {
+            "palavra": "sólido"
+        },
+        {
+            "palavra": "melhorias"
+        },
+        {
+            "palavra": "influente"
+        },
+        {
+            "palavra": "impulso"
+        },
+        {
+            "palavra": "harmonia"
+        },
+        {
+            "palavra": "puro"
+        },
+        {
+            "palavra": "belo"
+        },
+        {
+            "palavra": "comemoração"
+        },
+        {
+            "palavra": "alegria"
+        },
+        {
+            "palavra": "celebração"
+        },
+        {
+            "palavra": "marcante"
+        },
+        {
+            "palavra": "derrotas"
+        },
+        {
+            "palavra": "vasto"
+        },
+        {
+            "palavra": "graça"
+        },
+        {
+            "palavra": "prazer"
+        },
+        {
+            "palavra": "corrigir"
+        },
+        {
+            "palavra": "revolucionário"
+        },
+        {
+            "palavra": "revelação"
+        },
+        {
+            "palavra": "sagrado"
+        },
+        {
+            "palavra": "singular"
+        },
+        {
+            "palavra": "cumprimento"
+        },
+        {
+            "palavra": "abundância"
+        },
+        {
+            "palavra": "garantia"
+        },
+        {
+            "palavra": "protecção"
+        },
+        {
+            "palavra": "derrotando"
+        },
+        {
+            "palavra": "superar"
+        },
+        {
+            "palavra": "apaixonado"
+        },
+        {
+            "palavra": "benefício"
+        },
+        {
+            "palavra": "guerreiro"
+        },
+        {
+            "palavra": "aquecimento"
+        },
+        {
+            "palavra": "coragem"
+        },
+        {
+            "palavra": "talentos"
+        },
+        {
+            "palavra": "ama"
+        },
+        {
+            "palavra": "avançado"
+        },
+        {
+            "palavra": "brilho"
+        },
+        {
+            "palavra": "ótimo"
+        },
+        {
+            "palavra": "santuário"
+        },
+        {
+            "palavra": "romântico"
+        },
+        {
+            "palavra": "caridade"
+        },
+        {
+            "palavra": "proeminente"
+        },
+        {
+            "palavra": "inovação"
+        },
+        {
+            "palavra": "disposto"
+        },
+        {
+            "palavra": "felicidade"
+        },
+        {
+            "palavra": "avanços"
+        },
+        {
+            "palavra": "abundante"
+        },
+        {
+            "palavra": "exemplar"
+        },
+        {
+            "palavra": "acessível"
+        },
+        {
+            "palavra": "ídolo"
+        },
+        {
+            "palavra": "suportar"
+        },
+        {
+            "palavra": "nascer"
+        },
+        {
+            "palavra": "corretamente"
+        },
+        {
+            "palavra": "grandeza"
+        },
+        {
+            "palavra": "mérito"
+        },
+        {
+            "palavra": "conduzir"
+        },
+        {
+            "palavra": "favorito"
+        },
+        {
+            "palavra": "suave"
+        },
+        {
+            "palavra": "complementar"
+        },
+        {
+            "palavra": "mágico"
+        },
+        {
+            "palavra": "aclamado"
+        },
+        {
+            "palavra": "condução"
+        },
+        {
+            "palavra": "libertar"
+        },
+        {
+            "palavra": "suficientemente"
+        },
+        {
+            "palavra": "tesouro"
+        },
+        {
+            "palavra": "dourada"
+        },
+        {
+            "palavra": "emoções"
+        },
+        {
+            "palavra": "sabedoria"
+        },
+        {
+            "palavra": "tração"
+        },
+        {
+            "palavra": "restaurar"
+        },
+        {
+            "palavra": "excelência"
+        },
+        {
+            "palavra": "apropriado"
+        },
+        {
+            "palavra": "dignidade"
+        },
+        {
+            "palavra": "firme"
+        },
+        {
+            "palavra": "educado"
+        },
+        {
+            "palavra": "amistoso"
+        },
+        {
+            "palavra": "impressionante"
+        },
+        {
+            "palavra": "incrível"
+        },
+        {
+            "palavra": "lendário"
+        },
+        {
+            "palavra": "orgulho"
+        },
+        {
+            "palavra": "sensível"
+        },
+        {
+            "palavra": "resgatar"
+        },
+        {
+            "palavra": "eficácia"
+        },
+        {
+            "palavra": "experiente"
+        },
+        {
+            "palavra": "recomendação"
+        },
+        {
+            "palavra": "aproveitar"
+        },
+        {
+            "palavra": "glória"
+        },
+        {
+            "palavra": "dominado"
+        },
+        {
+            "palavra": "gratuito"
+        },
+        {
+            "palavra": "prosperidade"
+        },
+        {
+            "palavra": "santa"
+        },
+        {
+            "palavra": "sólida"
+        },
+        {
+            "palavra": "recomendações"
+        },
+        {
+            "palavra": "sustentável"
+        },
+        {
+            "palavra": "fidelidade"
+        },
+        {
+            "palavra": "preferencialmente"
+        },
+        {
+            "palavra": "chumbo"
+        },
+        {
+            "palavra": "cobrir"
+        },
+        {
+            "palavra": "vigilância"
+        },
+        {
+            "palavra": "prático"
+        },
+        {
+            "palavra": "recompensa"
+        },
+        {
+            "palavra": "anjo"
+        },
+        {
+            "palavra": "troféu"
+        },
+        {
+            "palavra": "vital"
+        },
+        {
+            "palavra": "correção"
+        },
+        {
+            "palavra": "compatível"
+        },
+        {
+            "palavra": "concorrer"
+        },
+        {
+            "palavra": "razoável"
+        },
+        {
+            "palavra": "agradável"
+        },
+        {
+            "palavra": "celebrado"
+        },
+        {
+            "palavra": "conforto"
+        },
+        {
+            "palavra": "dourado"
+        },
+        {
+            "palavra": "justo"
+        },
+        {
+            "palavra": "Premier"
+        },
+        {
+            "palavra": "silêncio"
+        },
+        {
+            "palavra": "novidade"
+        },
+        {
+            "palavra": "lealdade"
+        },
+        {
+            "palavra": "renome"
+        },
+        {
+            "palavra": "triunfo"
+        },
+        {
+            "palavra": "bonita"
+        },
+        {
+            "palavra": "melhora"
+        },
+        {
+            "palavra": "restaurado"
+        },
+        {
+            "palavra": "decisivo"
+        },
+        {
+            "palavra": "realista"
+        },
+        {
+            "palavra": "imenso"
+        },
+        {
+            "palavra": "estelar"
+        },
+        {
+            "palavra": "libertado"
+        },
+        {
+            "palavra": "elogios"
+        },
+        {
+            "palavra": "resistente"
+        },
+        {
+            "palavra": "positivos"
+        },
+        {
+            "palavra": "sobrevivente"
+        },
+        {
+            "palavra": "ícone"
+        },
+        {
+            "palavra": "informado"
+        },
+        {
+            "palavra": "distinto"
+        },
+        {
+            "palavra": "negociar"
+        },
+        {
+            "palavra": "racional"
+        },
+        {
+            "palavra": "surpreendente"
+        },
+        {
+            "palavra": "mágica"
+        },
+        {
+            "palavra": "heroína"
+        },
+        {
+            "palavra": "poço"
+        },
+        {
+            "palavra": "divino"
+        },
+        {
+            "palavra": "emoção"
+        },
+        {
+            "palavra": "livrar"
+        },
+        {
+            "palavra": "celebrar"
+        },
+        {
+            "palavra": "consistente"
+        },
+        {
+            "palavra": "trabalhador"
+        },
+        {
+            "palavra": "gratuitamente"
+        },
+        {
+            "palavra": "desportivo"
+        },
+        {
+            "palavra": "seriamente"
+        },
+        {
+            "palavra": "diversão"
+        },
+        {
+            "palavra": "homenageado"
+        },
+        {
+            "palavra": "legalmente"
+        },
+        {
+            "palavra": "entusiasmo"
+        },
+        {
+            "palavra": "beber"
+        },
+        {
+            "palavra": "abertamente"
+        },
+        {
+            "palavra": "estimular"
+        },
+        {
+            "palavra": "tolerância"
+        },
+        {
+            "palavra": "teólogo"
+        },
+        {
+            "palavra": "legítimo"
+        },
+        {
+            "palavra": "promotor"
+        },
+        {
+            "palavra": "maturidade"
+        },
+        {
+            "palavra": "celeste"
+        },
+        {
+            "palavra": "amoroso"
+        },
+        {
+            "palavra": "ultrapassar"
+        },
+        {
+            "palavra": "abrangente"
+        },
+        {
+            "palavra": "exato"
+        },
+        {
+            "palavra": "ganhos"
+        },
+        {
+            "palavra": "pacto"
+        },
+        {
+            "palavra": "lógico"
+        },
+        {
+            "palavra": "supremo"
+        },
+        {
+            "palavra": "admiração"
+        },
+        {
+            "palavra": "calma"
+        },
+        {
+            "palavra": "fino"
+        },
+        {
+            "palavra": "satisfazer"
+        },
+        {
+            "palavra": "autorizado"
+        },
+        {
+            "palavra": "confiável"
+        },
+        {
+            "palavra": "eterna"
+        },
+        {
+            "palavra": "prefere"
+        },
+        {
+            "palavra": "temperado"
+        },
+        {
+            "palavra": "elegante"
+        },
+        {
+            "palavra": "pronta"
+        },
+        {
+            "palavra": "realizações"
+        },
+        {
+            "palavra": "ilustre"
+        },
+        {
+            "palavra": "bonito"
+        },
+        {
+            "palavra": "monumental"
+        },
+        {
+            "palavra": "notavelmente"
+        },
+        {
+            "palavra": "saudável"
+        },
+        {
+            "palavra": "perfeição"
+        },
+        {
+            "palavra": "excepcional"
+        },
+        {
+            "palavra": "liderar"
+        },
+        {
+            "palavra": "fértil"
+        },
+        {
+            "palavra": "incentivar"
+        },
+        {
+            "palavra": "alegre"
+        },
+        {
+            "palavra": "favorita"
+        },
+        {
+            "palavra": "amada"
+        },
+        {
+            "palavra": "paciência"
+        },
+        {
+            "palavra": "superioridade"
+        },
+        {
+            "palavra": "engenho"
+        },
+        {
+            "palavra": "renascimento"
+        },
+        {
+            "palavra": "fair"
+        },
+        {
+            "palavra": "potente"
+        },
+        {
+            "palavra": "solid"
+        },
+        {
+            "palavra": "inovador"
+        },
+        {
+            "palavra": "reestruturação"
+        },
+        {
+            "palavra": "gênio"
+        },
+        {
+            "palavra": "extraordinário"
+        },
+        {
+            "palavra": "dinâmico"
+        },
+        {
+            "palavra": "promete"
+        },
+        {
+            "palavra": "autônoma"
+        },
+        {
+            "palavra": "privilégio"
+        },
+        {
+            "palavra": "substancial"
+        },
+        {
+            "palavra": "sucedendo"
+        },
+        {
+            "palavra": "respeitar"
+        },
+        {
+            "palavra": "solidariedade"
+        },
+        {
+            "palavra": "protetor"
+        },
+        {
+            "palavra": "prover"
+        },
+        {
+            "palavra": "flexibilidade"
+        },
+        {
+            "palavra": "abraço"
+        },
+        {
+            "palavra": "vitorioso"
+        },
+        {
+            "palavra": "best"
+        },
+        {
+            "palavra": "desejar"
+        },
+        {
+            "palavra": "complemento"
+        },
+        {
+            "palavra": "preferido"
+        },
+        {
+            "palavra": "criativo"
+        },
+        {
+            "palavra": "adoração"
+        },
+        {
+            "palavra": "colorido"
+        },
+        {
+            "palavra": "superou"
+        },
+        {
+            "palavra": "domina"
+        },
+        {
+            "palavra": "autônomo"
+        },
+        {
+            "palavra": "digno"
+        },
+        {
+            "palavra": "melhorado"
+        },
+        {
+            "palavra": "reformado"
+        },
+        {
+            "palavra": "milagre"
+        },
+        {
+            "palavra": "criativa"
+        },
+        {
+            "palavra": "curar"
+        },
+        {
+            "palavra": "eterno"
+        },
+        {
+            "palavra": "sábio"
+        },
+        {
+            "palavra": "atualizado"
+        },
+        {
+            "palavra": "elevar"
+        },
+        {
+            "palavra": "inocente"
+        },
+        {
+            "palavra": "gostar"
+        },
+        {
+            "palavra": "portátil"
+        },
+        {
+            "palavra": "lírico"
+        },
+        {
+            "palavra": "facilita"
+        },
+        {
+            "palavra": "imparcial"
+        },
+        {
+            "palavra": "flexível"
+        },
+        {
+            "palavra": "agilidade"
+        },
+        {
+            "palavra": "conveniente"
+        },
+        {
+            "palavra": "liberdades"
+        },
+        {
+            "palavra": "afinidade"
+        },
+        {
+            "palavra": "paraíso"
+        },
+        {
+            "palavra": "imparcialidade"
+        },
+        {
+            "palavra": "prontamente"
+        },
+        {
+            "palavra": "viável"
+        },
+        {
+            "palavra": "transparente"
+        },
+        {
+            "palavra": "impressionado"
+        },
+        {
+            "palavra": "jejum"
+        },
+        {
+            "palavra": "divertido"
+        },
+        {
+            "palavra": "recomenda"
+        },
+        {
+            "palavra": "amado"
+        },
+        {
+            "palavra": "modesto"
+        },
+        {
+            "palavra": "fiável"
+        },
+        {
+            "palavra": "ambicioso"
+        },
+        {
+            "palavra": "satisfeito"
+        },
+        {
+            "palavra": "atraente"
+        },
+        {
+            "palavra": "provado"
+        },
+        {
+            "palavra": "amigável"
+        },
+        {
+            "palavra": "limpar"
+        },
+        {
+            "palavra": "barato"
+        },
+        {
+            "palavra": "veracidade"
+        },
+        {
+            "palavra": "supremacia"
+        },
+        {
+            "palavra": "limpa"
+        },
+        {
+            "palavra": "comemorado"
+        },
+        {
+            "palavra": "agudo"
+        },
+        {
+            "palavra": "like"
+        },
+        {
+            "palavra": "erudito"
+        },
+        {
+            "palavra": "amar"
+        },
+        {
+            "palavra": "preferindo"
+        },
+        {
+            "palavra": "free"
+        },
+        {
+            "palavra": "coerente"
+        },
+        {
+            "palavra": "flutuante"
+        },
+        {
+            "palavra": "produtivo"
+        },
+        {
+            "palavra": "carinho"
+        },
+        {
+            "palavra": "apreciado"
+        },
+        {
+            "palavra": "leal"
+        },
+        {
+            "palavra": "aprovar"
+        },
+        {
+            "palavra": "bovino"
+        },
+        {
+            "palavra": "originalidade"
+        },
+        {
+            "palavra": "fresco"
+        },
+        {
+            "palavra": "engraçado"
+        },
+        {
+            "palavra": "apreciar"
+        },
+        {
+            "palavra": "substantivo"
+        },
+        {
+            "palavra": "milagres"
+        },
+        {
+            "palavra": "competitivo"
+        },
+        {
+            "palavra": "atrativo"
+        },
+        {
+            "palavra": "comprovado"
+        },
+        {
+            "palavra": "garantias"
+        },
+        {
+            "palavra": "limpo"
+        },
+        {
+            "palavra": "ultrapassou"
+        },
+        {
+            "palavra": "valioso"
+        },
+        {
+            "palavra": "qualificado"
+        },
+        {
+            "palavra": "místico"
+        },
+        {
+            "palavra": "íntimo"
+        },
+        {
+            "palavra": "ganhador"
+        },
+        {
+            "palavra": "aclamação"
+        },
+        {
+            "palavra": "memorável"
+        },
+        {
+            "palavra": "louvor"
+        },
+        {
+            "palavra": "beneficiar"
+        },
+        {
+            "palavra": "renovar"
+        },
+        {
+            "palavra": "gentil"
+        },
+        {
+            "palavra": "barata"
+        },
+        {
+            "palavra": "confortável"
+        },
+        {
+            "palavra": "suceder"
+        },
+        {
+            "palavra": "arrumar"
+        },
+        {
+            "palavra": "firmemente"
+        },
+        {
+            "palavra": "bravura"
+        },
+        {
+            "palavra": "razoavelmente"
+        },
+        {
+            "palavra": "patrão"
+        },
+        {
+            "palavra": "ligeiro"
+        },
+        {
+            "palavra": "querido"
+        },
+        {
+            "palavra": "fantástico"
+        },
+        {
+            "palavra": "prometido"
+        },
+        {
+            "palavra": "calmo"
+        },
+        {
+            "palavra": "sustentabilidade"
+        },
+        {
+            "palavra": "confiabilidade"
+        },
+        {
+            "palavra": "clareza"
+        },
+        {
+            "palavra": "preferida"
+        },
+        {
+            "palavra": "energético"
+        },
+        {
+            "palavra": "confiar"
+        },
+        {
+            "palavra": "voluntariamente"
+        },
+        {
+            "palavra": "diplomático"
+        },
+        {
+            "palavra": "renovada"
+        },
+        {
+            "palavra": "ágil"
+        },
+        {
+            "palavra": "hábil"
+        },
+        {
+            "palavra": "reto"
+        },
+        {
+            "palavra": "pacífico"
+        },
+        {
+            "palavra": "aliviar"
+        },
+        {
+            "palavra": "maduro"
+        },
+        {
+            "palavra": "acolher"
+        },
+        {
+            "palavra": "alívio"
+        },
+        {
+            "palavra": "espetacular"
+        },
+        {
+            "palavra": "reviver"
+        },
+        {
+            "palavra": "conveniência"
+        },
+        {
+            "palavra": "agradecimento"
+        },
+        {
+            "palavra": "positivamente"
+        },
+        {
+            "palavra": "firmar"
+        },
+        {
+            "palavra": "esplendor"
+        },
+        {
+            "palavra": "simplificada"
+        },
+        {
+            "palavra": "amo"
+        },
+        {
+            "palavra": "diversificado"
+        },
+        {
+            "palavra": "reconciliação"
+        },
+        {
+            "palavra": "talentoso"
+        },
+        {
+            "palavra": "obsessão"
+        },
+        {
+            "palavra": "alimentando"
+        },
+        {
+            "palavra": "bênção"
+        },
+        {
+            "palavra": "sensações"
+        },
+        {
+            "palavra": "favorecer"
+        },
+        {
+            "palavra": "sensual"
+        },
+        {
+            "palavra": "coerência"
+        },
+        {
+            "palavra": "exuberante"
+        },
+        {
+            "palavra": "remédio"
+        },
+        {
+            "palavra": "empreendedor"
+        },
+        {
+            "palavra": "simpático"
+        },
+        {
+            "palavra": "assegurando"
+        },
+        {
+            "palavra": "agradar"
+        },
+        {
+            "palavra": "bondade"
+        },
+        {
+            "palavra": "ético"
+        },
+        {
+            "palavra": "magnífico"
+        },
+        {
+            "palavra": "lisa"
+        },
+        {
+            "palavra": "suprema"
+        },
+        {
+            "palavra": "privilegiado"
+        },
+        {
+            "palavra": "carisma"
+        },
+        {
+            "palavra": "efectivo"
+        },
+        {
+            "palavra": "moralidade"
+        },
+        {
+            "palavra": "divertir"
+        },
+        {
+            "palavra": "reformar"
+        },
+        {
+            "palavra": "melhoramento"
+        },
+        {
+            "palavra": "poético"
+        },
+        {
+            "palavra": "nutrição"
+        },
+        {
+            "palavra": "perpendicular"
+        },
+        {
+            "palavra": "sorriso"
+        },
+        {
+            "palavra": "sofisticado"
+        },
+        {
+            "palavra": "imprimir"
+        },
+        {
+            "palavra": "emocionante"
+        },
+        {
+            "palavra": "conciliar"
+        },
+        {
+            "palavra": "excitação"
+        },
+        {
+            "palavra": "advogada"
+        },
+        {
+            "palavra": "promissor"
+        },
+        {
+            "palavra": "maravilhas"
+        },
+        {
+            "palavra": "enriquecimento"
+        },
+        {
+            "palavra": "autêntico"
+        },
+        {
+            "palavra": "aspirações"
+        },
+        {
+            "palavra": "love"
+        },
+        {
+            "palavra": "suportado"
+        },
+        {
+            "palavra": "surpreendido"
+        },
+        {
+            "palavra": "aperfeiçoar"
+        },
+        {
+            "palavra": "precioso"
+        },
+        {
+            "palavra": "preferível"
+        },
+        {
+            "palavra": "intimidade"
+        },
+        {
+            "palavra": "misericórdia"
+        },
+        {
+            "palavra": "sexy"
+        },
+        {
+            "palavra": "desfrutar"
+        },
+        {
+            "palavra": "surpreendentemente"
+        },
+        {
+            "palavra": "estimula"
+        },
+        {
+            "palavra": "aventureiro"
+        },
+        {
+            "palavra": "merecer"
+        },
+        {
+            "palavra": "excepcionalmente"
+        },
+        {
+            "palavra": "aprimoramento"
+        },
+        {
+            "palavra": "floração"
+        },
+        {
+            "palavra": "amanhecer"
+        },
+        {
+            "palavra": "sinceramente"
+        },
+        {
+            "palavra": "trompete"
+        },
+        {
+            "palavra": "elegância"
+        },
+        {
+            "palavra": "humildade"
+        },
+        {
+            "palavra": "maravilhosa"
+        },
+        {
+            "palavra": "gentileza"
+        },
+        {
+            "palavra": "refinado"
+        },
+        {
+            "palavra": "versatilidade"
+        },
+        {
+            "palavra": "versátil"
+        },
+        {
+            "palavra": "guiar"
+        },
+        {
+            "palavra": "futurista"
+        },
+        {
+            "palavra": "zelo"
+        },
+        {
+            "palavra": "maravilhoso"
+        },
+        {
+            "palavra": "intencional"
+        },
+        {
+            "palavra": "atento"
+        },
+        {
+            "palavra": "afeto"
+        },
+        {
+            "palavra": "admirador"
+        },
+        {
+            "palavra": "verificável"
+        },
+        {
+            "palavra": "lindo"
+        },
+        {
+            "palavra": "proeminência"
+        },
+        {
+            "palavra": "liso"
+        },
+        {
+            "palavra": "qualificar"
+        },
+        {
+            "palavra": "celestial"
+        },
+        {
+            "palavra": "oásis"
+        },
+        {
+            "palavra": "agradecer"
+        },
+        {
+            "palavra": "progressista"
+        },
+        {
+            "palavra": "incrivelmente"
+        },
+        {
+            "palavra": "estimar"
+        },
+        {
+            "palavra": "animador"
+        },
+        {
+            "palavra": "elogio"
+        },
+        {
+            "palavra": "veloz"
+        },
+        {
+            "palavra": "distintivo"
+        },
+        {
+            "palavra": "ricamente"
+        },
+        {
+            "palavra": "apóia"
+        },
+        {
+            "palavra": "delicado"
+        },
+        {
+            "palavra": "perito"
+        },
+        {
+            "palavra": "prolífico"
+        },
+        {
+            "palavra": "devoto"
+        },
+        {
+            "palavra": "cortesia"
+        },
+        {
+            "palavra": "fast"
+        },
+        {
+            "palavra": "satisfaz"
+        },
+        {
+            "palavra": "grátis"
+        },
+        {
+            "palavra": "entusiasta"
+        },
+        {
+            "palavra": "eminente"
+        },
+        {
+            "palavra": "incondicional"
+        },
+        {
+            "palavra": "jóia"
+        },
+        {
+            "palavra": "calado"
+        },
+        {
+            "palavra": "simplificar"
+        },
+        {
+            "palavra": "robusto"
+        },
+        {
+            "palavra": "charme"
+        },
+        {
+            "palavra": "grandioso"
+        },
+        {
+            "palavra": "saudação"
+        },
+        {
+            "palavra": "enriquecer"
+        },
+        {
+            "palavra": "desejando"
+        },
+        {
+            "palavra": "tranquilo"
+        },
+        {
+            "palavra": "gratidão"
+        },
+        {
+            "palavra": "preferir"
+        },
+        {
+            "palavra": "eternidade"
+        },
+        {
+            "palavra": "cofre"
+        },
+        {
+            "palavra": "beneficente"
+        },
+        {
+            "palavra": "articular"
+        },
+        {
+            "palavra": "honrar"
+        },
+        {
+            "palavra": "seguramente"
+        },
+        {
+            "palavra": "habilidoso"
+        },
+        {
+            "palavra": "otimista"
+        },
+        {
+            "palavra": "boom"
+        },
+        {
+            "palavra": "navegável"
+        },
+        {
+            "palavra": "fresca"
+        },
+        {
+            "palavra": "afeição"
+        },
+        {
+            "palavra": "honestidade"
+        },
+        {
+            "palavra": "parabéns"
+        },
+        {
+            "palavra": "grato"
+        },
+        {
+            "palavra": "provando"
+        },
+        {
+            "palavra": "luxuoso"
+        },
+        {
+            "palavra": "equilibrado"
+        },
+        {
+            "palavra": "querida"
+        },
+        {
+            "palavra": "honesto"
+        },
+        {
+            "palavra": "seletivo"
+        },
+        {
+            "palavra": "inspirar"
+        },
+        {
+            "palavra": "estilizado"
+        },
+        {
+            "palavra": "redenção"
+        },
+        {
+            "palavra": "seduzir"
+        },
+        {
+            "palavra": "generosidade"
+        },
+        {
+            "palavra": "esperto"
+        },
+        {
+            "palavra": "estabilizar"
+        },
+        {
+            "palavra": "encantado"
+        },
+        {
+            "palavra": "admirar"
+        },
+        {
+            "palavra": "próspero"
+        },
+        {
+            "palavra": "ardente"
+        },
+        {
+            "palavra": "acolhimento"
+        },
+        {
+            "palavra": "virtuoso"
+        },
+        {
+            "palavra": "ousadia"
+        },
+        {
+            "palavra": "generoso"
+        },
+        {
+            "palavra": "terno"
+        },
+        {
+            "palavra": "encorajar"
+        },
+        {
+            "palavra": "gostei"
+        },
+        {
+            "palavra": "desejável"
+        },
+        {
+            "palavra": "fluente"
+        },
+        {
+            "palavra": "corajoso"
+        },
+        {
+            "palavra": "honrado"
+        },
+        {
+            "palavra": "adiar"
+        },
+        {
+            "palavra": "folga"
+        },
+        {
+            "palavra": "estimulando"
+        },
+        {
+            "palavra": "compreensível"
+        },
+        {
+            "palavra": "aspiração"
+        },
+        {
+            "palavra": "fielmente"
+        },
+        {
+            "palavra": "work"
+        },
+        {
+            "palavra": "triunfal"
+        },
+        {
+            "palavra": "respeitável"
+        },
+        {
+            "palavra": "impressionar"
+        },
+        {
+            "palavra": "encanto"
+        },
+        {
+            "palavra": "poupança"
+        },
+        {
+            "palavra": "ousado"
+        },
+        {
+            "palavra": "duradouro"
+        },
+        {
+            "palavra": "saliente"
+        },
+        {
+            "palavra": "impulsionar"
+        },
+        {
+            "palavra": "espontâneo"
+        },
+        {
+            "palavra": "goza"
+        },
+        {
+            "palavra": "satisfatório"
+        },
+        {
+            "palavra": "espanto"
+        },
+        {
+            "palavra": "brilhar"
+        },
+        {
+            "palavra": "uniformemente"
+        },
+        {
+            "palavra": "régio"
+        },
+        {
+            "palavra": "heróica"
+        },
+        {
+            "palavra": "formidável"
+        },
+        {
+            "palavra": "inesquecível"
+        },
+        {
+            "palavra": "convincente"
+        },
+        {
+            "palavra": "acalmar"
+        },
+        {
+            "palavra": "sincero"
+        },
+        {
+            "palavra": "orgulhoso"
+        },
+        {
+            "palavra": "luminoso"
+        },
+        {
+            "palavra": "complementa"
+        },
+        {
+            "palavra": "abraçar"
+        },
+        {
+            "palavra": "carismático"
+        },
+        {
+            "palavra": "transe"
+        },
+        {
+            "palavra": "admirável"
+        },
+        {
+            "palavra": "nítida"
+        },
+        {
+            "palavra": "contente"
+        },
+        {
+            "palavra": "gemas"
+        },
+        {
+            "palavra": "prodígio"
+        },
+        {
+            "palavra": "pacificamente"
+        },
+        {
+            "palavra": "articulado"
+        },
+        {
+            "palavra": "gema"
+        },
+        {
+            "palavra": "master"
+        },
+        {
+            "palavra": "aquecer"
+        },
+        {
+            "palavra": "excede"
+        },
+        {
+            "palavra": "felizmente"
+        },
+        {
+            "palavra": "suplementar"
+        },
+        {
+            "palavra": "progredir"
+        },
+        {
+            "palavra": "inofensivo"
+        },
+        {
+            "palavra": "afluência"
+        },
+        {
+            "palavra": "heróico"
+        },
+        {
+            "palavra": "impecável"
+        },
+        {
+            "palavra": "lucrativo"
+        },
+        {
+            "palavra": "indiscutível"
+        },
+        {
+            "palavra": "exaltação"
+        },
+        {
+            "palavra": "agrada"
+        },
+        {
+            "palavra": "favorecido"
+        },
+        {
+            "palavra": "good"
+        },
+        {
+            "palavra": "providência"
+        },
+        {
+            "palavra": "destreza"
+        },
+        {
+            "palavra": "ilimitado"
+        },
+        {
+            "palavra": "valente"
+        },
+        {
+            "palavra": "apreciável"
+        },
+        {
+            "palavra": "vibrante"
+        },
+        {
+            "palavra": "extraordinariamente"
+        },
+        {
+            "palavra": "previdência"
+        },
+        {
+            "palavra": "lisos"
+        },
+        {
+            "palavra": "glorioso"
+        },
+        {
+            "palavra": "fans"
+        },
+        {
+            "palavra": "prudente"
+        },
+        {
+            "palavra": "né"
+        },
+        {
+            "palavra": "varredura"
+        },
+        {
+            "palavra": "salvador"
+        },
+        {
+            "palavra": "divertimento"
+        },
+        {
+            "palavra": "genial"
+        },
+        {
+            "palavra": "surpreender"
+        },
+        {
+            "palavra": "macio"
+        },
+        {
+            "palavra": "Inspirado"
+        },
+        {
+            "palavra": "fascinante"
+        },
+        {
+            "palavra": "euforia"
+        },
+        {
+            "palavra": "cativante"
+        },
+        {
+            "palavra": "well"
+        },
+        {
+            "palavra": "radiante"
+        },
+        {
+            "palavra": "invencibilidade"
+        },
+        {
+            "palavra": "fervor"
+        },
+        {
+            "palavra": "apelar"
+        },
+        {
+            "palavra": "autorizar"
+        },
+        {
+            "palavra": "sinceridade"
+        },
+        {
+            "palavra": "silencioso"
+        },
+        {
+            "palavra": "vantajoso"
+        },
+        {
+            "palavra": "honesta"
+        },
+        {
+            "palavra": "tolerante"
+        },
+        {
+            "palavra": "exceder"
+        },
+        {
+            "palavra": "cooperativo"
+        },
+        {
+            "palavra": "áurea"
+        },
+        {
+            "palavra": "reconciliar"
+        },
+        {
+            "palavra": "prudência"
+        },
+        {
+            "palavra": "benéfico"
+        },
+        {
+            "palavra": "adorado"
+        },
+        {
+            "palavra": "modern"
+        },
+        {
+            "palavra": "reverência"
+        },
+        {
+            "palavra": "prestigioso"
+        },
+        {
+            "palavra": "motivados"
+        },
+        {
+            "palavra": "gozar"
+        },
+        {
+            "palavra": "consistentemente"
+        },
+        {
+            "palavra": "revival"
+        },
+        {
+            "palavra": "invencível"
+        },
+        {
+            "palavra": "trompetista"
+        },
+        {
+            "palavra": "lisas"
+        },
+        {
+            "palavra": "animar"
+        },
+        {
+            "palavra": "sublime"
+        },
+        {
+            "palavra": "otimismo"
+        },
+        {
+            "palavra": "licor"
+        },
+        {
+            "palavra": "maravilha"
+        },
+        {
+            "palavra": "empatia"
+        },
+        {
+            "palavra": "prosperar"
+        },
+        {
+            "palavra": "intriga"
+        },
+        {
+            "palavra": "precise"
+        },
+        {
+            "palavra": "elástico"
+        },
+        {
+            "palavra": "feat"
+        },
+        {
+            "palavra": "personalizado"
+        },
+        {
+            "palavra": "serenidade"
+        },
+        {
+            "palavra": "fundamentado"
+        },
+        {
+            "palavra": "festivo"
+        },
+        {
+            "palavra": "decente"
+        },
+        {
+            "palavra": "granizo"
+        },
+        {
+            "palavra": "topos"
+        },
+        {
+            "palavra": "entusiasmado"
+        },
+        {
+            "palavra": "generosa"
+        },
+        {
+            "palavra": "perseverança"
+        },
+        {
+            "palavra": "amável"
+        },
+        {
+            "palavra": "convenientemente"
+        },
+        {
+            "palavra": "consumado"
+        },
+        {
+            "palavra": "instruído"
+        },
+        {
+            "palavra": "farto"
+        },
+        {
+            "palavra": "sincera"
+        },
+        {
+            "palavra": "facilitado"
+        },
+        {
+            "palavra": "ávido"
+        },
+        {
+            "palavra": "incontestável"
+        },
+        {
+            "palavra": "fiança"
+        },
+        {
+            "palavra": "profusão"
+        },
+        {
+            "palavra": "grand"
+        },
+        {
+            "palavra": "confidente"
+        },
+        {
+            "palavra": "aprecia"
+        },
+        {
+            "palavra": "florescer"
+        },
+        {
+            "palavra": "impressiona"
+        },
+        {
+            "palavra": "genuíno"
+        },
+        {
+            "palavra": "construtivo"
+        },
+        {
+            "palavra": "entreter"
+        },
+        {
+            "palavra": "inestimável"
+        },
+        {
+            "palavra": "personalizar"
+        },
+        {
+            "palavra": "majestade"
+        },
+        {
+            "palavra": "soft"
+        },
+        {
+            "palavra": "materialista"
+        },
+        {
+            "palavra": "êxtase"
+        },
+        {
+            "palavra": "hot"
+        },
+        {
+            "palavra": "florescente"
+        },
+        {
+            "palavra": "adivinhar"
+        },
+        {
+            "palavra": "restituição"
+        },
+        {
+            "palavra": "inoxidável"
+        },
+        {
+            "palavra": "great"
+        },
+        {
+            "palavra": "vigilante"
+        },
+        {
+            "palavra": "vencimento"
+        },
+        {
+            "palavra": "óptimo"
+        },
+        {
+            "palavra": "pelúcia"
+        },
+        {
+            "palavra": "inflamável"
+        },
+        {
+            "palavra": "revitalizar"
+        },
+        {
+            "palavra": "refino"
+        },
+        {
+            "palavra": "quieto"
+        },
+        {
+            "palavra": "modéstia"
+        },
+        {
+            "palavra": "aurora"
+        },
+        {
+            "palavra": "remissão"
+        },
+        {
+            "palavra": "patriota"
+        },
+        {
+            "palavra": "iluminar"
+        },
+        {
+            "palavra": "áureo"
+        },
+        {
+            "palavra": "purificar"
+        },
+        {
+            "palavra": "ânsia"
+        },
+        {
+            "palavra": "eficientemente"
+        },
+        {
+            "palavra": "trunfo"
+        },
+        {
+            "palavra": "brisa"
+        },
+        {
+            "palavra": "encantada"
+        },
+        {
+            "palavra": "diligência"
+        },
+        {
+            "palavra": "tops"
+        },
+        {
+            "palavra": "satisfatoriamente"
+        },
+        {
+            "palavra": "patriótico"
+        },
+        {
+            "palavra": "irresistível"
+        },
+        {
+            "palavra": "intuitivo"
+        },
+        {
+            "palavra": "comodidade"
+        },
+        {
+            "palavra": "oportuno"
+        },
+        {
+            "palavra": "honroso"
+        },
+        {
+            "palavra": "bonus"
+        },
+        {
+            "palavra": "alavancar"
+        },
+        {
+            "palavra": "adorar"
+        },
+        {
+            "palavra": "available"
+        },
+        {
+            "palavra": "tranqüilidade"
+        },
+        {
+            "palavra": "gozo"
+        },
+        {
+            "palavra": "deslumbrante"
+        },
+        {
+            "palavra": "recomendar"
+        },
+        {
+            "palavra": "incomparável"
+        },
+        {
+            "palavra": "delicadeza"
+        },
+        {
+            "palavra": "polido"
+        },
+        {
+            "palavra": "majestoso"
+        },
+        {
+            "palavra": "harmonizar"
+        },
+        {
+            "palavra": "triunfante"
+        },
+        {
+            "palavra": "indubitavelmente"
+        },
+        {
+            "palavra": "enérgico"
+        },
+        {
+            "palavra": "stable"
+        },
+        {
+            "palavra": "aceso"
+        },
+        {
+            "palavra": "visionário"
+        },
+        {
+            "palavra": "pitoresco"
+        },
+        {
+            "palavra": "excitado"
+        },
+        {
+            "palavra": "sanar"
+        },
+        {
+            "palavra": "dócil"
+        },
+        {
+            "palavra": "premier"
+        },
+        {
+            "palavra": "motivar"
+        },
+        {
+            "palavra": "inquestionável"
+        },
+        {
+            "palavra": "inspiradora"
+        },
+        {
+            "palavra": "inigualável"
+        },
+        {
+            "palavra": "benfeitor"
+        },
+        {
+            "palavra": "arrojado"
+        },
+        {
+            "palavra": "revive"
+        },
+        {
+            "palavra": "soberba"
+        },
+        {
+            "palavra": "sedutor"
+        },
+        {
+            "palavra": "prometer"
+        },
+        {
+            "palavra": "doçura"
+        },
+        {
+            "palavra": "claridade"
+        },
+        {
+            "palavra": "atestar"
+        },
+        {
+            "palavra": "pros"
+        },
+        {
+            "palavra": "invejável"
+        },
+        {
+            "palavra": "confiando"
+        },
+        {
+            "palavra": "rosado"
+        },
+        {
+            "palavra": "retificação"
+        },
+        {
+            "palavra": "milagrosamente"
+        },
+        {
+            "palavra": "sensacional"
+        },
+        {
+            "palavra": "reafirmar"
+        },
+        {
+            "palavra": "inteligível"
+        },
+        {
+            "palavra": "greatest"
+        },
+        {
+            "palavra": "finamente"
+        },
+        {
+            "palavra": "solidez"
+        },
+        {
+            "palavra": "eloquência"
+        },
+        {
+            "palavra": "support"
+        },
+        {
+            "palavra": "magistral"
+        },
+        {
+            "palavra": "lead"
+        },
+        {
+            "palavra": "efervescência"
+        },
+        {
+            "palavra": "consolo"
+        },
+        {
+            "palavra": "eternos"
+        },
+        {
+            "palavra": "sucinto"
+        },
+        {
+            "palavra": "exuberância"
+        },
+        {
+            "palavra": "carinhoso"
+        },
+        {
+            "palavra": "better"
+        },
+        {
+            "palavra": "benevolente"
+        },
+        {
+            "palavra": "alegremente"
+        },
+        {
+            "palavra": "brincalhão"
+        },
+        {
+            "palavra": "habilmente"
+        },
+        {
+            "palavra": "cortês"
+        },
+        {
+            "palavra": "galã"
+        },
+        {
+            "palavra": "ardor"
+        },
+        {
+            "palavra": "brilhantemente"
+        },
+        {
+            "palavra": "comovente"
+        },
+        {
+            "palavra": "reestruturar"
+        },
+        {
+            "palavra": "apuradas"
+        },
+        {
+            "palavra": "ventilador"
+        },
+        {
+            "palavra": "benevolência"
+        },
+        {
+            "palavra": "aprimorada"
+        },
+        {
+            "palavra": "surreal"
+        },
+        {
+            "palavra": "fascinação"
+        },
+        {
+            "palavra": "agradecido"
+        },
+        {
+            "palavra": "eternas"
+        },
+        {
+            "palavra": "estábulo"
+        },
+        {
+            "palavra": "adaptativo"
+        },
+        {
+            "palavra": "trombeta"
+        },
+        {
+            "palavra": "ponderar"
+        },
+        {
+            "palavra": "charmoso"
+        },
+        {
+            "palavra": "fabuloso"
+        },
+        {
+            "palavra": "civilidade"
+        },
+        {
+            "palavra": "equidade"
+        },
+        {
+            "palavra": "almofada"
+        },
+        {
+            "palavra": "calouro"
+        },
+        {
+            "palavra": "redimir"
+        },
+        {
+            "palavra": "estranhar"
+        },
+        {
+            "palavra": "beneficiário"
+        },
+        {
+            "palavra": "sã"
+        },
+        {
+            "palavra": "gold"
+        },
+        {
+            "palavra": "infalível"
+        },
+        {
+            "palavra": "descontraído"
+        },
+        {
+            "palavra": "tenacidade"
+        },
+        {
+            "palavra": "satisfazendo"
+        },
+        {
+            "palavra": "elogiar"
+        },
+        {
+            "palavra": "adorável"
+        },
+        {
+            "palavra": "sereno"
+        },
+        {
+            "palavra": "sensato"
+        },
+        {
+            "palavra": "romanticamente"
+        },
+        {
+            "palavra": "harmonioso"
+        },
+        {
+            "palavra": "saudar"
+        },
+        {
+            "palavra": "fenomenal"
+        },
+        {
+            "palavra": "disparate"
+        },
+        {
+            "palavra": "survival"
+        },
+        {
+            "palavra": "requinte"
+        },
+        {
+            "palavra": "revolucionar"
+        },
+        {
+            "palavra": "pêssego"
+        },
+        {
+            "palavra": "works"
+        },
+        {
+            "palavra": "utilizável"
+        },
+        {
+            "palavra": "legível"
+        },
+        {
+            "palavra": "idealmente"
+        },
+        {
+            "palavra": "audível"
+        },
+        {
+            "palavra": "encorajamento"
+        },
+        {
+            "palavra": "amadurecer"
+        },
+        {
+            "palavra": "destemido"
+        },
+        {
+            "palavra": "legitimamente"
+        },
+        {
+            "palavra": "triunfar"
+        },
+        {
+            "palavra": "remediar"
+        },
+        {
+            "palavra": "reestruturado"
+        },
+        {
+            "palavra": "durável"
+        },
+        {
+            "palavra": "afirmativo"
+        },
+        {
+            "palavra": "empolgante"
+        },
+        {
+            "palavra": "desenvoltura"
+        },
+        {
+            "palavra": "delicioso"
+        },
+        {
+            "palavra": "predileto"
+        },
+        {
+            "palavra": "retrátil"
+        },
+        {
+            "palavra": "engenhoso"
+        },
+        {
+            "palavra": "nutrir"
+        },
+        {
+            "palavra": "inclinar"
+        },
+        {
+            "palavra": "destro"
+        },
+        {
+            "palavra": "confortavelmente"
+        },
+        {
+            "palavra": "apoiador"
+        },
+        {
+            "palavra": "admissível"
+        },
+        {
+            "palavra": "panorâmico"
+        },
+        {
+            "palavra": "eloquente"
+        },
+        {
+            "palavra": "sorrir"
+        },
+        {
+            "palavra": "louvável"
+        },
+        {
+            "palavra": "coeso"
+        },
+        {
+            "palavra": "privilegiar"
+        },
+        {
+            "palavra": "important"
+        },
+        {
+            "palavra": "perspicácia"
+        },
+        {
+            "palavra": "irreal"
+        },
+        {
+            "palavra": "esforçando"
+        },
+        {
+            "palavra": "alvorecer"
+        },
+        {
+            "palavra": "simplifica"
+        },
+        {
+            "palavra": "receptivo"
+        },
+        {
+            "palavra": "encantador"
+        },
+        {
+            "palavra": "altruísta"
+        },
+        {
+            "palavra": "tenaz"
+        },
+        {
+            "palavra": "sutilmente"
+        },
+        {
+            "palavra": "seduzido"
+        },
+        {
+            "palavra": "cumprimentar"
+        },
+        {
+            "palavra": "classic"
+        },
+        {
+            "palavra": "adaptável"
+        },
+        {
+            "palavra": "perspicaz"
+        },
+        {
+            "palavra": "indulgência"
+        },
+        {
+            "palavra": "alvorada"
+        },
+        {
+            "palavra": "strong"
+        },
+        {
+            "palavra": "infalibilidade"
+        },
+        {
+            "palavra": "enrolar"
+        },
+        {
+            "palavra": "refinar"
+        },
+        {
+            "palavra": "recompensar"
+        },
+        {
+            "palavra": "inequivocamente"
+        },
+        {
+            "palavra": "destinar"
+        },
+        {
+            "palavra": "requintado"
+        },
+        {
+            "palavra": "fraternal"
+        },
+        {
+            "palavra": "entusiasticamente"
+        },
+        {
+            "palavra": "mestria"
+        },
+        {
+            "palavra": "generosamente"
+        },
+        {
+            "palavra": "tremendamente"
+        },
+        {
+            "palavra": "tender"
+        },
+        {
+            "palavra": "louvar"
+        },
+        {
+            "palavra": "tranqüilo"
+        },
+        {
+            "palavra": "magnificência"
+        },
+        {
+            "palavra": "irrestrito"
+        },
+        {
+            "palavra": "gratificação"
+        },
+        {
+            "palavra": "vivamente"
+        },
+        {
+            "palavra": "gracioso"
+        },
+        {
+            "palavra": "espantoso"
+        },
+        {
+            "palavra": "lustre"
+        },
+        {
+            "palavra": "invulnerável"
+        },
+        {
+            "palavra": "deleite"
+        },
+        {
+            "palavra": "cool"
+        },
+        {
+            "palavra": "calorosamente"
+        },
+        {
+            "palavra": "sagacidade"
+        },
+        {
+            "palavra": "merecimento"
+        },
+        {
+            "palavra": "masters"
+        },
+        {
+            "palavra": "brilhando"
+        },
+        {
+            "palavra": "won"
+        },
+        {
+            "palavra": "calada"
+        },
+        {
+            "palavra": "subsidiar"
+        },
+        {
+            "palavra": "afiado"
+        },
+        {
+            "palavra": "sociável"
+        },
+        {
+            "palavra": "meticulosamente"
+        },
+        {
+            "palavra": "entusiasmada"
+        },
+        {
+            "palavra": "clear"
+        },
+        {
+            "palavra": "adocicado"
+        },
+        {
+            "palavra": "aderente"
+        },
+        {
+            "palavra": "vivaz"
+        },
+        {
+            "palavra": "ready"
+        },
+        {
+            "palavra": "progressive"
+        },
+        {
+            "palavra": "lúcido"
+        },
+        {
+            "palavra": "louvando"
+        },
+        {
+            "palavra": "empolgado"
+        },
+        {
+            "palavra": "eminência"
+        },
+        {
+            "palavra": "award"
+        },
+        {
+            "palavra": "apreciando"
+        },
+        {
+            "palavra": "refrescar"
+        },
+        {
+            "palavra": "espaçoso"
+        },
+        {
+            "palavra": "jovial"
+        },
+        {
+            "palavra": "emotivo"
+        },
+        {
+            "palavra": "conciso"
+        },
+        {
+            "palavra": "incisivo"
+        },
+        {
+            "palavra": "honrando"
+        },
+        {
+            "palavra": "embelezar"
+        },
+        {
+            "palavra": "fun"
+        },
+        {
+            "palavra": "ajustável"
+        },
+        {
+            "palavra": "chique"
+        },
+        {
+            "palavra": "aspirar"
+        },
+        {
+            "palavra": "retumbante"
+        },
+        {
+            "palavra": "ordenança"
+        },
+        {
+            "palavra": "endosso"
+        },
+        {
+            "palavra": "easy"
+        },
+        {
+            "palavra": "consumar"
+        },
+        {
+            "palavra": "simplificando"
+        },
+        {
+            "palavra": "wins"
+        },
+        {
+            "palavra": "sorridente"
+        },
+        {
+            "palavra": "win"
+        },
+        {
+            "palavra": "sabiamente"
+        },
+        {
+            "palavra": "refrescante"
+        },
+        {
+            "palavra": "fabulosa"
+        },
+        {
+            "palavra": "encantar"
+        },
+        {
+            "palavra": "destacável"
+        },
+        {
+            "palavra": "soberbo"
+        },
+        {
+            "palavra": "complementadas"
+        },
+        {
+            "palavra": "avidamente"
+        },
+        {
+            "palavra": "amigavelmente"
+        },
+        {
+            "palavra": "afável"
+        },
+        {
+            "palavra": "respeitoso"
+        },
+        {
+            "palavra": "peace"
+        },
+        {
+            "palavra": "milagroso"
+        },
+        {
+            "palavra": "isqueiro"
+        },
+        {
+            "palavra": "excitar"
+        },
+        {
+            "palavra": "arrumado"
+        },
+        {
+            "palavra": "sadia"
+        },
+        {
+            "palavra": "saboroso"
+        },
+        {
+            "palavra": "corajosamente"
+        },
+        {
+            "palavra": "advogou"
+        },
+        {
+            "palavra": "pináculo"
+        },
+        {
+            "palavra": "ovação"
+        },
+        {
+            "palavra": "suntuoso"
+        },
+        {
+            "palavra": "despistar"
+        },
+        {
+            "palavra": "saborear"
+        },
+        {
+            "palavra": "pontiagudo"
+        },
+        {
+            "palavra": "gratificante"
+        },
+        {
+            "palavra": "conciliador"
+        },
+        {
+            "palavra": "awards"
+        },
+        {
+            "palavra": "apaixonadamente"
+        },
+        {
+            "palavra": "meticuloso"
+        },
+        {
+            "palavra": "cênico"
+        },
+        {
+            "palavra": "intelligent"
+        },
+        {
+            "palavra": "despreocupado"
+        },
+        {
+            "palavra": "barganha"
+        },
+        {
+            "palavra": "suavizar"
+        },
+        {
+            "palavra": "revolucionaram"
+        },
+        {
+            "palavra": "pacientemente"
+        },
+        {
+            "palavra": "decência"
+        },
+        {
+            "palavra": "correct"
+        },
+        {
+            "palavra": "consolar"
+        },
+        {
+            "palavra": "centelha"
+        },
+        {
+            "palavra": "harmoniosamente"
+        },
+        {
+            "palavra": "excedido"
+        },
+        {
+            "palavra": "contribution"
+        },
+        {
+            "palavra": "compreensivo"
+        },
+        {
+            "palavra": "reafirmação"
+        },
+        {
+            "palavra": "penhor"
+        },
+        {
+            "palavra": "led"
+        },
+        {
+            "palavra": "fanfarra"
+        },
+        {
+            "palavra": "divinamente"
+        },
+        {
+            "palavra": "aquecedor"
+        },
+        {
+            "palavra": "angelical"
+        },
+        {
+            "palavra": "talent"
+        },
+        {
+            "palavra": "parabenizar"
+        },
+        {
+            "palavra": "heroicamente"
+        },
+        {
+            "palavra": "happy"
+        },
+        {
+            "palavra": "fine"
+        },
+        {
+            "palavra": "esclarecedor"
+        },
+        {
+            "palavra": "maravilhosamente"
+        },
+        {
+            "palavra": "fofo"
+        },
+        {
+            "palavra": "desejoso"
+        },
+        {
+            "palavra": "chamativo"
+        },
+        {
+            "palavra": "intrincado"
+        },
+        {
+            "palavra": "golden"
+        },
+        {
+            "palavra": "glorificar"
+        },
+        {
+            "palavra": "silenciar"
+        },
+        {
+            "palavra": "honor"
+        },
+        {
+            "palavra": "endividado"
+        },
+        {
+            "palavra": "diligente"
+        },
+        {
+            "palavra": "sobressair"
+        },
+        {
+            "palavra": "sina"
+        },
+        {
+            "palavra": "pródigo"
+        },
+        {
+            "palavra": "arrefecer"
+        },
+        {
+            "palavra": "smart"
+        },
+        {
+            "palavra": "maravilhado"
+        },
+        {
+            "palavra": "hero"
+        },
+        {
+            "palavra": "elegantemente"
+        },
+        {
+            "palavra": "esquentar"
+        },
+        {
+            "palavra": "encostar"
+        },
+        {
+            "palavra": "afecção"
+        },
+        {
+            "palavra": "verossímil"
+        },
+        {
+            "palavra": "imaginativo"
+        },
+        {
+            "palavra": "contentamento"
+        },
+        {
+            "palavra": "sacou"
+        },
+        {
+            "palavra": "crível"
+        },
+        {
+            "palavra": "cortejar"
+        },
+        {
+            "palavra": "aprontar"
+        },
+        {
+            "palavra": "venerar"
+        },
+        {
+            "palavra": "magnificamente"
+        },
+        {
+            "palavra": "magic"
+        },
+        {
+            "palavra": "insinuar"
+        },
+        {
+            "palavra": "hospitaleiro"
+        },
+        {
+            "palavra": "sorrisos"
+        },
+        {
+            "palavra": "resseguro"
+        },
+        {
+            "palavra": "portável"
+        },
+        {
+            "palavra": "frutífero"
+        },
+        {
+            "palavra": "zênite"
+        },
+        {
+            "palavra": "beauty"
+        },
+        {
+            "palavra": "sobrepujar"
+        },
+        {
+            "palavra": "prompt"
+        },
+        {
+            "palavra": "limpador"
+        },
+        {
+            "palavra": "evocativo"
+        },
+        {
+            "palavra": "esmero"
+        },
+        {
+            "palavra": "ardentemente"
+        },
+        {
+            "palavra": "aconchegante"
+        },
+        {
+            "palavra": "inventivo"
+        },
+        {
+            "palavra": "hilário"
+        },
+        {
+            "palavra": "ecstasy"
+        },
+        {
+            "palavra": "luxuriante"
+        },
+        {
+            "palavra": "enough"
+        },
+        {
+            "palavra": "endossar"
+        },
+        {
+            "palavra": "deferência"
+        },
+        {
+            "palavra": "abrandar"
+        },
+        {
+            "palavra": "appeal"
+        },
+        {
+            "palavra": "trust"
+        },
+        {
+            "palavra": "tolerável"
+        },
+        {
+            "palavra": "insubstituível"
+        },
+        {
+            "palavra": "espumante"
+        },
+        {
+            "palavra": "espirituoso"
+        },
+        {
+            "palavra": "clamar"
+        },
+        {
+            "palavra": "assombro"
+        },
+        {
+            "palavra": "acalmá"
+        },
+        {
+            "palavra": "quietude"
+        },
+        {
+            "palavra": "positive"
+        },
+        {
+            "palavra": "graciosamente"
+        },
+        {
+            "palavra": "compactar"
+        },
+        {
+            "palavra": "meticulosa"
+        },
+        {
+            "palavra": "indolor"
+        },
+        {
+            "palavra": "beautiful"
+        },
+        {
+            "palavra": "acurado"
+        },
+        {
+            "palavra": "alegrar"
+        },
+        {
+            "palavra": "progress"
+        },
+        {
+            "palavra": "individualizado"
+        },
+        {
+            "palavra": "champion"
+        },
+        {
+            "palavra": "abençoar"
+        },
+        {
+            "palavra": "success"
+        },
+        {
+            "palavra": "regozijo"
+        },
+        {
+            "palavra": "prodigioso"
+        },
+        {
+            "palavra": "expansivo"
+        },
+        {
+            "palavra": "excitada"
+        },
+        {
+            "palavra": "clean"
+        },
+        {
+            "palavra": "arrebatamento"
+        },
+        {
+            "palavra": "afetuoso"
+        },
+        {
+            "palavra": "skill"
+        },
+        {
+            "palavra": "obsessões"
+        },
+        {
+            "palavra": "gostosa"
+        },
+        {
+            "palavra": "fortuito"
+        },
+        {
+            "palavra": "spiritual"
+        },
+        {
+            "palavra": "poderosamente"
+        },
+        {
+            "palavra": "nice"
+        },
+        {
+            "palavra": "faith"
+        },
+        {
+            "palavra": "bonitinho"
+        },
+        {
+            "palavra": "aplaudir"
+        },
+        {
+            "palavra": "aliviando"
+        },
+        {
+            "palavra": "wonder"
+        },
+        {
+            "palavra": "prosperando"
+        },
+        {
+            "palavra": "intelligence"
+        },
+        {
+            "palavra": "inequívoco"
+        },
+        {
+            "palavra": "acérrimo"
+        },
+        {
+            "palavra": "respeitosamente"
+        },
+        {
+            "palavra": "compact"
+        },
+        {
+            "palavra": "advanced"
+        },
+        {
+            "palavra": "aclamar"
+        },
+        {
+            "palavra": "speedy"
+        },
+        {
+            "palavra": "esbelto"
+        },
+        {
+            "palavra": "safe"
+        },
+        {
+            "palavra": "leading"
+        },
+        {
+            "palavra": "desfrutado"
+        },
+        {
+            "palavra": "clarear"
+        },
+        {
+            "palavra": "misericordioso"
+        },
+        {
+            "palavra": "estonteante"
+        },
+        {
+            "palavra": "atencioso"
+        },
+        {
+            "palavra": "santificado"
+        }
+    ]
+}
